@@ -8,13 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : A High-Functioning Nerd
 tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+author : Eric Chen
+  name : Eric Chen
+  email : eric.jwd.chen@gmail.com
+  github : ericjwdchen
+  twitter : ericjwdchen
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-53347923-1'
     getclicky :
       site_id : 
     mixpanel :
