@@ -27,6 +27,9 @@ feedburner : feedname
 #
 production_url : http://username.github.io
 
+#Changing away from Maruku because no longer supported
+markdown: kramdown
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -127,4 +130,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+
