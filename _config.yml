@@ -11,11 +11,11 @@ pygments: true
 title : A High-Functioning Nerd
 tagline: Site Tagline
 author : Eric Chen
-  name : Eric Chen
-  email : eric.jwd.chen@gmail.com
-  github : ericjwdchen
-  twitter : ericjwdchen
-  feedburner : feedname
+name : Eric Chen
+email : eric.jwd.chen@gmail.com
+github : ericjwdchen
+twitter : ericjwdchen
+feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
