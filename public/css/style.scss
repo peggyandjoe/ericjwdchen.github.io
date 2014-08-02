@@ -536,7 +536,8 @@ a.pagination-item:hover {
   background: #fafafa;
   opacity: 0;
   border-radius: 0.5em;
-  border: 1px solid #c3c3c3;
+  //border: 1px solid #c3c3c3; comment
+  border: 1px solid $red-orange;
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   line-height: 0;
   -webkit-transition: opacity, -webkit-transform;
