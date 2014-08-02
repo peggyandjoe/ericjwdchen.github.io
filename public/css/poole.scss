@@ -19,6 +19,7 @@ $off-white: #dddddd;
 $green-matte: #94B288;
 $green-blue: #005C59;
 $masthead-height: 95px;
+$lighter-grey: #9a9a9a;
 
 * {
   box-sizing: border-box;
@@ -105,14 +106,12 @@ dd {
 hr {
   position: relative;
   margin: 1.5rem 0;
-  border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
 }
 
 hr:after {
-  content: "***";
+  content: "* * *";
   letter-spacing: 200%;
+  color: $lighter-grey;
 }
 
 abbr {
@@ -344,7 +343,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.3rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: $lighter-grey;
 }
 
 /* Related posts */
