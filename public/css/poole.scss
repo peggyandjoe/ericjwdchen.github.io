@@ -110,6 +110,11 @@ hr {
   border-bottom: 1px solid #fff;
 }
 
+hr:after {
+  content: "***";
+  letter-spacing: 200%;
+}
+
 abbr {
   font-size: 85%;
   font-weight: bold;
