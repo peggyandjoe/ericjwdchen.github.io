@@ -1,18 +1,4 @@
 /*
- *                        ___
- *                       /\_ \
- *  _____     ___     ___\//\ \      __
- * /\ '__`\  / __`\  / __`\ \ \   /'__`\
- * \ \ \_\ \/\ \_\ \/\ \_\ \_\ \_/\  __/
- *  \ \ ,__/\ \____/\ \____//\____\ \____\
- *   \ \ \/  \/___/  \/___/ \/____/\/____/
- *    \ \_\
- *     \/_/
- *
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/poole.
- */
-/*
  * Contents
  *
  * Body resets
@@ -26,11 +12,6 @@
  * Themes
  */
 @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-
 html,
 body {
   margin: 0;
@@ -39,7 +20,10 @@ body {
 html {
   font-family: Cardo, sans-serif;
   font-size: 16px;
-  line-height: 1.45; }
+  line-height: 1.45;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
 
 @media (min-width: 38em) {
   html {
@@ -227,7 +211,6 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
   background-color: #f9f9f9; }
 
 /*
@@ -257,8 +240,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 0;
-  color: #505050; }
+  margin-bottom: 0; }
 
 .masthead-title a {
   color: black; }
