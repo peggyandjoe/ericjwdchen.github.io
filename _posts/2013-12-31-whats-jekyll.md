@@ -9,4 +9,6 @@ title: What's Jekyll?
 
 It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
 
-This is some text.[^1]. Other text.[^footnote].
+This is some text.[^1].
+
+[^1]: Some *crazy* footnote definition.
