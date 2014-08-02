@@ -26,6 +26,7 @@ $off-white: #dddddd;
   //used as masthead background color
 $green-matte: #94B288;
 $green-blue: #005C59;
+$zune-brown: #583B2B;
 $masthead-height: 95px;
 $light-grey: #7a7a7a;
 
@@ -736,7 +737,7 @@ a.pagination-item:hover {
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
   background: #fafafa;
-  border: 2px solid $red-orange;
+  border: 2px solid $zune-brown;
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   border-top-left-radius: 0;
 }
