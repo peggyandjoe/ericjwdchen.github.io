@@ -538,7 +538,7 @@ a.pagination-item:hover {
   opacity: 0;
   border-radius: 0.5em;
   //border: 1px solid #c3c3c3; comment
-  border: 1px solid $red-orange;
+  border: 4px solid $zune-brown;
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   line-height: 0;
   -webkit-transition: opacity, -webkit-transform;
@@ -737,7 +737,7 @@ a.pagination-item:hover {
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
   background: #fafafa;
-  border: 2px solid $zune-brown;
+  border: 4px solid $zune-brown;
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   border-top-left-radius: 0;
 }
