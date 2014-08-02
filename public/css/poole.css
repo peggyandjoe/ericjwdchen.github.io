@@ -283,7 +283,12 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030; }
+  color: black; }
+
+.page-title,
+.post-title,
+.post-title a:hover {
+  underline: #94b288; }
 
 .page-title,
 .post-title {
