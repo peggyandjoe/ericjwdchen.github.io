@@ -22,5 +22,5 @@ github:
   repo:           https://github.com/ericjwdchen/ericjwdchen.github.io
 
 sass:
-	sass_dir: public/_sass
+	sass_dir: _sass
 	style: :compressed
