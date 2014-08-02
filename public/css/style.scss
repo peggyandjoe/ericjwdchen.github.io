@@ -453,8 +453,6 @@ a.pagination-item:hover {
 
 
 
-
-
 .footnote-container {
   display: inline-block;
   position: relative;
@@ -474,7 +472,7 @@ a.pagination-item:hover {
   border-radius: 0.3em;
   cursor: pointer;
   opacity: 0.3;
-  background-color: $light-grey;
+  background-color: #464646;
   -webkit-backface-visibility: hidden;
   line-height: 0;
   vertical-align: middle;
@@ -507,7 +505,7 @@ a.pagination-item:hover {
   height: 0.32em;
   margin-right: 0.224em;
   border-radius: 100%;
-  background-color: $red-orange;
+  background-color: #e6e6e6;
   border: none;
 }
 .footnote-circle:last-child {
