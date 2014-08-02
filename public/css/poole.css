@@ -254,7 +254,8 @@ tbody tr:nth-child(odd) th {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  background-color: #f7d9b3; }
+  background-color: #f7d9b3;
+  width: 100vw; }
 
 .masthead-title {
   margin-top: 0;
