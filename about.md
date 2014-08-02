@@ -7,7 +7,9 @@ I'm Eric Chen.
 
 I live in Wisconsin but attend the [Lawrenceville School](http://www.lawrenceville.org/index.aspx) in Lawrenceville, NJ.
 
-You can follow me on Twitter [@ericjwdchen](https://twitter.com/ericjwdchen), but I never tweet.
+I have a little bit of a [podcast problem](http://www.ericjwdchen.github.io/my-favorite-podcasts). 
 
-You can email me at eric.jwd.chen~at~gmail.com.
+You can follow me on Twitter [@ericjwdchen](https://twitter.com/ericjwdchen), but I basically never tweet.
+
+My email is eric.jwd.chen~at~gmail.com.
 
