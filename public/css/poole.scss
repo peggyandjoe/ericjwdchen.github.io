@@ -31,6 +31,7 @@
   //used as masthead background color
 $red-orange: #F23E2C;
 $off-white: #dddddd;
+$green-matte: #94B288;
 
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
@@ -275,7 +276,7 @@ tbody tr:nth-child(odd) th {
 
 .container {
   width: 92vw;
-  max-width: 700px;
+  max-width: 800px;
   margin: auto;
 }
 
@@ -310,7 +311,7 @@ tbody tr:nth-child(odd) th {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: $green-matte;
   letter-spacing: 0;
 }
 
