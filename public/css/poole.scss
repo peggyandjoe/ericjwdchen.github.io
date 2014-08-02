@@ -28,11 +28,9 @@
  * Themes
  */
 
-$off-white: #ddd;
-$off-off-white: #F7D9B3;
   //used as masthead background color
 $red-orange: #F23E2C;
-
+$off-white: #D9C58B;
 
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
@@ -295,6 +293,12 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
+
+.masthead-background {
+  height: 5rem;
+  background-color: $off-white;
+}
+
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
