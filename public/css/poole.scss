@@ -106,12 +106,14 @@ dd {
 hr {
   position: relative;
   margin: 1.5rem 0;
+  border: none;
 }
 
 hr:after {
   content: "* * *";
-  letter-spacing: 200%;
+  letter-spacing: 1em;
   color: $lighter-grey;
+  width: 100%;
 }
 
 abbr {

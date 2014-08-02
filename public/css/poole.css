@@ -84,12 +84,14 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  margin: 1.5rem 0; }
+  margin: 1.5rem 0;
+  border: none; }
 
 hr:after {
   content: "* * *";
-  letter-spacing: 200%;
-  color: #9a9a9a; }
+  letter-spacing: 1em;
+  color: #9a9a9a;
+  width: 100%; }
 
 abbr {
   font-size: 85%;
