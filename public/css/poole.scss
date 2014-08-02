@@ -339,7 +339,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a:hover {
-  underline: $green-matte;
+  border-bottom: 2px solid $green-matte;
 }
 
 .page-title,
