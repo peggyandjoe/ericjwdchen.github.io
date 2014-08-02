@@ -286,7 +286,6 @@ tbody tr:nth-child(odd) th {
   color: black; }
 
 .page-title,
-.post-title,
 .post-title a:hover {
   border-bottom: 2px solid #94b288;
   text-decoration: none; }
