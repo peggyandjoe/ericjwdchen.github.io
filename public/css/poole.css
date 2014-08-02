@@ -237,7 +237,7 @@ tbody tr:nth-child(odd) th {
  */
 .container {
   width: 92vw;
-  max-width: 800px;
+  max-width: 750px;
   margin: auto; }
 
 /*
@@ -251,8 +251,8 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem; }
 
 .masthead-background {
-  height: 90px;
-  margin-bottom: -90px;
+  height: 95px;
+  margin-bottom: -95px;
   background-color: #dddddd; }
 
 .masthead-title {
