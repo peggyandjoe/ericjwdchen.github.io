@@ -12,6 +12,11 @@
  * Themes
  */
 @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
 html,
 body {
   margin: 0;
@@ -20,10 +25,7 @@ body {
 html {
   font-family: Cardo, sans-serif;
   font-size: 16px;
-  line-height: 1.45;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  line-height: 1.45; }
 
 @media (min-width: 38em) {
   html {
