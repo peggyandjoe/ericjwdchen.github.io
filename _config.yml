@@ -20,3 +20,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/ericjwdchen/ericjwdchen.github.io
+
+sass:
+	sass_dir: /public/_sass
+	style: :compressed
