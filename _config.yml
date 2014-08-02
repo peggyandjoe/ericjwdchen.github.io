@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            Eric Chen
+tagline:          a high-functioning nerd
+url:              http://ericjwdchen.github.io
+paginate:         5
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Eric Chen
+  url:            https://twitter.com/ericjwdchen
+  email:          eric.jwd.chen@gmail.com
 
 # Custom vars
 version:          1.0.0
