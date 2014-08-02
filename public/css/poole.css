@@ -86,11 +86,12 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: none;
-  text-align: center; }
+  text-align: center;
+  color: #9a9a9a; }
 
 hr:after {
   content: ". . .";
-  letter-spacing: 1em; }
+  letter-spacing: 0.5em; }
 
 abbr {
   font-size: 85%;
