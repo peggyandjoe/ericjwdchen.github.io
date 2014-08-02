@@ -30,7 +30,7 @@
 
   //used as masthead background color
 $red-orange: #F23E2C;
-$off-white: #D9C58B;
+$off-white: #dddddd;
 
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
@@ -296,7 +296,7 @@ tbody tr:nth-child(odd) th {
   height: 7rem;
   margin-bottom: -7rem;
   background-color: $off-white;
-  
+
 }
 
 .masthead-title {
