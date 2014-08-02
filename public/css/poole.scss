@@ -32,6 +32,7 @@
 $red-orange: #BF1F49;
 $off-white: #dddddd;
 $green-matte: #94B288;
+$green-blue: #005C59;
 $masthead-height: 95px;
 
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
@@ -47,9 +48,9 @@ body {
 }
 
 html {
-  font-family: Cardo, Helvetica, sans-serif;
+  font-family: Cardo, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.45;
 }
 @media (min-width: 38em) {
   html {
@@ -62,7 +63,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: $green-blue;
   text-decoration: none;
 }
 a strong {
@@ -336,7 +337,7 @@ tbody tr:nth-child(odd) th {
   color: black;
 }
 
-.page-title,
+.page-title a:hover,
 .post-title a:hover {
   border-bottom: 2px solid $green-matte;
   text-decoration: none;
