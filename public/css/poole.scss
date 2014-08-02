@@ -32,6 +32,7 @@
 $red-orange: #BF1F49;
 $off-white: #dddddd;
 $green-matte: #94B288;
+$masthead-height: 50px;
 
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
@@ -294,8 +295,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-background {
-  height: 7rem;
-  margin-bottom: -7rem;
+  height: $masthead-height;
+  margin-bottom: $masthead-height;
   background-color: $off-white;
 
 }
