@@ -275,10 +275,8 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
+  margin-left:  1rem;
+  margin-right: 1rem;
 }
 
 
@@ -296,10 +294,10 @@ tbody tr:nth-child(odd) th {
 
 .masthead-background {
   height: 7rem;
+  margin: auto;
   margin-bottom: -7rem;
   background-color: $off-white;
   width: 100vw;
-  margin: auto;
 }
 
 .masthead-title {
