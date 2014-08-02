@@ -25,11 +25,6 @@
  * Reverse layout
  * Themes
  */
-/*
- * Body resets
- *
- * Update the foundational and global aspects of the page.
- */
 @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 * {
   -webkit-box-sizing: border-box;
@@ -50,7 +45,7 @@ html {
   html {
     font-size: 20px; } }
 body {
-  background-color: #f2efe6; }
+  background-color: #fffbf0; }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
@@ -91,9 +86,6 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem; }
-
-strong {
-  color: #303030; }
 
 /* Lists */
 ul, ol, dl {

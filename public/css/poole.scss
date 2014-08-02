@@ -28,12 +28,10 @@
  * Themes
  */
 
+$off-white: #FFFBF0;
+$red-orange: #F23E2C;
 
-/*
- * Body resets
- *
- * Update the foundational and global aspects of the page.
- */
+
  @import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 
 * {
@@ -58,7 +56,7 @@ html {
 }
 
 body {
-  background-color: #f2efe6;
+  background-color: $off-white;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -102,10 +100,6 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-}
-
-strong {
-  color: #303030;
 }
 
 
