@@ -296,7 +296,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-background {
   height: $masthead-height;
-  margin-bottom: $masthead-height;
+  margin-bottom: -1*$masthead-height;
   background-color: $off-white;
 
 }
