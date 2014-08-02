@@ -5,7 +5,7 @@ title: About
 
 I'm Eric Chen. 
 
-I live in Wisconsin but attend the [Lawrenceville School](http://www.lawrenceville.org/index.aspx) in Lawrenceville, NJ.
+I live in Wisconsin and attend the [Lawrenceville School](http://www.lawrenceville.org/index.aspx) in Lawrenceville, NJ.
 
 I have a little bit of a [podcast problem](http://www.ericjwdchen.github.io/my-favorite-podcasts). 
 
@@ -13,3 +13,4 @@ You can follow me on Twitter [@ericjwdchen](https://twitter.com/ericjwdchen), bu
 
 My email is eric.jwd.chen~at~gmail.com.
 
+<span>$$\sqrt[3]{\frac xy}$$</span>
