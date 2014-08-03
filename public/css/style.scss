@@ -319,7 +319,8 @@ tbody tr:nth-child(odd) th {
 }
 @media (max-width: 300px) {
   .masthead img{
-    height: none;
+    height: 0;
+    width: 0;
   }
 }
 
