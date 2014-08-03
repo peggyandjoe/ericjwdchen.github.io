@@ -288,12 +288,15 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  padding-left: 4vw;
-  padding-right: 4vw;
+  width: 92vw;
   max-width: 750px;
   margin: auto;
   margin-bottom: 3rem;
+}
+
+.masthead-container {
   background-color: $off-white;
+  width: 100vw;
 }
 
 .masthead-title {
