@@ -47,7 +47,7 @@ html {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 
@@ -319,7 +319,7 @@ tbody tr:nth-child(odd) th {
 }
 @media (max-width: 300px) {
   .masthead img{
-    display: none;
+    height: none;
   }
 }
 
