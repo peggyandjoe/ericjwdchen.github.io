@@ -31,7 +31,6 @@ $masthead-height: 95px;
 $light-grey: #7a7a7a;
 
 
-f
 core-header-panel {
   height: 100%;
   overflow: auto;
@@ -40,6 +39,15 @@ core-header-panel {
 core-toolbar {
   background: #03a9f4;
   color: white;
+}
+
+#tabs {
+  width: 100%;
+  margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 
