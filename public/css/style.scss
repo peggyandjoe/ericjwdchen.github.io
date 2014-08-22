@@ -14,6 +14,7 @@
  * Messages
  * Container
  * Masthead
+ * Footer
  * Posts and pages
  * Pagination
  * Reverse layout
@@ -52,9 +53,6 @@ html {
   html {
     font-size: 20px;
   }
-}
-
-body {
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -392,6 +390,17 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+
+/*
+ * Footer
+ *
+ *
+ */
+
+.footer {
+  background-color: $light-grey;
+  text-align: center;
+}
 
 /*
  * Pagination
