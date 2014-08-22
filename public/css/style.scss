@@ -26,11 +26,10 @@
 
 $red-orange: #BF1F49;
 $off-white: #dddddd;
-  //used as masthead background color
 $green-matte: #94B288;
+  //used as masthead background color
 $green-blue: #005C59;
 $zune-brown: #583B2B;
-$masthead-height: 95px;
 $light-grey: #7a7a7a;
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
@@ -76,8 +75,10 @@ a:focus {
 
 /*Permalink link styling*/
 
-.permalink {
-  font-size: 1rem;
+.permalink a:hover,
+.permalink a:focus {
+  text-decoration: none;
+  color: $green-matte;
 }
 
 /* Headings */
@@ -309,7 +310,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-container {
-  background-color: $green-blue;
+  background-color: $green-matte;
 }
 
 .masthead-title {
