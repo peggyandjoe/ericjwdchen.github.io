@@ -32,6 +32,7 @@ $green-blue: #005C59;
 $zune-brown: #583B2B;
 $masthead-height: 95px;
 $light-grey: #7a7a7a;
+$small-margin: 0.5rem;
 
 
 * {
@@ -303,7 +304,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: $small-margin;
   font-weight: normal;
 }
 .masthead-title a {
