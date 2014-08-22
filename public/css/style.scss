@@ -311,14 +311,20 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title small {
-  font-size: 0.75rem;
+  font-size: 0.75em;
   color: black;
   letter-spacing: 0;
 }
 
-.nav-page a{
+.nav-page a {
   margin-right: 1rem;
+  color: white;
 }
+
+.nav-page a:hover {
+  opacity: 0.8;
+}
+
 
 
 
