@@ -77,8 +77,8 @@ a:focus {
 
 .permalink a:hover,
 .permalink a:focus {
-  border-bottom: none;
-  color: $green-matte;
+  border-bottom: none !important;
+  color: $green-matte !important;
 }
 
 /* Headings */
