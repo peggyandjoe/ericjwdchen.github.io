@@ -2,9 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
-<script type="text/javascript">
-  $.bigfoot();
-</script>
 
   <body>
      <div class="masthead-container">
@@ -40,4 +37,12 @@
 
    <p class="copyright"><span>© </span>{{ 'now' | date: "%Y" }}</p>
  </footer>
+
+
+   <!-- bigfoot.js -->
+   <script type="text/javascript" src="js/bigfoot.js"></script>
+   <script type="text/javascript">
+       $.bigfoot();
+   </script>
+
 </html>
