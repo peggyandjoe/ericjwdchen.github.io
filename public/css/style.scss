@@ -33,6 +33,7 @@ $zune-brown: #583B2B;
 $masthead-height: 95px;
 $light-grey: #7a7a7a;
 $small-spacing: 0.5rem;
+$large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 750px;
 
@@ -292,12 +293,12 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: $large-spacing;
+  padding-bottom: $large-spacing;
   width: $page-width:
   max-width: $max-page-width;
   margin: auto;
-  margin-bottom: 2rem;
+  margin-bottom: $large-spacing;
 }
 
 .masthead-container {
@@ -379,8 +380,8 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: $large-spacing;
+  padding-bottom: $large-spacing;
   border-top: 1px solid #eee;
 }
 .related-posts {
@@ -455,7 +456,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: 3rem 0;
+    margin: $large-spacing 0;
   }
   .pagination-item {
     float: left;
