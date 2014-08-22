@@ -442,8 +442,10 @@ tbody tr:nth-child(odd) th {
   margin-left: -1rem;
   margin-right: -1rem;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  color: #ccc;
+  color: $light-grey;
   text-align: center;
+  margin-top: $large-spacing;
+  margin-bottom: $large-spacing
 }
 
 /* Pagination items can be `span`s or `a`s */
@@ -451,6 +453,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   padding: 1rem;
   border: 1px solid #eee;
+
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -462,9 +465,7 @@ a.pagination-item:hover {
 }
 
 @media (min-width: 30em) {
-  .pagination {
-    margin-top: $large-spacing;
-  }
+
   .pagination-item {
     float: left;
     width: 50%;
