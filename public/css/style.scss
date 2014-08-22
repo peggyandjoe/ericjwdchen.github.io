@@ -30,12 +30,6 @@ $zune-brown: #583B2B;
 $masthead-height: 95px;
 $light-grey: #7a7a7a;
 
-
-core-scroll-header-panel {
-  height: 100%;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-}
 core-toolbar {
   background: #03a9f4;
   color: white;
@@ -59,9 +53,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-
-  height: 100%;
-  margin: 0;
 }
 
 html {
