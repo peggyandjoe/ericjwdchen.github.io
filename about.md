@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-weight: 1
+weight: 3
 ---
 
 I'm Eric Chen.
