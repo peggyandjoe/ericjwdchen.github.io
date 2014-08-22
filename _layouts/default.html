@@ -7,7 +7,7 @@
      <div class="masthead-container">
      <div class="masthead">
         <h1 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+          <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h1>
         <div class="nav-page">
@@ -32,7 +32,7 @@
   <footer class="footer">
 
    <p class="footer-logo">
-     <img src="http://ericjwdchen.github.io/public/favicon-160x160.png" alt="Zune">
+     <img src="{{site.url}}public/favicon-160x160.png" alt="Zune">
    </p>
 
    <p class="copyright"><span>© </span>{{ 'now' | date: "%Y" }}</p>
@@ -40,7 +40,7 @@
 
 
    <!-- bigfoot.js -->
-   <script type="text/javascript" src="{{site.url}}js/bigfoot.js"></script>
+   <script type="text/javascript" src="{{site.url}}/js/bigfoot.js"></script>
    <script type="text/javascript">
        $.bigfoot();
    </script>
