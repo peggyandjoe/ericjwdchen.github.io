@@ -77,6 +77,10 @@ a:focus {
 
 .permalink {
   border-bottom: none !important;
+}
+
+.permalink:hover,
+.permalink:focus {
   color: $green-matte !important;
 }
 
