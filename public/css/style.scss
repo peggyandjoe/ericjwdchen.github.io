@@ -40,15 +40,12 @@ $max-page-width: 750px;
   box-sizing: border-box;
 }
 
-html,
 body {
   margin: 0;
   padding: 0;
-}
-
-.not-footer-container {
   min-height: 100vh;
 }
+
 
 html {
   font-family: Lato, sans-serif;
