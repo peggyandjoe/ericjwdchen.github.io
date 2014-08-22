@@ -6,12 +6,12 @@ pygments: true
 permalink:        pretty
 
 # Setup
-title:            Eric Chen
+title:            ericjwdchen
 tagline:          a high-functioning nerd
 url:              http://ericjwdchen.github.io
 paginate:         5
 baseurl:          /
-author:	
+author:
   name:           Eric Chen
   url:            https://twitter.com/ericjwdchen
   email:          eric.jwd.chen@gmail.com
