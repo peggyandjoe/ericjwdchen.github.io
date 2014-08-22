@@ -374,15 +374,9 @@ tbody tr:nth-child(odd) th {
   text-decoration: none;
 }
 
-.page-title,
-.post-title {
-  margin-top: 0;
-}
-
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.3rem;
   margin-bottom: 1rem;
   color: $light-grey;
 }
