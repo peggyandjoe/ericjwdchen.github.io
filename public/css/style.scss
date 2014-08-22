@@ -207,7 +207,7 @@ blockquote {
   padding-left: 0.5rem;
   padding-right: 1rem;
   margin: 0;
-  color: black;
+  color: $light-grey;
   border-left: .25rem solid $light-grey;
 }
 blockquote p:last-child {
@@ -316,6 +316,13 @@ tbody tr:nth-child(odd) th {
   font-size: 0.75em;
   color: black;
   letter-spacing: 0;
+}
+
+@media all and (max-width: 599px) {
+  .masthead-title small {
+    font-size: 0.7em;
+    display: block;
+  }
 }
 
 .nav-page a {
