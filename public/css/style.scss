@@ -32,8 +32,9 @@ $green-blue: #005C59;
 $zune-brown: #583B2B;
 $masthead-height: 95px;
 $light-grey: #7a7a7a;
-$small-margin: 0.5rem;
-
+$small-spacing: 0.5rem;
+$page-width: 90vw;
+$max-page-width: 750px;
 
 * {
   box-sizing: border-box;
@@ -73,7 +74,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: $small-margin;
+  margin-bottom: $small-spacing;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -278,8 +279,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  width: 92vw;
-  max-width: 750px;
+  width: $page-width:
+  max-width: $max-page-width;
   margin: auto;
 }
 
@@ -293,8 +294,8 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  width: 92vw;
-  max-width: 750px;
+  width: $page-width:
+  max-width: $max-page-width;
   margin: auto;
   margin-bottom: 2rem;
 }
@@ -305,7 +306,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title {
   margin-top: 0;
-  margin-bottom: $small-margin;
+  margin-bottom: $small-spacing;
   font-weight: normal;
 }
 .masthead-title a {
