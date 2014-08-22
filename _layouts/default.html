@@ -19,32 +19,5 @@
 
 </core-scroll-header-panel>
 
-     <div class="masthead-container">
-     <div class="masthead">
-        <img src="http://ericjwdchen.github.io/public/favicon-160x160.png" alt="Zune">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-        <ul>
-          {% for weight in (1..10) %}
-            {% for p in site.pages %}
-              {% if p.weight == weight %}
-                <li>
-                  <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-                    {{ p.title }}
-                  </a>
-                </li>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </ul>
-    </div>
-    </div>
-    <div class="container content">
-      {{ content }}
-    </div>
-     <div class="footer">
-    </div>
   </body>
 </html>
