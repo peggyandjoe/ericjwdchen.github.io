@@ -456,7 +456,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: $large-spacing;
+    margin-top: $large-spacing;
   }
   .pagination-item {
     float: left;
