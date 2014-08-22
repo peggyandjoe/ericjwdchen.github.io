@@ -4,48 +4,74 @@
   {% include head.html %}
 
   <body fullbleed layout vertical>
-    <core-scroll-header-panel condenses>
-
-      <core-toolbar class="tall" animate>
-
-      <paper-tabs id="tabs" selected="all" self-end>
-        <paper-tab name="all">ALL</paper-tab>
-        <paper-tab name="favorites">FAVORITES</paper-tab>
-      </paper-tabs>
-
+  <template>
+    <style>
+      :host {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+      }
+      #core_scroll_header_panel {
+        width: 380px;
+        height: 460px;
+        left: 260px;
+        top: 110px;
+        position: absolute;
+      }
+      #core_toolbar {
+        color: rgb(241, 241, 241);
+        fill: rgb(241, 241, 241);
+        background-color: rgb(66, 133, 244);
+      }
+      #section {
+        height: 5000px;
+        background: linear-gradient(rgb(214, 227, 231), rgb(173, 216, 230));
+      }
+    </style>
+    <core-scroll-header-panel condenses headerheight="192" id="core_scroll_header_panel">
+      <core-toolbar id="core_toolbar" class="tall">
+        <core-icon-button id="core_icon_button" icon="arrow-back"></core-icon-button>
+        <div id="div" flex></div>
+        <core-icon-button id="core_icon_button1" icon="search"></core-icon-button>
+        <core-icon-button id="core_icon_button2" icon="more-vert"></core-icon-button>
+        <div id="div1" class="bottom indent">Title</div>
       </core-toolbar>
+      <section id="section" content>
 
-    <!-- main page content will go here -->
 
-     <div class="masthead-container">
-     <div class="masthead">
-        <img src="http://ericjwdchen.github.io/public/favicon-160x160.png" alt="Zune">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-        <ul>
-          {% for weight in (1..10) %}
-            {% for p in site.pages %}
-              {% if p.weight == weight %}
-                <li>
-                  <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-                    {{ p.title }}
-                  </a>
-                </li>
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-        </ul>
-    </div>
-    </div>
-    <div class="container content">
-      {{ content }}
-    </div>
-     <div class="footer">
-    </div>
+           <div class="masthead-container">
+           <div class="masthead">
+              <img src="http://ericjwdchen.github.io/public/favicon-160x160.png" alt="Zune">
+              <h3 class="masthead-title">
+                <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+                <small>{{ site.tagline }}</small>
+              </h3>
+              <ul>
+                {% for weight in (1..10) %}
+                  {% for p in site.pages %}
+                    {% if p.weight == weight %}
+                      <li>
+                        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+                          {{ p.title }}
+                        </a>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              </ul>
+          </div>
+          </div>
+          <div class="container content">
+            {{ content }}
+          </div>
+           <div class="footer">
+          </div>
 
+
+      </section>
     </core-scroll-header-panel>
+  </template>
 
   </body>
 </html>
