@@ -41,14 +41,28 @@ $max-page-width: 750px;
 body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
 }
-
 
 html {
   font-family: Lato, sans-serif;
   font-size: 18px;
   line-height: 1.45;
+}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -209px; /* the bottom margin is the negative value of the footer's height */
+}
+
+
+footer, .push {
+	height: 209px; /* '.push' must be the same height as 'footer' */
+}
+
+html, body {
+	height: 100%;
 }
 @media (min-width: 38em) {
   html {
