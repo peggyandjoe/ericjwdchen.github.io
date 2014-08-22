@@ -10,22 +10,17 @@
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h1>
-      <ul>
+
         {% for weight in (1..10) %}
           {% for p in site.pages %}
             {% if p.weight == weight %}
-              <li>
-                <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+                <a class="nav-page"{% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
                   {{ p.title }}
                 </a>
-              </li>
             {% endif %}
           {% endfor %}
         {% endfor %}
-        <li>
-          <a href ="/atom.xml">RSS</a>
-        </li>
-      </ul>
+        <a class="nav-page"href ="/atom.xml">RSS</a>
 
     </div>
     </div>
