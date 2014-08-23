@@ -24,4 +24,4 @@ The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_3
 
 [^1]: Pro tip: avocados + anything savory.
 
-[^2]: Mine was white, but brown was the more iconic color.
+[^2]: Mine was white, but brown was the more iconic.
