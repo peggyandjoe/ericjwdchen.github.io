@@ -6,8 +6,7 @@ pygments: true
 permalink:        pretty
 
 # Setup
-title:            ericjwdchen
-tagline:          
+title:            ericjwdchen.org
 url:              http://ericjwdchen.github.io
 paginate:         5
 baseurl:          /
