@@ -22,6 +22,6 @@ This site is built on [Jekyll](http://jekyllrb.com/), originally forked from [Po
 
 The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), the worst, best, and first portable device I could call my own[^2].
 
-[^1]: Pro tip: avocados + anything savory.
+[^1]: Pro tip: avocados + anything savory. Here is a long addition to test out the capability to handle paragraphs.
 
 [^2]: Mine was white, but brown was the more iconic.
