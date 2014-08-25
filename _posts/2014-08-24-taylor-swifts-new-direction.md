@@ -63,7 +63,7 @@ From all accounts, *1989* will be an [all-pop album][1989 all pop].[^4] But can 
 
 But now, Taylor doesn't live that life, which explains why *Shake It Off* lacks the "X-Factor" of her previous endeavors.
 
-Don't get me wrong, I think "Shake It Off" is a great song. [^5] But at its, heart it's pop music.
+Don't get me wrong, I think "Shake It Off" is a great song. [^5] But at its heart, it's pop music.
 
 In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *RED*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of heartfelt music that I love, so who am I to complain?
 
