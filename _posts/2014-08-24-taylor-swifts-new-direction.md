@@ -41,14 +41,20 @@ Which is way "Shake It Off" worries me.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
 
-What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums[^3]
+What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^3] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
+
+No. I shouldn't be. It was clear from *RED* that change was afoot.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21;&ampend=40' frameborder='0' allowfullscreen></iframe></div>
+
+*We Are Never Ever Getting Back Together* (WANEGBT) still was personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, WANEGBT relied on the incessant beat of a kick drum.
 
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
-[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from RED
+[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from RED][RED album sales]
 
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
 
@@ -61,3 +67,9 @@ What happened? I suppose this change was a long time coming. Taylor has sold mor
 [fifteen song]: https://www.youtube.com/watch?v=Pb-K2tXWK4w
 
 [Big Machine press release]: http://www.prnewswire.com/news-releases/taylor-swift-tops-20-million-in-record-sales-118987324.html
+
+[RED album sales]: http://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)
+
+[Taylor Swift awards list]: http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Taylor_Swift
+
+[New York City penthouse]: http://en.wikipedia.org/wiki/Taylor_Swift#Wealth
