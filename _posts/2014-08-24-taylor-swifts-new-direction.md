@@ -3,9 +3,9 @@ layout: post
 title: Taylor Swift's New Direction
 ---
 
-<div class="message">
-  I will use the past tense to refer to everything previous to Taylor's new album, <i>1989<i/>, and the present tense to refer to the *1989* era. <sup><a href="#fn1" id="ref1">1</a></sup>
-</div>
+Note, I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era. [^1]
+
+<hr>
 
 I haven't been on the Taylor Swift bandwagon forever. When I first heard "Teardrops on My Guitar," I wrote her off as kitschy and "a fad."
 
