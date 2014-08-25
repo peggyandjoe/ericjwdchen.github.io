@@ -15,7 +15,7 @@ Five years ago I couldn't have told you what made Taylor's music was so magnetic
 
 Now, though, I know what that "X-Factor" was.[^2]
 
-Here are two examples:
+Here are two examples:[^3]
 
 <p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/GkD20ajVxnY?start=63&amp;end=83' frameborder='0' allowfullscreen></iframe></div></p>
 <p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/QSMOcaZlMUI?start=46&amp;end=70' frameborder='0' allowfullscreen></iframe></div></p>
@@ -41,7 +41,7 @@ Which is way "Shake It Off" worries me.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
 
-What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^3] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
+What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^4] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
 
 No. I shouldn't be. It was clear from *Red* that change was afoot.
 
@@ -59,11 +59,11 @@ The *Red* album was split between country and pop.
 
 ##What to make of *1989*?
 
-From all accounts, *1989* will be an [all-pop album][1989 all pop].[^4] But can I blame Taylor? No. Her songwriting has always been based on her personal experiences. Living in New York City, flying in a private jet, and hanging out with other pop stars *is* her new life. But for Taylor, that creates a paradox. She got her start writing about issues common to all teenagers. She, more than anyone else, could capture the emotion, intimacy, and heartbreak of growing up.
+From all accounts, *1989* will be an [all-pop album][1989 all pop].[^5] But can I blame Taylor? No. Her songwriting has always been based on her personal experiences. Living in New York City, flying in a private jet, and hanging out with other pop stars *is* her new life. But for Taylor, that creates a paradox. She got her start writing about issues common to all teenagers. She, more than anyone else, could capture the emotion, intimacy, and heartbreak of growing up.
 
 But now, Taylor doesn't live that life, which explains why *Shake It Off* lacks the "X-Factor" of her previous endeavors.
 
-Don't get me wrong, I think "Shake It Off" is a great song. [^5] But at its heart, it's pop music.
+Don't get me wrong, I think "Shake It Off" is a great song. [^6] But at its heart, it's pop music.
 
 In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *Red*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of heartfelt music that I love, so who am I to complain?
 
@@ -72,11 +72,13 @@ In two years, I wonder if I will still be listening to "Shake It Off" and the re
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
-[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [Red][Red album sales]
+[^3]: Can we all also agree that her old music videos were so much better?
 
-[^4]: It won't even be officially released to country music stations.
+[^4]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [Red][Red album sales]
 
-[^5]: I've already played it 44 times according to my music app.
+[^5]: It won't even be officially released to country music stations.
+
+[^6]: I've already played it 44 times according to my music app.
 
 
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
