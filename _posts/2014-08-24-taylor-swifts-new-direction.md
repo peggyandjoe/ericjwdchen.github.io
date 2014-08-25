@@ -47,15 +47,36 @@ No. I shouldn't be. It was clear from *RED* that change was afoot.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
 
-*We Are Never Ever Getting Back Together* (WANEGBT) still was personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, WANEGBT relied on the incessant beat of a kick drum.
+*We Are Never Ever Getting Back Together* (*WANEGBT*) was still personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, *WANEGBT* relied on the incessant beat of an electronic drum. Taylor even seemed to admit this herself by [releasing a revised version][WANEGBT country version] of the song to country music radio stations.
+
+However, even though *RED* signaled the impending change, it also reaffirmed Taylor's country roots.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/cMPEd8m79Hw?start=30&amp;end=96' frameborder='0' allowfullscreen></iframe></div>
+
+The *RED* album was split between country and pop.
 
 <hr>
+
+##What to make of *1989*?
+
+From all accounts, *1989* will be an [all-pop album][1989 all pop].[^4] But can I blame Taylor? No. Her songwriting has always been based on her personal experiences. Living in New York City, flying in a private jet, and hanging out with other pop stars *is* her new life. But for Taylor, that creates a paradox. She got her start writing about issues common to all teenagers. She, more than anyone else, could capture the emotion, intimacy, and heartbreak of growing up.
+
+But now, Taylor doesn't live that life, which explains why *Shake It Off* lacks the "X-Factor" of her previous endeavors.
+
+Don't get me wrong, I think "Shake It Off" is a great song. [^5] But at its heart it's pop music. In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not.
+
+I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *RED*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has already produced hours of timeless music that I love, so who am I to complain?
+
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
 [^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [RED][RED album sales]
+
+[^4]: It won't even be officially released to country music stations.
+
+[^5]: I've already played it 44 times according to my music app.
 
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
 
@@ -74,3 +95,7 @@ No. I shouldn't be. It was clear from *RED* that change was afoot.
 [Taylor Swift awards list]: http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Taylor_Swift
 
 [New York City penthouse]: http://en.wikipedia.org/wiki/Taylor_Swift#Wealth
+
+[WANEGBT country version]: https://www.youtube.com/watch?v=GY8P2YPiDrc
+
+[1989 all pop]: http://radio.com/2014/08/25/taylor-swift-leaves-country-radio-behind-for-mass-appeal-pop/
