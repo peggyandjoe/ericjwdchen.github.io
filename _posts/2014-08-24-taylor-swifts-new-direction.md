@@ -21,9 +21,7 @@ Here are two examples:
 I was attracted to these anecdotes.
 
 >The playful conversation starts
-
 >Counter all your quick remarks
-
 >Like passing notes in secrecy
 
 woven into honest, mellifluous tunes.
