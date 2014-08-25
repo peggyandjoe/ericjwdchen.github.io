@@ -33,17 +33,22 @@ I was attracted to the anecdotes.
 >Counter all your quick remarks <br>
 >Like passing notes in secrecy
 
-Those short little moments full of feeling and depth. *I* was a part of Taylor's life. I knew her breakups, her friends, her loneliness. I knew about [her freshman year crush on that guy named Drew][freshman crush].
-
-Taylor was so transparent. She could match the massive appeal of [Katy Perry](https://www.youtube.com/watch?v=F57P9C4SAW4) while writing about [one, single guy](https://www.youtube.com/watch?v=Y28pUGkk9vc).
+Those moments full of feeling and depth. *I* was a part of Taylor's life. I was a part of her freshmen year. I knew about [her crush on that guy named Drew][freshman crush]. I knew about [the time when she thought she fell in love][fifteen song]. She could match the massive appeal of [Katy Perry](https://www.youtube.com/watch?v=F57P9C4SAW4) while writing about [one, single guy](https://www.youtube.com/watch?v=Y28pUGkk9vc).
 
 <hr>
 
+Which is way "Shake It Off" worries me.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
+
+What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums[^3]
 
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
+
+[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from RED
 
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
 
@@ -52,3 +57,7 @@ Taylor was so transparent. She could match the massive appeal of [Katy Perry](ht
 [before]: http://www.nytimes.com/2009/08/29/arts/music/29swift.html
 
 [freshman crush]: www.youtube.com/watch?v=xKCek6_dB0M
+
+[fifteen song]: https://www.youtube.com/watch?v=Pb-K2tXWK4w
+
+[Big Machine press release]: http://www.prnewswire.com/news-releases/taylor-swift-tops-20-million-in-record-sales-118987324.html
