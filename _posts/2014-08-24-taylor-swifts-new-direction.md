@@ -9,6 +9,8 @@ But as things have their way of happening, no longer than two years after my ini
 
 Five years ago I couldn't have told you what about Taylor's music was so magnetic. It just was.
 
-Now, though, I know what that "X-Factor" was.
+Now, though, I know what that "X-Factor" was[^1].
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/GkD20ajVxnY?start=103&amp;end=123' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/GkD20ajVxnY?start=63&amp;end=83' frameborder='0' allowfullscreen></iframe></div>
+
+[^1]
