@@ -20,8 +20,15 @@ Here are two examples:
 
 I was attracted to these anecdotes.
 
->The playful conversation starts
->Counter all your quick remarks
+>When you think happiness <br>
+>I hope you think that little black dress <br>
+>Think of my head on your chest <br>
+>And my old faded blue jeans <br>
+>When you think Tim McGraw <br>
+>I hope you think of me
+
+>The playful conversation starts <br>
+>Counter all your quick remarks <br>
 >Like passing notes in secrecy
 
 woven into honest, mellifluous tunes.
