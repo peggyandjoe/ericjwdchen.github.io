@@ -45,16 +45,17 @@ What happened? I suppose this change was a long time coming. Taylor has sold mor
 
 No. I shouldn't be. It was clear from *RED* that change was afoot.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21;&ampend=40' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
 
 *We Are Never Ever Getting Back Together* (WANEGBT) still was personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, WANEGBT relied on the incessant beat of a kick drum.
 
+<hr>
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
-[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from RED][RED album sales]
+[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [RED][RED album sales]
 
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
 
