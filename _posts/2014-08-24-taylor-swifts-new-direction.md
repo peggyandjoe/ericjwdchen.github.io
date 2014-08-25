@@ -42,7 +42,7 @@ Taylor was so transparent. She could match the massive appeal of [Katy Perry](ht
 
 
 
-[^1]: *1989* era ≠ 1989 era. Kind of confusing, but bear with me.
+[^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
