@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taylor Swift's New Direction: Inevitable, Disappointing, and Ridiculously Irresistible
+title: Taylor Swift's New Direction
 ---
 
 I haven't been on the Taylor Swift bandwagon forever. When I first heard "Teardrops on My Guitar", I wrote her off as kitschy and "a fad."
