@@ -43,17 +43,17 @@ Which is way "Shake It Off" worries me.
 
 What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^3] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
 
-No. I shouldn't be. It was clear from *RED* that change was afoot.
+No. I shouldn't be. It was clear from *Red* that change was afoot.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
 
 *We Are Never Ever Getting Back Together* (*WANEGBT*) was still personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, *WANEGBT* relied on the incessant beat of an electronic drum. Taylor even seemed to admit this herself by [releasing a revised version][WANEGBT country version] of the song to country music radio stations.
 
-However, even though *RED* signaled the impending change, it also reaffirmed Taylor's country roots.
+However, even though *Red* signaled the impending change, it also reaffirmed Taylor's country roots.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/cMPEd8m79Hw?start=30&amp;end=96' frameborder='0' allowfullscreen></iframe></div>
 
-The *RED* album was split between country and pop.
+The *Red* album was split between country and pop.
 
 <hr>
 
@@ -65,14 +65,14 @@ But now, Taylor doesn't live that life, which explains why *Shake It Off* lacks 
 
 Don't get me wrong, I think "Shake It Off" is a great song. [^5] But at its heart, it's pop music.
 
-In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *RED*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of heartfelt music that I love, so who am I to complain?
+In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *Red*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of heartfelt music that I love, so who am I to complain?
 
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
-[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [RED][RED album sales]
+[^3]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [Red][Red album sales]
 
 [^4]: It won't even be officially released to country music stations.
 
@@ -91,7 +91,7 @@ In two years, I wonder if I will still be listening to "Shake It Off" and the re
 
 [Big Machine press release]: http://www.prnewswire.com/news-releases/taylor-swift-tops-20-million-in-record-sales-118987324.html
 
-[RED album sales]: http://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)
+[Red album sales]: http://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)
 
 [Taylor Swift awards list]: http://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Taylor_Swift
 
