@@ -4,7 +4,7 @@ title: Taylor Swift's New Direction
 ---
 
 <div class="message">
-  I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era. [^1]
+  I will use the past tense to refer to everything previous to Taylor's new album, <i>1989<i/>, and the present tense to refer to the *1989* era. <sup><a href="#fn1" id="ref1">1</a></sup>
 </div>
 
 I haven't been on the Taylor Swift bandwagon forever. When I first heard "Teardrops on My Guitar," I wrote her off as kitschy and "a fad."
@@ -13,7 +13,7 @@ But as things have their way of happening, no longer than two years after my ini
 
 Five years ago I couldn't have told you what made Taylor's music was so magnetic. It just was.
 
-Now, though, I know what that "X-Factor" was. Note, though, that what I'm going to say is far from novel[^2].
+Now, though, I know what that "X-Factor" was.[^2]
 
 Here are two examples:
 
@@ -34,7 +34,7 @@ I was attracted to the anecdotes.
 >Counter all your quick remarks <br>
 >Like passing notes in secrecy
 
-Those short little moments full of feeling and depth. *I* was a part of Taylor's life. I knew her breakups, her friends, her loneliness. I knew about [her freshman year crush on that guy named Drew](www.youtube.com/watch?v=xKCek6_dB0M).
+Those short little moments full of feeling and depth. *I* was a part of Taylor's life. I knew her breakups, her friends, her loneliness. I knew about [her freshman year crush on that guy named Drew][freshman crush].
 
 Taylor was so transparent. She could match the massive appeal of [Katy Perry](https://www.youtube.com/watch?v=F57P9C4SAW4) while writing about [one, single guy](https://www.youtube.com/watch?v=Y28pUGkk9vc).
 
@@ -42,13 +42,14 @@ Taylor was so transparent. She could match the massive appeal of [Katy Perry](ht
 
 
 
-
-
 [^1]: *1989* era ≠ 1989 era. Kind of confusing, but bear with me.
 
-[^2]: It's been said [many][] [times][] [before][].
+[^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
+
 [many]: http://oneweekoneband.tumblr.com/post/56894134244/tim-mcgraw-taylor-swift-i-spent-my
 
 [times]: http://www.nytimes.com/2008/11/09/arts/music/09cara.html
 
 [before]: http://www.nytimes.com/2009/08/29/arts/music/29swift.html
+
+[freshman crush]: www.youtube.com/watch?v=xKCek6_dB0M
