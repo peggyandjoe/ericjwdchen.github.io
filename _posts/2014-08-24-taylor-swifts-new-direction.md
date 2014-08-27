@@ -39,7 +39,7 @@ Those moments full of feeling and depth. *I* was a part of Taylor's life. I was 
 
 Which is way "Shake It Off" worries me.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=42' frameborder='0' allowfullscreen></iframe></div>
 
 What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^4] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
 
