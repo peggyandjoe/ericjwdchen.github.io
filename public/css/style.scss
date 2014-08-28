@@ -59,6 +59,10 @@ html {
   /* the bottom margin is the negative value of the footer's height */
 }
 
+.clear {
+  clear: both;
+  width: 100%;
+}
 
 footer, .push {
 	height: $footer-height; /* '.push' must be the same height as 'footer' */
