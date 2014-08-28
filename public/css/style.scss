@@ -474,7 +474,7 @@ tbody tr:nth-child(odd) th {
 
 /* Pagination items can be `span`s or `a`s */
 .newer {
-  float: right;
+  text-align: right;
 }
 
 /* Only provide a hover state for linked pagination items */
