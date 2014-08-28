@@ -395,6 +395,13 @@ tbody tr:nth-child(odd) th {
   color: $light-grey;
 }
 
+/* Divider between posts on the homepage*/
+.divider {
+  border-top: 1px solid $green-matte;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 /* Related posts */
 .related {
   padding-top: $large-spacing;
