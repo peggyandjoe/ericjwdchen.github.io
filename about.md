@@ -14,8 +14,6 @@ You can [follow me on Twitter](https://twitter.com/ericjwdchen).
 
 My email is eric.jwd.chen~at~gmail.com.
 
-<hr>
-
 #How the Sausage is Made
 
 This site is built on [Jekyll](http://jekyllrb.com/), forked originally from [Poole](http://getpoole.com/), and generously hosted on [GitHub Pages](https://pages.github.com/).
