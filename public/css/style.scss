@@ -469,15 +469,12 @@ tbody tr:nth-child(odd) th {
   height: auto;
   margin-bottom: $large-spacing;
   float: left;
+  width: 50%;
 }
 
 /* Pagination items can be `span`s or `a`s */
 .newer {
   text-align: right;
-}
-
-.older {
-  width: 50%;
 }
 
 /*
