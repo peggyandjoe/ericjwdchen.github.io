@@ -42,7 +42,12 @@
  <!-- bigfoot.js -->
  <script type="text/javascript" src="{{site.url}}/js/bigfoot.min.js"></script>
  <script type="text/javascript">
-     $.bigfoot();
+     $.bigfoot(
+      {
+        actionOriginalFN: ignore,
+        numberResetSelector: div.post
+      }
+     );
  </script>
 
   <!-- Google Analytics-->
