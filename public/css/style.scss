@@ -487,6 +487,7 @@ tbody tr:nth-child(odd) th {
  *
  */
 
+ 
 .footnote-container {
   display: inline-block;
   position: relative;
@@ -496,15 +497,17 @@ tbody tr:nth-child(odd) th {
 .footnote-button {
   position: relative;
   z-index: 5;
-  top: -0.15em;
+  top: -0.2em;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   display: inline-block;
-  padding: 0.34em;
+  padding: 0.325em;
   margin: 0 0.1em 0 0.2em;
+  height: 1em;
+  width: 1em;
   border: none;
-  border-radius: 0.3em;
+  border-radius: 0.6em;
   cursor: pointer;
   opacity: 0.3;
   background-color: #464646;
@@ -533,18 +536,21 @@ tbody tr:nth-child(odd) th {
   transition-delay: 0.15s;
 }
 
-.footnote-circle {
-  display: inline-block;
-  width: 0.32em;
-  height: 0.32em;
-  margin-right: 0.224em;
-  border-radius: 100%;
-  background-color: #e6e6e6;
-  border: none;
-}
-
-.footnote-circle:last-child {
-  margin-right: 0;
+.footnote-button:before {
+  content: attr(data-footnote-number);
+  position: absolute;
+  bottom: 0.63em;
+  left: 0;
+  right: 0;
+  display: block;
+  font-size: 0.8em;
+  color: white;
+  font-family: inherit;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 0;
+  text-align: center;
+  -webkit-backface-visibility: hidden;
 }
 
 @media not print {
