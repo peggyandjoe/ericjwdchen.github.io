@@ -14,7 +14,7 @@ weight: 1
     {% if year != nyear %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% endif %}
+    {{ post.date | date:"%B" }}
   {% endunless %}
-  {{ post.date | date:"%B" }}
   <li> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
