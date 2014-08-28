@@ -342,8 +342,14 @@ tbody tr:nth-child(odd) th {
   margin-bottom: $small-spacing;
   font-weight: normal;
 }
+
 .masthead-title a {
   color: white;
+}
+
+
+.masthead-title a:hover{
+  text-underline: none;
 }
 
 .masthead-title small {
