@@ -464,6 +464,11 @@ tbody tr:nth-child(odd) th {
   color: $light-grey;
 }
 
+.pagination-item {
+  display: none;
+  width: 50%;
+}
+
 .pagination a{
   display: block;
   height: auto;
