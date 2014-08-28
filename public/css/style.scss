@@ -438,6 +438,14 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+/* Footnote text that appears below each post*/
+
+.footnotes {
+  border-top: 1px solid $light-grey;
+  font-size: 0.8rem;
+
+}
+
 
 /*
  * Footer
@@ -481,13 +489,14 @@ tbody tr:nth-child(odd) th {
   text-align: right;
 }
 
+
 /*
  * Bigfoot tooltip popovers
  *
  *
  */
 
- 
+
 .footnote-container {
   display: inline-block;
   position: relative;
