@@ -455,8 +455,6 @@ tbody tr:nth-child(odd) th {
 
 .pagination {
   color: $light-grey;
-  margin-top: $large-spacing;
-  margin-bottom: $large-spacing;
 }
 
 .pagination-item {
@@ -467,6 +465,8 @@ tbody tr:nth-child(odd) th {
 .pagination-time a{
   display: block;
   height: auto;
+  margin-top: $large-spacing;
+  margin-bottom: $large-spacing;
 }
 
 /* Pagination items can be `span`s or `a`s */
