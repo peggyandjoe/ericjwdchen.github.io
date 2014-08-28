@@ -477,11 +477,6 @@ tbody tr:nth-child(odd) th {
   text-align: right;
 }
 
-/* Only provide a hover state for linked pagination items */
-a.pagination-item:hover {
-  background-color: #f5f5f5;
-}
-
 
 /*
  * Bigfoot tooltip popovers
