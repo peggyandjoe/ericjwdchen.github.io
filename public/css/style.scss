@@ -465,6 +465,15 @@ tbody tr:nth-child(odd) th {
 }
 
 .pagination-item {
+  display: none;
+  height: 0;
+}
+
+.pagination a{
+  display: block;
+  height: auto;
+  margin-bottom: $large-spacing;
+  float: left;
   width: 50%;
 }
 
