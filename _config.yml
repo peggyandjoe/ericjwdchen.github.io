@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            ericjwdchen.org
 url:              http://ericjwdchen.github.io
-paginate:         2
+paginate:         5
 baseurl:          /
 author:
   name:           Eric Chen
