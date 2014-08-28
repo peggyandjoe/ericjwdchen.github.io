@@ -337,6 +337,13 @@ tbody tr:nth-child(odd) th {
   background-color: $green-matte;
 }
 
+
+.masthead a:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+
 .masthead-title {
   margin-top: 0;
   margin-bottom: $small-spacing;
@@ -365,11 +372,6 @@ tbody tr:nth-child(odd) th {
 .nav-page a {
   margin-right: 1rem;
   color: white;
-}
-
-.nav-page a:hover {
-  opacity: 0.8;
-  text-decoration: none;
 }
 
 
