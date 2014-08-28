@@ -459,6 +459,16 @@ tbody tr:nth-child(odd) th {
   margin-bottom: $large-spacing;
 }
 
+.pagination-item {
+  display: none;
+  height: 0;
+}
+
+.pagination-time a{
+  display: block;
+  height: auto;
+}
+
 /* Pagination items can be `span`s or `a`s */
 .newer {
   float: right;
