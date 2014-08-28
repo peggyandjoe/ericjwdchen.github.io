@@ -29,6 +29,7 @@ $green-matte: #94B288;
   //used as masthead background color
 $zune-brown: #583B2B;
 $light-grey: #7a7a7a;
+
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
 $page-width: 90vw;
@@ -108,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 2rem;
-  margin-top: 2rem;
+  margin-top: $large-spacing;
 }
 h2 {
   margin-top: 1rem;
@@ -400,8 +401,8 @@ tbody tr:nth-child(odd) th {
 /* Divider between posts on the homepage*/
 .divider {
   border-top: 1px solid $green-matte;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: $large-spacing;
+  margin-bottom: $large-spacing;
 }
 
 /* Related posts */
@@ -439,7 +440,7 @@ tbody tr:nth-child(odd) th {
 .footer {
   color: $light-grey;
   text-align: center;
-  margin: 2rem;
+  margin: $large-spacing;
 }
 
 .footer-logo {
