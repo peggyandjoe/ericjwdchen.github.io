@@ -65,7 +65,7 @@ But now, Taylor doesn't live that life, which explains why *Shake It Off* lacks 
 
 Don't get me wrong, I think "Shake It Off" is a great song. [^6] But at its heart, it's pop music.
 
-In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *Red*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of heartfelt music that I love, so who am I to complain?
+In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *Red*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of music that I love, so who am I to complain?
 
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
