@@ -19,8 +19,8 @@ My email is eric.jwd.chen~at~gmail.com.
 
 This site is built on [Jekyll](http://jekyllrb.com/), forked originally from [Poole](http://getpoole.com/), and generously hosted on [GitHub Pages](https://pages.github.com/).
 
-The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), Microsoft's deeply flawed yet iconic iPod competitor[^2].
+The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), Microsoft's deeply flawed yet iconic iPod competitor.[^2]
 
-[^1]: Pro tip: avocados + anything savory. Here is a long addition to test out the capability to handle paragraphs.
+[^1]: Pro tip: avocados + savory foods.
 
-[^2]: Mine was white, but brown makes a better logo.
+[^2]: Mine was white, but brown makes for a better logo.
