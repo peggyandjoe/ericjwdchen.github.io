@@ -67,6 +67,13 @@ In two years, I wonder if I will still be listening to "Shake It Off" and the re
 
 
 [^1]: *1989* era ≠ 1980s/1990s. Kind of confusing, but bear with me.
+$$
+        \begin{matrix}
+        1 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{matrix}
+$$
 
 [^2]: Note, though, that what I'm going to say is far from novel. It's been said [many][] [times][] [before][].
 
