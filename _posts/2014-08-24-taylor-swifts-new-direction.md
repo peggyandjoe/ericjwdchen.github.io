@@ -65,6 +65,13 @@ Don't get me wrong, I think "Shake It Off" is a great song. [^6] But at its hear
 
 In two years, I wonder if I will still be listening to "Shake It Off" and the rest of *1989*. My guess is probably not. I will, however, still be listening to *Taylor Swift*, *Fearless*, *Speak Now*, and half of *Red*. Thinking about it that way, there really is nothing to lament about Taylor's move to pop music. She has given me, and millions of others, hours of music that I love, so who am I to complain?
 
+$$
+        \begin{matrix}
+        1 & x & x^2 \\
+        1 & y & y^2 \\
+        1 & z & z^2 \\
+        \end{matrix}
+$$
 
 [^1]: $$
         \begin{matrix}
