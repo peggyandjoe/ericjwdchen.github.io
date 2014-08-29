@@ -74,7 +74,7 @@ In two years, I wonder if I will still be listening to "Shake It Off" and the re
 
 [^3]: Can we all also agree that her old music videos were so much better?
 
-[^4]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [Red][Red album sales]
+[^4]: 26 million from [this 2011 press release][Big Machine press release] plus 8 million from [Red][Red album sales].
 
 [^5]: It won't even be officially released to country music stations.
 
