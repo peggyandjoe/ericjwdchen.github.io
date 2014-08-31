@@ -27,7 +27,7 @@
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}rss.xml">
 
   <!-- Mathjax -->
   <script async type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
@@ -81,5 +81,23 @@
 
   <!--Twitter Summary Cards-->
 
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@ericjwdchen_org">
+  <meta name="twitter:creator" content="@ericjwdchen">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/favicon-160x160.png">
+{% endif %}
 
 </head>
