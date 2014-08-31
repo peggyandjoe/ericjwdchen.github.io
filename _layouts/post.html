@@ -8,6 +8,15 @@ layout: default
   {{ content }}
 </div>
 
+//For Twitter Summary Cards
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@ericjwdchen_org" />
+<meta property="twitter:creator" content="@ericjwdchen" />
+<meta property="twitter:title" content="{{ page.title }}" />
+<meta property="twitter:description" content="{{ content }}" />
+<meta property="twitter:image" content="http://ericjwdchen.org/public/favicon-160x160.png" />
+
 <!--
 <div class="related">
   <h2>Related Posts</h2>
