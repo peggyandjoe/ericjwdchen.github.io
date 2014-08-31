@@ -27,7 +27,7 @@
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}rss">
 
   <!-- Mathjax -->
   <script async type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
@@ -77,4 +77,15 @@
       {{ page.title }} &#124; {{ site.title }}
     {% endif %}
   </title>
+
+
+  <!--Twitter Summary Cards-->
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@ericjwdchen_org">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ content }}">
+  <meta name="twitter:creator" content="@ericjwdchen">
+  <meta name="twitter:image:src" content="http://ericjwdchen.org/public/favicon-160x160.png">
+
 </head>
