@@ -17,8 +17,7 @@
  * Footer
  * Posts and pages
  * Pagination
- * Reverse layout
- * Themes
+ * Responsive iFrame Embeds
  * Bigfoot tooltip popovers
  */
 
@@ -487,6 +486,29 @@ tbody tr:nth-child(odd) th {
 /* Pagination items can be `span`s or `a`s */
 .newer {
   text-align: right;
+}
+
+
+/*
+ * Responsive iFrame Embeds
+ *
+ *
+ */
+
+.responsive-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.responsive-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 
