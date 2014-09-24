@@ -9,9 +9,13 @@ Note, I will use the past tense to refer to everything previous to Taylor's new 
 
 I haven't been on the Taylor Swift bandwagon forever. When I first heard "Teardrops on My Guitar," I wrote her off as kitschy and "a fad."
 
+###Here is an h3.
+
 But as things have their way of happening, no longer than two years after my initial sour reaction, my opinions changed. I saw past my first impressions and fell in love with her music.
 
 Five years ago I couldn't have told you what made Taylor's music was so magnetic. It just was.
+
+##What is this h2??
 
 Now, though, I know what that "X-Factor" was.[^2]
 
