@@ -36,12 +36,27 @@ $page-width: 90vw;
 $max-page-width: 750px;
 $footer-height: 128px;
 
-@mixin underline($colour:$themecolour, $line-offset:1, $line-size:0.1) {
-  background-repeat: repeat-x;
-  background-size: #{$line-size}em #{$line-size}em;
-  background-position: 0 #{$line-offset}em;
+@mixin underline($background: #fff, $color: #ccc, $distance: 2, $width: 1, $clear-descenders: true) {
+  display: inline;
   text-decoration: none;
-  @include background-image(linear-gradient(top, transparent 50%, $colour 50%));
+  background-repeat: repeat-x;
+
+  @include background-image(
+    linear-gradient(rgba($background, 0) 50%, $color 50%)
+  );
+
+  background-size: rem-calc(2) rem-calc($width);
+  background-position: 0 (1rem + rem-calc($distance));
+  padding-bottom: rem-calc($width) + rem-calc($distance);
+
+  @if $clear-descenders {
+    @include text-shadow(
+      rem-calc(-1) rem-calc(-1) 0 $background,
+      rem-calc(1) rem-calc(-1) 0 $background,
+      rem-calc(-1) rem-calc(1) 0 $background,
+      rem-calc(1) rem-calc(1) 0 $background
+    );
+  }
 }
 
 * {
