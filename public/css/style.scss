@@ -89,20 +89,20 @@ a strong {
 //a:hover,
 //a:focus {
 ///  text-decoration: underline;
-//} 
+//}
 
 
 a {
   text-decoration: none;
-  color: $text;
+  color: $red-orange;
   background-image: linear-gradient(#fff 50%, $text 50%);
   background-repeat: repeat-x;
   &:hover {
-    color: $blue;
+    color: $green-matte;
     background-image: linear-gradient(#fff 50%, $blue 50%);
   }
   &:visited {
-    color: $purple;
+    color: $red-orange;
     background-image: linear-gradient(#fff 50%, $purple 50%);
   }
 }
