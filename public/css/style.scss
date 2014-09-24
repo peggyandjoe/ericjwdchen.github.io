@@ -78,7 +78,7 @@ html, body {
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
-a {
+/*a {
   color: $red-orange;
   text-decoration: none;
 }
@@ -86,10 +86,27 @@ a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
-  text-decoration: underline;
+//a:hover,
+//a:focus {
+///  text-decoration: underline;
+//} 
+
+
+a {
+  text-decoration: none;
+  color: $text;
+  background-image: linear-gradient(#fff 50%, $text 50%);
+  background-repeat: repeat-x;
+  &:hover {
+    color: $blue;
+    background-image: linear-gradient(#fff 50%, $blue 50%);
+  }
+  &:visited {
+    color: $purple;
+    background-image: linear-gradient(#fff 50%, $purple 50%);
+  }
 }
+
 
 
 /*Permalink link styling*/
