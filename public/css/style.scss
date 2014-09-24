@@ -81,7 +81,6 @@ html, body {
 a {
   color: $red-orange;
   text-decoration: none;
-   @include underline(#aa0000);
 }
 a strong {
   color: inherit;
