@@ -41,9 +41,7 @@ $footer-height: 128px;
   text-decoration: none;
   background-repeat: repeat-x;
 
-  @include background-image(
-    linear-gradient(rgba($background, 0) 50%, $color 50%)
-  );
+    background: linear-gradient(rgba($background, 0) 50%, $color 50%);
 
   background-size: rem-calc(2) rem-calc($width);
   background-position: 0 (1rem + rem-calc($distance));
