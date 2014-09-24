@@ -95,15 +95,15 @@ a strong {
 a {
   text-decoration: none;
   color: $green-matte;
-  background-image: linear-gradient(#fff 50%, $text 50%);
+  background-image: linear-gradient(#fff 50%, $green-matte 50%);
   background-repeat: repeat-x;
   :hover {
     color: $green-matte;
-    background-image: linear-gradient(#fff 50%, $blue 50%);
+    background-image: linear-gradient(#fff 50%, $green-matte 50%);
   }
   :visited {
     color: $red-orange;
-    background-image: linear-gradient(#fff 50%, $purple 50%);
+    background-image: linear-gradient(#fff 50%, $red-orange 50%);
   }
 }
 
