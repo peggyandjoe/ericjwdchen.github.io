@@ -94,19 +94,23 @@ a strong {
 
 a {
   text-decoration: none;
-  color: $green-matte;
-  background-image: linear-gradient(#fff 50%, $green-matte 50%);
+  color: $text;
+  background-image: linear-gradient(#fff 50%, $text 50%);
   background-repeat: repeat-x;
-  :hover {
-    color: $green-matte;
-    background-image: linear-gradient(#fff 50%, $green-matte 50%);
+  &:hover {
+    color: $blue;
+    background-image: linear-gradient(#fff 50%, $blue 50%);
   }
-  :visited {
-    color: $red-orange;
-    background-image: linear-gradient(#fff 50%, $red-orange 50%);
+  &:visited {
+    color: $purple;
+    background-image: linear-gradient(#fff 50%, $purple 50%);
   }
 }
 
+
+$text: #333;
+$blue: #0077aa;
+$purple: #550088;
 
 
 /*Permalink link styling*/
