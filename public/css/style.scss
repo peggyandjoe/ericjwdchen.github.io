@@ -97,11 +97,11 @@ a {
   color: $green-matte;
   background-image: linear-gradient(#fff 50%, $text 50%);
   background-repeat: repeat-x;
-  &:hover {
+  :hover {
     color: $green-matte;
     background-image: linear-gradient(#fff 50%, $blue 50%);
   }
-  &:visited {
+  :visited {
     color: $red-orange;
     background-image: linear-gradient(#fff 50%, $purple 50%);
   }
