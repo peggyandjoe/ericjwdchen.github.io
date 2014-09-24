@@ -42,11 +42,6 @@ $footer-height: 128px;
   background-position: 0 #{$line-offset}em;
   text-decoration: none;
   @include background-image(linear-gradient(top, transparent 50%, $colour 50%));
-
-  .lt-ie10 & { // because old IE can't handle it
-    background: none;
-    text-decoration: underline;
-  }
 }
 
 * {
