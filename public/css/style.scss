@@ -92,26 +92,13 @@ a strong {
 //}
 
 
-$text: #333;
-$blue: #0077aa;
-$purple: #550088;
-
 a {
-  text-decoration: none;
-  color: $text;
-  background-image: linear-gradient(#fff 50%, $text 50%);
-  background-repeat: repeat-x;
-  &:hover {
-    color: $blue;
-    background-image: linear-gradient(#fff 50%, $blue 50%);
-  }
-  &:visited {
-    color: $purple;
-    background-image: linear-gradient(#fff 50%, $purple 50%);
-  }
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, white 75%, #333332 75%);
+    background-size: 2px 2px;
+    background-position: 0px 24px;
+    background-repeat: repeat-x;
 }
-
-
 
 /*Permalink link styling*/
 
