@@ -36,6 +36,19 @@ $page-width: 90vw;
 $max-page-width: 750px;
 $footer-height: 128px;
 
+@mixin underline($colour:$themecolour, $line-offset:1, $line-size:0.1) {
+  background-repeat: repeat-x;
+  background-size: #{$line-size}em #{$line-size}em;
+  background-position: 0 #{$line-offset}em;
+  text-decoration: none;
+  @include background-image(linear-gradient(top, transparent 50%, $colour 50%));
+
+  .lt-ie10 & { // because old IE can't handle it
+    background: none;
+    text-decoration: underline;
+  }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -78,27 +91,21 @@ html, body {
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
-/*a {
+a {
   color: $red-orange;
   text-decoration: none;
+   @include underline(#aa0000);
 }
 a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
-//a:hover,
-//a:focus {
-///  text-decoration: underline;
-//}
-
-
-a {
-    text-decoration: none;
-    background-image: linear-gradient(to bottom, white 75%, #333332 75%);
-    background-size: 2px 2px;
-    background-position: 0px 24px;
-    background-repeat: repeat-x;
+a:hover,
+a:focus {
+ text-decoration: underline;
 }
+
+
 
 /*Permalink link styling*/
 
