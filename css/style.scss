@@ -399,7 +399,6 @@ tbody tr:nth-child(odd) th {
 /* Blog post or page title */
 .post-title a {
   color: black;
-  transition: border-color 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 
 .page-title a:hover,
