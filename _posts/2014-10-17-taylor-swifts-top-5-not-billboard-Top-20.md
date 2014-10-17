@@ -3,7 +3,7 @@ layout: post
 title: Taylor Swift's Top 5 Not on the Billboard Top 20 Songs
 ---
 
-There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dictionary]. I am a member and occasional contributor to [/r/TaylorSwift][reddit Taylor Swift], frequently peruse [AnalyzingTaylor.tumblr.com][tumblr analyzing taylor], and have created, for personal discovery and enrichment purposes, a histogram detailing my play counts of every single Taylor Swift song—the histogram is skewed right, if you were wondering. Needless to say, I know Taylor’s music all too well. Those of you who don’t share the same passion could still benefit from adding some diversity to your musical selections. In honor of Swift’s upcoming album release, I urge you to shake off the mainstream and be a little hipster with this list of the top 5 Taylor Swift songs that never cracked the Billboard Top 20.
+There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dictionary]. I am a member and occasional contributor to [/r/TaylorSwift][reddit Taylor Swift], frequently peruse [AnalyzingTaylor.tumblr.com][tumblr analyzing taylor], and have created, for personal discovery and enrichment purposes, [a histogram][histogram play counts] detailing my play counts of every single Taylor Swift song—the histogram is skewed right, if you were wondering. Needless to say, I know Taylor’s music all too well. Those of you who don’t share the same passion could still benefit from adding some diversity to your musical selections. In honor of Swift’s upcoming album release, I urge you to shake off the mainstream and be a little hipster with this list of the top 5 Taylor Swift songs that never cracked the Billboard Top 20.
 
 ##Tim McGraw
 
@@ -30,3 +30,5 @@ Because “Dark Blue Tennessee” was never officially released, the only way to
 [reddit taylor swift]: http://www.reddit.com/r/Taylorswift
 
 [tumblr analyzing taylor]: http://analyzingtaylor.tumblr.com/
+
+[histogram play counts]: http://ericjwdchen.org/2014/09/24/graphing-the-play-counts-of-taylor-swift-songs/
