@@ -340,9 +340,8 @@ tbody tr:nth-child(odd) th {
 
 .masthead-container {
   background-color: $green-matte;
-}
 
-.masthead a{
+.masthead a {
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .masthead a:hover {
@@ -358,20 +357,6 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title a {
   color: white;
-}
-
-
-.masthead-title small {
-  font-size: 0.75em;
-  color: black;
-  letter-spacing: 0;
-}
-
-@media all and (max-width: 599px) {
-  .masthead-title small {
-    font-size: 0.7em;
-    display: block;
-  }
 }
 
 .nav-page a {
