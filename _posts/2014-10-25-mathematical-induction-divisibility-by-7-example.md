@@ -17,4 +17,4 @@ We first verify the base \\(n=0\\) case:
 
 We wish to show that \\(P(k)\implies P(k+1) \, \forall k \geq 0\\).
 We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
-Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \z\\).
+Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \Z \\).
