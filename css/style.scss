@@ -352,11 +352,12 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: $small-spacing;
-  margin-right: 1rem;
   font-weight: normal;
 }
+
 .masthead-title a {
   color: white;
+  margin-right: 1rem;
 }
 
 .nav-page a {
@@ -364,8 +365,6 @@ tbody tr:nth-child(odd) th {
   margin-right: 1rem;
   color: white;
 }
-
-
 
 /*
  * Posts and pages
