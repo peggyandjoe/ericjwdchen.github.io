@@ -11,7 +11,7 @@
           <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </span>
-        <span><div class="nav-page">
+        <span class="nav-page">
         {% for weight in (1..10) %}
           {% for p in site.pages %}
             {% if p.weight == weight %}
@@ -22,7 +22,7 @@
           {% endfor %}
         {% endfor %}
         <a href ="/rss.xml">RSS</a>
-      </div></span>
+      </span>
     </div>
     </div>
     <div class="container content">
