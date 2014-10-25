@@ -23,3 +23,6 @@ github:
 gems:
   - jekyll-sitemap
   - pygments.rb
+
+sass:
+  style: :compressed
