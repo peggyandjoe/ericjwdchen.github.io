@@ -42,7 +42,7 @@ Taking flight, making me feel right.*
 “Everything has Changed,” a collaboration with the fiery Ed Sheeran on Taylor’s fourth studio album Red, is a moment when 2 plus 2 really does equal 5. The warmth of Ed’s voice and the treble of Taylor’s pair to create something as tender and delicate—in the best way—as a warm brioche.
 
 ##Dark Blue Tennessee
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/T0hbuqu2gUg' frameborder='0' allowfullscreen></iframe></div>gi
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/T0hbuqu2gUg' frameborder='0' allowfullscreen></iframe></div>
 *She almost called him on the night that he wrote<br>
 These simple words on his goodbye note.*
 
