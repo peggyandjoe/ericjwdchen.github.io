@@ -21,7 +21,7 @@
  * Bigfoot tooltip popovers
  */
 
-@import url(http://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,,300italic,400,400italic,700);
 
 $red-orange: #BF1F49;
 $green-matte: #94B288;
@@ -340,8 +340,9 @@ tbody tr:nth-child(odd) th {
 
 .masthead-container {
   background-color: $green-matte;
+}
 
-.masthead a {
+.masthead a{
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .masthead a:hover {
@@ -357,13 +358,25 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title a {
   color: white;
-  margin-right: 1rem;
+}
+
+
+.masthead-title small {
+  font-size: 0.75em;
+  color: black;
+  letter-spacing: 0;
+}
+
+@media all and (max-width: 599px) {
+  .masthead-title small {
+    font-size: 0.7em;
+    display: block;
+  }
 }
 
 .nav-page a {
-  font-size: 0.8rem;
   margin-right: 1rem;
-  color: white;
+  color: $red-orange;
 }
 
 
