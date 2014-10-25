@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 I live in Wisconsin and attend the [Lawrenceville School](http://www.lawrenceville.org/index.aspx).
 
-I love food, [podcasts](/my-favorite-podcasts), and technology.
+I love food, podcasts, and technology.
 
 You can [follow me on Twitter](https://twitter.com/ericjwdchen).
 

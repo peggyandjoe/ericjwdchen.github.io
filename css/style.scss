@@ -28,13 +28,11 @@ $green-matte: #94B288;
   //used as masthead background color
 $zune-brown: #583B2B;
 $light-grey: #c7c7c7;
-//7a7a7a;
 
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 750px;
-$footer-height: 128px;
 
 * {
   box-sizing: border-box;
@@ -49,23 +47,6 @@ html {
   font-family: Lato, sans-serif;
   font-size: 18px;
   line-height: 1.45;
-}
-
-.wrapper {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -1*$footer-height;
-  /* the bottom margin is the negative value of the footer's height */
-}
-
-.clear {
-  clear: both;
-  width: 100%;
-}
-
-footer, .push {
-	height: $footer-height; /* '.push' must be the same height as 'footer' */
 }
 
 html, body {
