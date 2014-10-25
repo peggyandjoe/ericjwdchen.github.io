@@ -14,3 +14,6 @@ We wish to show that \\(P(n)\\) is true \\(\forall n \geq0\\).
 We first verify the base \\(n=0\\) case:
 \\[3^{2\times0+1}+2^{0+2}=3^1+2^2=7\\]
 \\[1 \times 7 = 7\\]
+
+We wish to show that \\(P(k) \implies P(k+1) \forall k \geq 0\\).
+We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
