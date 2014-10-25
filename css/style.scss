@@ -352,16 +352,16 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: $small-spacing;
+  margin-right: 1rem;
   font-weight: normal;
 }
-
 .masthead-title a {
   color: white;
 }
 
 .nav-page a {
   font-size: 0.8rem;
-  margin-left: 1rem;
+  margin-right: 1rem;
   color: white;
 }
 
