@@ -342,8 +342,10 @@ tbody tr:nth-child(odd) th {
   background-color: $green-matte;
 }
 
-.masthead a{
+.masthead a {
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
+  color: white;
+  margin-right: 1rem;
 }
 .masthead a:hover {
   opacity: 0.8;
@@ -354,29 +356,6 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   margin-bottom: $small-spacing;
   font-weight: normal;
-}
-
-.masthead-title a {
-  color: white;
-}
-
-
-.masthead-title small {
-  font-size: 0.75em;
-  color: black;
-  letter-spacing: 0;
-}
-
-@media all and (max-width: 599px) {
-  .masthead-title small {
-    font-size: 0.7em;
-    display: block;
-  }
-}
-
-.nav-page a {
-  margin-right: 1rem;
-  color: $red-orange;
 }
 
 
@@ -474,7 +453,7 @@ tbody tr:nth-child(odd) th {
   color: $light-grey;
 }
 
-.pagination a{
+.pagination a {
   display: block;
   height: auto;
   margin-bottom: $large-spacing;
