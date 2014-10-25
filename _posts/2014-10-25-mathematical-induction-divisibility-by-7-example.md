@@ -3,4 +3,4 @@ layout: post
 title: Mathematical Induction Divisibility by 7 Example
 ---
 
-<p>Prove that \(\sqrt{3x-1}+(1+x)^2\) for any x.</p>
+<p>Prove that \(\3^{2n+1}+2^{n+2}\) is divisible by 7 for every nonnegative integer n.</p>
