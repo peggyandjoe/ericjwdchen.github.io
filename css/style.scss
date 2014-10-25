@@ -52,7 +52,7 @@ html {
 html, body {
 	height: 100%;
 }
-@media (min-width: 38em) {
+@media (min-width: 600px) {
   html {
     font-size: 20px;
   }
@@ -344,6 +344,9 @@ tbody tr:nth-child(odd) th {
   font-size: 0.9rem;
 }
 
+@media (max-width: 600px) {
+  width: 100%;
+}
 
 /*
  * Posts and pages
