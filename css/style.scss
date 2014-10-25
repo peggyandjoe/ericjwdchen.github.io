@@ -346,7 +346,6 @@ tbody tr:nth-child(odd) th {
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .masthead a:hover {
-
   opacity: 0.8;
   text-decoration: none;
 }
@@ -399,12 +398,6 @@ tbody tr:nth-child(odd) th {
 /* Blog post or page title */
 .post-title a {
   color: $red-orange;
-}
-
-.page-title a:hover,
-.post-title a:hover {
-  border-bottom: 2px solid $green-matte;
-  text-decoration: none;
 }
 
 /* Meta data line below post title */
