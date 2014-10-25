@@ -12,8 +12,7 @@ I love food, [podcasts](/my-favorite-podcasts), and technology.
 
 You can [follow me on Twitter](https://twitter.com/ericjwdchen).
 
-My email is eric.jwd.chen~at~gmail.com.
-
+My email is eric~at~ericjwdchen.org.
 
 ##How the Sausage is Made
 
