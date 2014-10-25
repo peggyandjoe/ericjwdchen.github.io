@@ -12,4 +12,4 @@ Let \\(P(n)\\) be: \\(3^{2n+1}+2^{n+2}\\) is divisible by 7.
 We wish to show that \\(P(n)\\) is true \\(\forall n \geq0\\).
 
 We first verify the base \\(n=0\\) case:
-\\[3^{2*0+1}+2^{0+2}=3^1+2^2=7\\]
+\\[3^{2\times0+1}+2^{0+2}=3^1+2^2=7\\]
