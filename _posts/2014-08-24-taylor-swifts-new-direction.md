@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taylor Swift's New Direction
-link: espn.com
+link: http://espn.com
 ---
 
 Note, I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era. [^1]
