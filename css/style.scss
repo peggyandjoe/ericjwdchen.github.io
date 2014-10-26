@@ -325,7 +325,6 @@ tbody tr:nth-child(odd) th {
 .masthead a {
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
   color: white;
-  margin-right: 1rem;
 }
 .masthead a:hover {
   opacity: 0.8;
@@ -337,10 +336,11 @@ tbody tr:nth-child(odd) th {
   margin-bottom: $small-spacing;
   margin-right: 2rem;
   font-weight: normal;
+  font-size: 1.2rem;
 }
 
 .nav-page {
-  font-size: 0.9rem;
+  margin-right: 1rem;
 }
 
 @media (max-width: 600px) {
