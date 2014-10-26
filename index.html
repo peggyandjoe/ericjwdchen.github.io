@@ -21,9 +21,9 @@ title: Home
     <p>
       <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
       {% if post.link %}
-        <a href="{{ post.url }}">
+        <span><a href="{{ post.url }}">
           ∞
-        </a>
+        </a></span>
       {% endif %}
     </p>
     {{ post.content }}
