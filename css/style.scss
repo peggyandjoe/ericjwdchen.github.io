@@ -8,7 +8,6 @@
 
 /*
  * Contents
- *
  * Body resets
  * Custom type
  * Messages
@@ -144,7 +143,7 @@ hr {
 }
 
 hr:after {
-  content: "❊ ❊ ❊";
+  content: "· · ·";
   letter-spacing: 0.25em;
 }
 
