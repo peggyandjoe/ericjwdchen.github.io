@@ -16,8 +16,8 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
       <h1 class="post-title">
-        {% if post.external_url %}
-          <a href="{{ post.external_url }}">
+        {% if post.link %}
+          <a href="{{ post.link }}">
             {{ post.title }}⇝
           </a>
         {% else %}
