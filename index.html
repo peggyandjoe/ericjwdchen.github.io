@@ -19,12 +19,14 @@ title: Home
       </h1>
 
     <p>
-      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-      {% if post.link %}
-        <span><a href="{{ post.url }}">
-          ∞
-        </a></span>
-      {% endif %}
+      <span class="post-date">
+        {{ post.date | date: "%B %d, %Y" }}
+        {% if post.link %}
+          <span><a href="{{ post.url }}">
+            ∞
+          </a></span>
+        {% endif %}
+      </span>
     </p>
     {{ post.content }}
   </div>
