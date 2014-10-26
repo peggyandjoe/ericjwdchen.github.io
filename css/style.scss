@@ -83,6 +83,7 @@ a:focus {
 .permalink:hover,
 .permalink:focus {
   color: $green-matte !important;
+  text-decoration: none;
 }
 
 /* Headings */
