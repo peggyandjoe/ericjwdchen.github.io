@@ -32,3 +32,7 @@ $$
 &= 9\underbrace{(3^{2k+1}+2^{k+2})}_{Divisible\,by\,7}-7(2^{k+2})
 \end{align*}
 $$
+
+We have shown \\(3^{2(k+1)+1}+2^{(k+1)+2}=9(3^{2k+1}+2^{k+2})-7(2^{k+2}\\). Because both \\(9(3^{2k+1}\\) and \\(7(2^{k+2}\\) are both divisible by \\(7\\), it follows that \\(3^{2(k+1)+1}+2^{(k+1)+2})\\ is divisible by \\(7\\).
+
+Thus, \\(P(k)\implies P(k+1) \\) as needed, so \\(P(n) \\) is true \\(\forall n \geq 0\\)
