@@ -29,17 +29,7 @@ $$
 & 3^{2(k+1)+1}+2^{(k+1)+2} \\
 & = 3^{(2k+1)+2}+2^{(k+2)+1} \\
 & = 3^{2}(3^{2k+1})+2^{1}2^{k+2} \\
-& (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-  \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-  \vdots & \ddots & \vdots \\
-  \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-  \end{array} \right)
-  \left( \begin{array}{c}
-    y_1 \\
-    \vdots \\
-    y_n
-    \end{array} \right)
-    \end{align*}
+\end{align*}
 $$
 
 $$
