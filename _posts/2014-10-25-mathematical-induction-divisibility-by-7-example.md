@@ -44,8 +44,7 @@ $$
 
 $$
 \begin{eqnarray*}
-{a + b + c + d
-  + e + f + g + h}\nonumber\\
+{a + b + c + d + e + f + g + h}\nonumber\\
   & = & i + j + k + l + m
   \\
   & = & n + o + p + q + r + s
