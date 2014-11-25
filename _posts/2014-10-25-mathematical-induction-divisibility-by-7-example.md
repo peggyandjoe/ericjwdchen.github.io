@@ -22,5 +22,5 @@ We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
 
 Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \mathbb{Z}\\).
 
-Consider \\(\begin{align*}3^{2(k+1)+1}+2^{(k+1)+2}&=3^{(2k+1)+2}+2^{(k+2)+2} \\
-&= x^2 + (a+b)x + ab \end{align*} \\)
+Consider \\(\begin{align}3^{2(k+1)+1}+2^{(k+1)+2}&=3^{(2k+1)+2}+2^{(k+2)+2} \\
+&= x^2 + (a+b)x + ab \end{align} \\)
