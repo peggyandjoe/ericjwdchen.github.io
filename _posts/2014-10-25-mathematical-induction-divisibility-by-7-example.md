@@ -8,7 +8,7 @@ Prove that \\(3^{2n+1}+2^{n+2}\\) is divisible by \\(7\\) for every nonnegative 
 
 <hr>
 
-Let \\(P(n)\\) be: \\(3^{2n+1}+2^{n+2}\\) is divisible by \\(7\\).
+Let \\(P(n)\\) be: \\(7\mid3^{2n+1}+2^{n+2}\\).
 
 We wish to show that \\(P(n)\\) is true \\(\forall n \geq0\\).
 
@@ -33,6 +33,6 @@ $$
 \end{align*}
 $$
 
-We have shown \\(3^{2(k+1)+1}+2^{(k+1)+2}=9(3^{2k+1}+2^{k+2})-7(2^{k+2})\\). Because \\(7\mid3^{2k+1}+2^{k+2})\\) as assumed, and \\(7\\) is trivially divisible by \\(7\\), it follows that \\(3^{2(k+1)+1}+2^{(k+1)+2} \\) is divisible by \\(7\\).
+We have shown \\(3^{2(k+1)+1}+2^{(k+1)+2}=9(3^{2k+1}+2^{k+2})-7(2^{k+2})\\). Because \\(7\mid3^{2k+1}+2^{k+2}\\) as assumed, and \\(7\mid7\\) trivially, it follows that \\(7\mid3^{2(k+1)+1}+2^{(k+1)+2} \\).
 
 Thus, \\(P(k)\implies P(k+1) \\) as needed, so \\(P(n) \\) is true \\(\forall n \geq 0\\)
