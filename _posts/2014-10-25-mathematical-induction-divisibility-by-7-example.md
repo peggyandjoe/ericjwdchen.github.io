@@ -26,4 +26,4 @@ Consider \\(3^{2(k+1)+1}+2^{(k+1)+2}\begin{align*}&=3^{(2k+1)+2}+2^{(k+2)+2}\\)\
 &= x^2 + (a+b)x + ab
 \end{align*}
 
-Hello.
+Hello.f
