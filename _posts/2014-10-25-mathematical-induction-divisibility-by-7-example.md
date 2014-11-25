@@ -33,6 +33,6 @@ $$
 \end{align*}
 $$
 
-We have shown \\(3^{2(k+1)+1}+2^{(k+1)+2}=9(3^{2k+1}+2^{k+2})-7(2^{k+2})\\). Because \\((3^{2k+1}+2^{k+2})\\) is divisible by 7 as assumed, and \\(7\\) is trivially divisible by \\(7\\), it follows that \\(3^{2(k+1)+1}+2^{(k+1)+2} \\) is divisible by \\(7\\).
+We have shown \\(3^{2(k+1)+1}+2^{(k+1)+2}=9(3^{2k+1}+2^{k+2})-7(2^{k+2})\\). Because \\(7\mid3^{2k+1}+2^{k+2})\\) as assumed, and \\(7\\) is trivially divisible by \\(7\\), it follows that \\(3^{2(k+1)+1}+2^{(k+1)+2} \\) is divisible by \\(7\\).
 
 Thus, \\(P(k)\implies P(k+1) \\) as needed, so \\(P(n) \\) is true \\(\forall n \geq 0\\)
