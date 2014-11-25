@@ -44,7 +44,7 @@ $$
 
 $$
 \begin{eqnarray*}
-\lefteqn{a + b + c + d
+{a + b + c + d
   + e + f + g + h}\nonumber\\
   & = & i + j + k + l + m
   \\
