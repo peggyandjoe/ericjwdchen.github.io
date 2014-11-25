@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mathematical Induction: Divisibility by 7 Example"
-link: 
+link:
 ---
 
 Prove that \\(3^{2n+1}+2^{n+2}\\) is divisible by \\(7\\) for every nonnegative integer \\(n\\).
@@ -22,4 +22,6 @@ We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
 
 Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \mathbb{Z}\\).
 
-Consider \\(3^{2(k+1)+1}+2^{(k+1)+2}=3^{(2k+1)+2}+2^{(k+2)+2}\\)
+Consider \\(3^{2(k+1)+1}+2^{(k+1)+2}\begin{align*}&=3^{(2k+1)+2}+2^{(k+2)+2}\\)\\
+&= x^2 + (a+b)x + ab
+\end{align*}
