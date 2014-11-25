@@ -22,18 +22,7 @@ We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
 
 Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \mathbb{Z}\\).
 
-Consider \\(\begin{align}3^{2(k+1)+1}+2^{(k+1)+2}&=3^{(2k+1)+2}+2^{(k+2)+2} \\
-
-&= x^2 + (a+b)x + ab \end{align} \\)
-
-\\(\begin{align}
-  \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
-  \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-  \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-  \nabla \cdot \vec{\mathbf{B}} & = 0
-  \end{align}
-\\)
-
+Consider \\(3^{2(k+1)+1}+2^{(k+1)+2}&=3^{(2k+1)+2}+2^{(k+2)+2}\\)
 
 $$
 \begin{align*}
@@ -50,5 +39,4 @@ $$
     y_n
     \end{array} \right)
     \end{align*}
-    $$
-    
+$$
