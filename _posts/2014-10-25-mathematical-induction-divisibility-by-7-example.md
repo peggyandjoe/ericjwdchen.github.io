@@ -22,13 +22,13 @@ We assume \\(P(k)\\) to be true for some \\(k \geq 0\\).
 
 Thus \\(7q=3^{2k+1}+2^{k+2}\\) for some \\(q \in \mathbb{Z}\\).
 
-Consider \\(3^{2(k+1)+1}+2^{(k+1)+2}&=3^{(2k+1)+2}+2^{(k+2)+2}\\)
+Consider
 
 $$
 \begin{align*}
 & 3^{2(k+1)+1}+2^{(k+1)+2} \\
 &= 3^{(2k+1)+2}+2^{(k+2)+1} \\
 &= 9(3^{2k+1})+2(2^{k+2}) \\
-&= 9(3^{2k+1}+2^{k+2})-7(2^{k+2})
+&= 9\overbrace{(3^{2k+1}+2^{k+2})}^{Divisible by 9}-7(2^{k+2})
 \end{align*}
 $$
