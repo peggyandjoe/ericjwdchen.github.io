@@ -17,7 +17,7 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:           https://github.com/ericjwdchen
+github:         
   repo:           https://github.com/ericjwdchen/ericjwdchen.github.io
 
 gems:
