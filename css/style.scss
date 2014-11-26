@@ -479,6 +479,15 @@ tbody tr:nth-child(odd) th {
     height: 100%;
 }
 
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto; 
+}
+
 
 /*
  * Bigfoot tooltip popovers
