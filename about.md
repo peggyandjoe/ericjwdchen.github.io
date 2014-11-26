@@ -10,7 +10,7 @@ I live in Wisconsin and attend the [Lawrenceville School](http://www.lawrencevil
 
 I love food, podcasts, and technology.
 
-You can [follow me on Twitter](https://twitter.com/ericjwdchen).
+You can [find me on Twitter](https://twitter.com/ericjwdchen).
 
 My email is eric~at~ericjwdchen.org.
 
