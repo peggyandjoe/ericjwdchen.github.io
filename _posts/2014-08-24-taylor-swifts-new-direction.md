@@ -17,9 +17,9 @@ Now, though, I know what that "X-Factor" was.[^2]
 
 Here are two examples:[^3]
 
-<div class="responsive-container"><iframe src='http://www.youtube.com/embed/GkD20ajVxnY?start=63&amp;end=83' frameborder='0' allowfullscreen></iframe></div>
+<div class="responsive-container"><iframe src='http://www.youtube.com/embed/GkD20ajVxnY?start=63&amp;end=83'  allowfullscreen></iframe></div>
 
-<div class="responsive-container"><iframe src='http://www.youtube.com/embed/QSMOcaZlMUI?start=46&amp;end=70' frameborder='0' allowfullscreen></iframe></div>
+<div class="responsive-container"><iframe src='http://www.youtube.com/embed/QSMOcaZlMUI?start=46&amp;end=70'  allowfullscreen></iframe></div>
 
 I was attracted to the anecdotes.
 
@@ -40,19 +40,19 @@ Those moments full of feeling and depth. *I* was a part of Taylor's life. I was 
 
 Which is way "Shake It Off" worries me.
 
-<div class="responsive-container"><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=41' frameborder='0' allowfullscreen></iframe></div>
+<div class="responsive-container"><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=41' allowfullscreen></iframe></div>
 
 What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^4] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
 
 No. I shouldn't be. It was clear from *Red* that change was afoot.
 
-<div class="responsive-container"><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21&amp;end=40' frameborder='0' allowfullscreen></iframe></div>
+<div class="responsive-container"><iframe src='http://www.youtube.com/embed/WA4iX5D9Z64?start=21&amp;end=40'  allowfullscreen></iframe></div>
 
 *We Are Never Ever Getting Back Together* (*WANEGBT*) was still personal, but all signs turned toward pop. The lyrics lacked passion. The days of faded blue jeans, old Chevy trucks, and princesses were gone. The song was no longer driven by songwriting. Instead, *WANEGBT* relied on the incessant beat of an electronic drum. Taylor even seemed to admit this herself by [releasing a revised version][WANEGBT country version] of the song to country music radio stations.
 
 However, even though *Red* signaled the impending change, it also reaffirmed Taylor's country roots.
 
-<div class="responsive-container"><iframe src='http://www.youtube.com/embed/cMPEd8m79Hw?start=30&amp;end=96' frameborder='0' allowfullscreen></iframe></div>
+<div class="responsive-container"><iframe src='http://www.youtube.com/embed/cMPEd8m79Hw?start=30&amp;end=96' allowfullscreen></iframe></div>
 
 <hr>
 
