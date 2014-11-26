@@ -336,12 +336,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .nav-page a {
-  transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: opacity 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940);
   color: white;
 }
 
 .nav-page a:hover {
-  transition: opacity 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transition: opacity 0.2s cubic-bezier(0.550, 0.085, 0.680, 0.530);
   opacity: 0.8;
   text-decoration: none;
 }
