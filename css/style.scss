@@ -321,11 +321,22 @@ tbody tr:nth-child(odd) th {
   background-color: $green-matte;
 }
 
-.masthead a {
+
+.masthead-title a {
+  transition: color 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.masthead-title a:hover {
+  color: $red-orange;
+  text-decoration: none;
+}
+
+.nav-page a {
   transition: opacity 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
   color: white;
 }
-.masthead a:hover {
+
+.nav-page a:hover {
   opacity: 0.8;
   text-decoration: none;
 }
