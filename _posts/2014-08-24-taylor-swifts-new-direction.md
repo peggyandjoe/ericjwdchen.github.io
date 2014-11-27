@@ -28,7 +28,9 @@ I hope you think that little black dress <br>
 Think of my head on your chest <br>
 And my old faded blue jeans <br>
 When you think Tim McGraw <br>
-I hope you think of me</i><br><br></div>
+I hope you think of me</i><br></div>
+
+<hr>
 
 <div class="center"><i>The playful conversation starts <br>
 Counter all your quick remarks <br>
