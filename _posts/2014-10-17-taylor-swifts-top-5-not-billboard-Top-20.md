@@ -43,8 +43,8 @@ Taking flight, making me feel right.</i></div>
 
 ##Dark Blue Tennessee
 <div class='responsive-container'><iframe src='http://www.youtube.com/embed/T0hbuqu2gUg'  allowfullscreen></iframe></div>
-*She almost called him on the night that he wrote<br>
-These simple words on his goodbye note.*
+<div class="center"><i>She almost called him on the night that he wrote<br>
+These simple words on his goodbye note.</i></div>
 
 Because “Dark Blue Tennessee” was never officially released, the only way to listen to it is on YouTube with that terrible pitch shifting. In spite of that, the song still shines. It’s perhaps the most country of any song on this list. Taylor’s voice has a little twang, and the instrumentation is unapologetically small-town southern.
 
