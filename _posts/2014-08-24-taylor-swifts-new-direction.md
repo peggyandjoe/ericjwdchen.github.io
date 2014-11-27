@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taylor Swift's New Direction: Putting *1989* in Perspective"
+title: "Taylor Swift's New Direction: Putting <i>1989</i> in Perspective"
 ---
 
 Note, I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era. [^1]
