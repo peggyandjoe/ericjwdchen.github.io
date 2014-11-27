@@ -378,8 +378,10 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-date {
   text-transform: uppercase;
-  margin-bottom: 0.8rem;
+  
+  margin-bottom: 1rem;
   color: $light-grey;
+  font-size: 0.8rem;
 }
 
 /* Data line on archive page next to each title */
