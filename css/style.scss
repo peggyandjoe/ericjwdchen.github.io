@@ -350,6 +350,7 @@ tbody tr:nth-child(odd) th {
 
 .nav-page a {
   margin-right: 1rem;
+  text-transform: uppercase;
 }
 
 @media (max-width: 600px) {
@@ -377,11 +378,8 @@ tbody tr:nth-child(odd) th {
 
 /* Meta data line below post title */
 .post-date {
-  text-transform: uppercase;
-  
   margin-bottom: 1rem;
   color: $light-grey;
-  font-size: 0.8rem;
 }
 
 /* Data line on archive page next to each title */
