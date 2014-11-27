@@ -23,12 +23,12 @@ Here are two examples:[^3]
 
 I was attracted to the anecdotes.
 
-<div class="center">*When you think happiness <br>
+<div class="center"><i>When you think happiness <br>
 I hope you think that little black dress <br>
 Think of my head on your chest <br>
 And my old faded blue jeans <br>
 When you think Tim McGraw <br>
-I hope you think of me*</div>
+I hope you think of me</i></div>
 
 <div class="center">*The playful conversation starts <br>
 Counter all your quick remarks <br>
