@@ -30,9 +30,10 @@ And my old faded blue jeans <br>
 When you think Tim McGraw <br>
 I hope you think of me</i></div>
 
-<div class="center">*The playful conversation starts <br>
+
+<div class="center"><i>The playful conversation starts <br>
 Counter all your quick remarks <br>
-Like passing notes in secrecy*</div>
+Like passing notes in secrecy</i></div>
 
 Those moments full of feeling and depth. *I* was a part of Taylor's life. I was a part of her freshmen year. I knew about [her crush on that guy named Drew][freshman crush]. I knew about [the time when she thought she fell in love][fifteen song]. She could match the massive appeal of [Katy Perry](https://www.youtube.com/watch?v=F57P9C4SAW4) while writing about [one, single guy](https://www.youtube.com/watch?v=Y28pUGkk9vc).
 
