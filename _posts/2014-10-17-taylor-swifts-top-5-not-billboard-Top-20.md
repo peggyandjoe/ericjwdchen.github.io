@@ -26,7 +26,6 @@ Lead her up the stairwell.</i></div>
 Off Taylor’s second studio album Fearless, “White Horse” has brought me close to tears many, many times. It’s emotional from start to finish, but listen for that moment when the instruments drop off and it’s just Taylor; you will never forget that moment. I’ve forgotten everything about the day my little brother was born. I’ve forgotten to call my mom so many times (I’ll call you tomorrow mom, I promise). But this moment, this is something that I will never forget.
 
 ##Enchanted
-<div class='responsive-container'><iframe src='http://www.youtube.com/embed/QSMOcaZlMUI'  allowfullscreen></iframe></div>
 <div class="center"><i>There I was again tonight<br>
 Forcing laughter, faking smiles<br>
 Same old tired lonely place</i></div>
@@ -42,7 +41,6 @@ Taking flight, making me feel right.</i></div>
 “Everything has Changed,” a collaboration with the fiery Ed Sheeran on Taylor’s fourth studio album Red, is a moment when 2 plus 2 really does equal 5. The warmth of Ed’s voice and the treble of Taylor’s pair to create something as tender and delicate—in the best way—as a warm brioche.
 
 ##Dark Blue Tennessee
-<div class='responsive-container'><iframe src='http://www.youtube.com/embed/T0hbuqu2gUg'  allowfullscreen></iframe></div>
 <div class="center"><i>She almost called him on the night that he wrote<br>
 These simple words on his goodbye note.</i></div>
 
