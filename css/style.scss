@@ -224,12 +224,14 @@ pre code {
 blockquote {
   padding-top: 0rem;
   padding-bottom: 0rem;
+  margin: 0;
   border-left: 4px solid $light-grey;
   font-size: 0.9rem;
 }
 
 @media (max-width: 600px) {
   blockquote {
+    padding-left: 2rem;
   }
 }
 
