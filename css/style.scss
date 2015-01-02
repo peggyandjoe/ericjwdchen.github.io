@@ -135,10 +135,11 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  margin: 1.5rem 0;
+  margin: 0;
+  font-size: 2rem;
   border: none;
   text-align: center;
-  color: $light-grey;
+  color: $green-matte;
 }
 
 hr:after {
