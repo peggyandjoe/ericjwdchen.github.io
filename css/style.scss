@@ -222,19 +222,12 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-left: 1rem;
   margin: 0;
   border-left: 4px solid $light-grey;
   font-size: 0.9rem;
 }
 
-@media (max-width: 600px) {
-  blockquote {
-    padding-left: 5vw;
-    margin-left: -5vw;
-  }
-}
 
 blockquote p:last-child {
   margin-bottom: 0;
