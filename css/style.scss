@@ -135,8 +135,8 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  margin-top: -1rem;
-  margin-bottom: -1rem;
+  margin-top: -$small-spacing;
+  margin-bottom: -$small-spacing;
   font-size: 2rem;
   border: none;
   text-align: center;
