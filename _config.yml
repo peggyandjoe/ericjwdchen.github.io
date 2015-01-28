@@ -9,7 +9,7 @@ permalink:        pretty
 title:            ericjwdchen.org
 url:              http://ericjwdchen.org
 paginate:         5
-baseurl:          /
+baseurl:          
 author:
   name:           Eric Chen
   url:            https://twitter.com/ericjwdchen
