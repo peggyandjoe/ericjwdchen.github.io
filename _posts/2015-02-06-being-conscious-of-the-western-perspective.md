@@ -3,7 +3,7 @@ layout: post
 title: "Clean Air is Cheap for the U.S."
 ---
 
-In today's print edition of *The Economist*, ["The Cost of Clean Air"][http://www.economist.com/news/china/21642214-measures-combat-air-pollution-are-biting-hard-industrial-areas-already-hit-economic] details the other side of the proverbial environmental coin:
+In today's print edition of *The Economist*, ["The Cost of Clean Air"](http://www.economist.com/news/china/21642214-measures-combat-air-pollution-are-biting-hard-industrial-areas-already-hit-economic) details the other side of the proverbial environmental coin:
 
 >Zhang Minsheng, the owner, still gets some business from passing traffic. But the recent closure of nearby rock quarries, because of air-pollution restrictions, has taken its toll. He reckons his monthly income has fallen by 30-40% to around 4,000 yuan ($640). Next door a wholesale coal business has closed. So too have a small family-owned barbecue restaurant and an alcohol, tobacco and grocery store.
 
