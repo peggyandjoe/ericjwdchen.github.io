@@ -1,10 +1,6 @@
 ---
 layout: post
 title: "Clean Air is Cheap for the U.S."
-cover_image: http://upload.wikimedia.org/wikipedia/en/e/ee/Seattle_Skyline_from_Rizal_Park.jpg
-header_text_color: "rbga(255, 255, 255, 1.0)"
-site_header_text_color: "rgba(105, 81, 62, 0.8)"
-site_header_border_color: "rgba(105, 81, 62, 0.5)"
 ---
 
 In today's print edition of *The Economist*, ["The Cost of Clean Air"](http://www.economist.com/news/china/21642214-measures-combat-air-pollution-are-biting-hard-industrial-areas-already-hit-economic) details the other side of the proverbial environmental coin:
