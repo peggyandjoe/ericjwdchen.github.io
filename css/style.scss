@@ -312,6 +312,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
+  padding-top: $small-spacing;
+  padding-bottom: $small-spacing;
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
