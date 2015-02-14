@@ -3,7 +3,6 @@ layout: default
 ---
 <div class="post">
 
-
   <h1>
     {% if page.link %}
     <a href="{{ post.link }}">
@@ -12,6 +11,11 @@ layout: default
     {% else %}<span class="post-title>">{{ page.title }}</span>
     {% endif %}
   </h1>
+
+
+      {% if page.cover_image %}
+      <div class="cover-push"></div>
+      {% endif %}
 
   <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
   {{ content }}
