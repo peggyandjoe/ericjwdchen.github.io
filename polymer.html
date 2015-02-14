@@ -6,12 +6,21 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
-  <script src="/bower_components/polymer/polymer.js"></script>
-  <link rel="import" href="bower_components/polymer/polymer.html">
+  <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+ <link rel="import" href="bower_components/polymer/polymer.html">
+
+
+
 </head>
 <body>
   <p>hello</p>
 
-  
+    <!-- flex makes the bar span across the top of the main content area -->
+  <core-toolbar tool flex>
+    <!-- flex spaces this element and justifies the icons to the right-side -->
+    <div flex>Application</div>
+    <core-icon-button icon="refresh"></core-icon-button>
+    <core-icon-button icon="add"></core-icon-button>
+  </core-toolbar>
 </body>
 </html>
