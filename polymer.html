@@ -6,11 +6,40 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
-  <script src="/bower_components/platform/platform.js"></script>
+  <script src="/bower_components/polymer/polymer.min.js"></script>
   <link rel="import" href="bower_components/core-icons/core-icons.html">
 </head>
 <body>
   <p>hello</p>
-  <core-icon icon="android"></core-icon>
+
+  <polymer-element name="age-slider">
+    <template>
+      This is <b>{{owner}}</b>'s age-slider.
+      <b>{{name}}</b> lets me borrow it.
+      He likes the color <span style="color: {{color}}">{{color}}</span>.
+      I am <b>{{age}}</b> years old.
+      <p><label for="ageInput">Age:</label>
+      <input id="ageInput" type="range"
+             value="{{age}}">
+      <label for="nameInput">Name:</label>
+      <input id="nameInput" value="{{name}}"
+             placeholder="Enter name..."></p>
+    </template>
+    <script>
+      Polymer({
+        age: 25,
+        name: "Daniel",
+        color: "red",
+        owner: "Eric",
+        nameChanged: function() {
+          if (this.name) {
+            // Ensure name is capitalized
+            this.name = this.name[0].toUpperCase() +
+                        this.name.slice(1);
+          }
+        }
+      });
+  </script>
+  </polymer-element>
 </body>
 </html>
