@@ -6,7 +6,7 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I live in Wisconsin and attend the [Lawrenceville School](http://www.lawrenceville.org/index.aspx). I am a member of Princeton University's Class of 2019. I love food, podcasts, and technology.
+I live in Wisconsin and attend Princeton University. I love food, podcasts, and technology.
 
 You can find me on [Twitter](https://twitter.com/ericjwdchen) and [Github](https://github.com/ericjwdchen). IA full feed of this site is also available through [RSS](http://ericjwdchen.org/rss.xml) and [Twitter](https://twitter.com/ericjwdchen_org). My email is eric~at~ericjwdchen.org.
 
