@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 I live in Wisconsin and attend Princeton University. I love food, podcasts, and technology.
 
-You can find me on [Twitter](https://twitter.com/ericjwdchen) and [Github](https://github.com/ericjwdchen). IA full feed of this site is also available through [RSS](http://ericjwdchen.org/rss.xml) and [Twitter](https://twitter.com/ericjwdchen_org). My email is eric~at~ericjwdchen.org.
+You can find me on [Twitter](https://twitter.com/ericjwdchen) and [Github](https://github.com/ericjwdchen). A full feed of this site is also available through [RSS](http://ericjwdchen.org/rss.xml) and [Twitter](https://twitter.com/ericjwdchen_org). My email is eric~at~ericjwdchen.org.
 
 ##How the Sausage is Made
 
