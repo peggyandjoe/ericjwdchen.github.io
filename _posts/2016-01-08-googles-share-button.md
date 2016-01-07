@@ -16,17 +16,18 @@ Which is all well and good. That's what system icons should do. They should be c
 
 ## The Canonical Share Icon
 
-This is the Google's [sanctioned][sanctioned] share button.
+This is Google's [sanctioned][sanctioned] share button.
 
 ![Canonical Share Button](/assets/2015/01/ic_share_black_24dp.png){: .img-narrow}
 
-It's three nodes with lines connecting each of them. There isn't any great icon for sharing, but this one is reasonably clear.
+The icon is three nodes with lines connecting each of them. There isn't any [universal icon][ui] for sharing, but this one is reasonably clear.
 
 And most Google properties use the right one.
 
 ![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)
 
 [sanctioned]: https://design.google.com/icons/#ic_share
+[ui]: http://www.fastcodesign.com/3031872/why-isnt-there-a-standard-share-button
 
 ## The Reply Icon
 
