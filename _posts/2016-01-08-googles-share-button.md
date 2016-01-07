@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Share Button
+title: Google's Inconsistent Share Button
 ---
 
 Google's Material Design promises to not only to bring consistency across products, but also to bring consistency within Google’s design language itself.
