@@ -39,11 +39,16 @@ This button is almost worse than being obscure. It’s legitimately confusing be
 
 ![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png){: .img-narrow}
 
+
 [reply]: https://design.google.com/icons/#ic_reply
 
-[Google trends][Youtube web interface]
-Here it is in use in GMail.
+Here is the reply icon in GMail.
+
+![GMail Screenshot.png](/assets/2015/01/gmail-screenshot.png){: .img-narrow}
 
 And here it is in use in Inbox.
 
 Inexplicable. A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way. Let's make 2016 the year of the consistent share button.
+
+
+[Google trends][Youtube web interface]
