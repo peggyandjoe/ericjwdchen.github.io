@@ -13,12 +13,9 @@ This is the Google's [sanctioned][sanctioned] share button.
 
 ![Canonical Share Button](/assets/2015/01/ic_share_black_24dp_2x.png){: .img-narrow}
 
-And most Google Properties use the right one.
+And most Google properties use the right one.
 
-
-Here are examples of the correct share button.
-
-[play music for web][any android app]
+![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)
 
 [sanctioned]: https://design.google.com/icons/#ic_share
 
