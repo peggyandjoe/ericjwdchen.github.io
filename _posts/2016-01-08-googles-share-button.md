@@ -29,9 +29,7 @@ And most Google properties use the right one.
 
 But some use this.
 
-![Youtube Share Button](/assets/2015/01/youtube-share-button.gif){: .img-narrow}
-
-<img src="/assets/2015/01/youtube-share-button.gif" alt="Computer Man" loop ="infinite">
+![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
 [Youtube app][Google trends][Youtube web interface]
 Here it is in use in GMail.
