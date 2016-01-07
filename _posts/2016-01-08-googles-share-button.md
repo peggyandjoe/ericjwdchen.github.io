@@ -19,7 +19,7 @@ This is the Google's [sanctioned][sanctioned] share button.
 
 It's three nodes with lines connecting each of them. There isn't any great icon for sharing, but this one is reasonably clear.
 
-And most Google properties use the right it.
+And most Google properties use the right one.
 
 ![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)
 
@@ -28,6 +28,11 @@ And most Google properties use the right it.
 ## The Wrong Share Button
 
 But some use this.
+
+<video width="320" height="240" controls>
+  <source src="/assets/2015/01/.youtube-share-button.mp4" type="video/mp4">
+</video>
+
 [Youtube app][Google trends][Youtube web interface]
 Here it is in use in GMail.
 
