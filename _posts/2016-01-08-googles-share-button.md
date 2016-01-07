@@ -29,6 +29,8 @@ And most Google properties use the right one.
 
 But some use this.
 
+![Youtube Share Button](/assets/2015/01/youtube-share-button.gif){: .img-narrow}
+
 <video height="4em" width="auto" controls autoplay loop>
   <source src="/assets/2015/01/youtube-share-button.mp4" type="video/mp4">
 </video>
