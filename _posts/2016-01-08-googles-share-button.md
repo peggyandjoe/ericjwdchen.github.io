@@ -29,13 +29,15 @@ And most Google properties use the right one.
 
 But the Android Youtube app uses this.
 
-![Wrong Share Button](/assets/2015/01/ic_reply_black_24dp.png){: .img-narrow}
+![Wrong Share Button](/assets/2015/01/ic_reply_black_24dp_flipped.png){: .img-narrow}
 
 Here it is in action.
 
 ![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
-This button is almost worse than being obscure. It’s legitimately confusing because the mirrored version of the glyph means [reply][reply].
+This button is almost worse than being obscure. It’s legitimately confusing because the [mirrored version of the glyph][reply] means reply.
+
+![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png)
 
 [reply]: https://design.google.com/icons/#ic_reply
 
