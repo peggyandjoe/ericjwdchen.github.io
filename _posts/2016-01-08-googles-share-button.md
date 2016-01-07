@@ -10,7 +10,7 @@ While Google properties on the whole have made the Material Design transition, t
 The Canonical Share Button
 --------------------------
 
-![Canonical Share Button](/assets/2015/01/ic_share_black_24dp_2x.png){: .narrow}
+![Canonical Share Button](/assets/2015/01/ic_share_black_24dp_2x.png){: .img-narrow}
 
 And most Google Properties use the right one.
 
