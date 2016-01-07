@@ -11,7 +11,7 @@ In the design documentation, there are best practices for system icons:
 
 Which is all well and good. That's what system icons should do. They should be consistent and clear. But not everyone within Google has gotten the message yet.
 
-## The Canonical Share Button
+## The Canonical Share Icon
 
 This is the Google's [sanctioned][sanctioned] share button.
 
@@ -25,7 +25,19 @@ And most Google properties use the right one.
 
 [sanctioned]: https://design.google.com/icons/#ic_share
 
-## The Wrong Share Button
+## The Reply Icon
+
+This is Google's [reply][r] icon.
+
+![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png){: .img-narrow}
+
+Here is the reply icon in Gmail.
+
+![Gmail Screenshot.png](/assets/2015/01/gmail-screenshot.png)
+
+[r]: https://design.google.com/icons/#ic_reply
+
+## The Wrong Share Icon (the mirrored reply)
 
 But the Android Youtube app uses this.
 
@@ -35,20 +47,6 @@ Here it is in action.
 
 ![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
-This button is almost worse than being obscure. It’s legitimately confusing because the [mirrored version of the glyph][reply] means reply.
-
-![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png){: .img-narrow}
-
-
-[reply]: https://design.google.com/icons/#ic_reply
-
-Here is the reply icon in GMail.
-
-![GMail Screenshot.png](/assets/2015/01/gmail-screenshot.png)
-
-And here it is in use in Inbox.
+This button is almost worse than being obscure. It’s legitimately confusing because it's almost identical to the reply icon.
 
 Inexplicable. A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way. Let's make 2016 the year of the consistent share button.
-
-
-[Google trends][Youtube web interface]
