@@ -37,7 +37,7 @@ Here it is in action.
 
 This button is almost worse than being obscure. It’s legitimately confusing because the [mirrored version of the glyph][reply] means reply.
 
-![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png)
+![share-buttons-irl.png](/assets/2015/01/ic_reply_black_24dp.png){: .img-narrow}
 
 [reply]: https://design.google.com/icons/#ic_reply
 
