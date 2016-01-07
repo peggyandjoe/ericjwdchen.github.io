@@ -5,7 +5,11 @@ title: Google's Share Button
 
 Google's Material Design promises to not only to bring consistency across products, but also to bring consistency within Google’s design language itself.
 
-While Google properties on the whole have made the Material Design transition, there is still one glaring omission.
+In the design documentation, there are best practices for system icons:
+
+> Consistency aids user comprehension of icons. Use the existing system icons whenever possible and across different applications.
+
+Which is all well and good. That's what system icons should do. They should be consistent and clear. But not everyone within Google has gotten the message yet.
 
 ## The Canonical Share Button
 
@@ -13,7 +17,9 @@ This is the Google's [sanctioned][sanctioned] share button.
 
 ![Canonical Share Button](/assets/2015/01/ic_share_black_24dp_2x.png){: .img-narrow}
 
-And most Google properties use the right one.
+It's three nodes with lines connecting each of them. There isn't any great icon for sharing, but this one is reasonably clear.
+
+And most Google properties use the right it.
 
 ![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)
 
