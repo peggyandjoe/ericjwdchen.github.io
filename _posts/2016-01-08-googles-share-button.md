@@ -35,7 +35,9 @@ Here it is in action.
 
 ![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
-This button is almost worse than being obscure. It’s legitimately confusing because a reflected version of it “reply - insert the actual glyph if possible” glyph means reply.
+This button is almost worse than being obscure. It’s legitimately confusing because the mirrored version of the glyph means [reply][reply].
+
+[reply]: https://design.google.com/icons/#ic_reply
 
 [Google trends][Youtube web interface]
 Here it is in use in GMail.
