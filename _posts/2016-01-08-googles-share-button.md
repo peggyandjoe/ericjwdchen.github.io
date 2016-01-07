@@ -29,7 +29,7 @@ And most Google properties use the right one.
 
 But some use this.
 
-<video controls>
+<video>
   <source src="/assets/2015/01/.youtube-share-button.mp4" type="video/mp4">
 </video>
 
