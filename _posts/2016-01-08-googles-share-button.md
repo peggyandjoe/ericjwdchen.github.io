@@ -29,7 +29,7 @@ And most Google properties use the right one.
 
 But some use this.
 
-<video width="100%" autoplay loop>
+<video width="100%" controls autoplay loop>
   <source src="/assets/2015/01/youtube-share-button.mp4" type="video/mp4">
 </video>
 
