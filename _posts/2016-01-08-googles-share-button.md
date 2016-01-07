@@ -44,7 +44,7 @@ This button is almost worse than being obscure. It’s legitimately confusing be
 
 Here is the reply icon in GMail.
 
-![GMail Screenshot.png](/assets/2015/01/gmail-screenshot.png){: .img-narrow}
+![GMail Screenshot.png](/assets/2015/01/gmail-screenshot.png)
 
 And here it is in use in Inbox.
 
