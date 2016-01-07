@@ -43,7 +43,7 @@ Here is the reply icon in Gmail.
 
 ## The Wrong Share Icon (the mirrored reply)
 
-But the Android Youtube app uses this.
+But the Android YouTube app uses this.[^1]
 
 ![Wrong Share Button](/assets/2015/01/ic_reply_black_24dp_flipped.png){: .img-narrow}
 
@@ -54,3 +54,7 @@ Here it is in action.
 This button is  worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
 Inexplicable. A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
+
+[^1]: Google Trends also [falls victim][fv] to the non-standard share button.
+
+[fv]: https://www.google.com/trends/story/US_cu_94uFDVIBAAAgBM_en?hl=en-US&s=1
