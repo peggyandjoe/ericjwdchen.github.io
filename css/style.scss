@@ -20,8 +20,6 @@
  * Bigfoot tooltip popovers
  */
 
-@import url(http://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic);
-
 $red-orange: #BF1F49;
 $green-matte: #94B288;
   //used as masthead background color
@@ -43,7 +41,8 @@ body {
 }
 
 html {
-  font-family: Lato, sans-serif;
+  font-family: optima, verdana, sans-serif;
+  // used lato before, but moved away from web fonts
   font-size: 18px;
   line-height: 1.53;
 }
