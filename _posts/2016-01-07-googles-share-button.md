@@ -3,13 +3,13 @@ layout: post
 title: Google's Inconsistent Share Button
 ---
 
-Google's Material Design promises to not only to bring consistency across products, but also to bring consistency within Google’s design language itself.
+Google's Material Design promises not only to bring consistency across products, but also to bring consistency within Google’s design language itself.
 
 In the [Material Design documentation][MD doc], there are [best practices for system icons][bp]:
 
 > Consistency aids user comprehension of icons. Use the existing system icons whenever possible and across different applications.
 
-Which is all well and good. That's what system icons should do. They should be consistent and clear. But not everyone within Google has gotten the message yet.
+Which is all well and good. That's what system icons should do. They should be consistent and clear. But not as we start 2016, not everyone within Google has gotten the message yet.
 
 [MD doc]: https://www.google.com/design/spec/material-design/introduction.html
 [bp]: https://www.google.com/design/spec/style/icons.html#icons-system-icons
