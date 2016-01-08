@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 ![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right}
 
-I live in Wisconsin and attend Princeton University. I'm a food, podcast, and technology enthusiast.
+I live in Wisconsin and attend Princeton University. In the past, I attended The Lawrenceville School. I'm a food, podcast, and technology enthusiast.
 
 You can find me on [Twitter](https://twitter.com/ericjwdchen), [LinkedIn](https://www.linkedin.com/in/ericjwdchen),[^1] and [Github](https://github.com/ericjwdchen). A full feed of this site is also available through [RSS](http://ericjwdchen.org/rss.xml) and [Twitter](https://twitter.com/ericjwdchen_org). My email is eric~at~ericjwdchen.org.
 
