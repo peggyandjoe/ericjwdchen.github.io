@@ -6,7 +6,7 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-![headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right}
+![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right}
 
 I live in Wisconsin and attend Princeton University. I'm a food, podcast, and technology enthusiast.
 
