@@ -49,7 +49,7 @@ But the Android YouTube app uses this.[^1]
 
 Here it is in action.
 
-![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}*It's also next to the like/dislike buttons below the video. h/t [Gazalan on Reddit][gz]*
+![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}*It's also next to the like/dislike buttons below the video (h/t [Gazalan on Reddit][gz]).*
 
 This icon is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
