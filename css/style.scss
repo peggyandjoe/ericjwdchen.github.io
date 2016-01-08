@@ -352,7 +352,11 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title {
-margin-bottom: $large-spacing;
+  margin-top: 0;
+  margin-bottom: $large-spacing;
+  margin-right: 2rem;
+  font-weight: normal;
+  font-size: 1.2rem;
 }
 
 .masthead-title a {
@@ -376,13 +380,6 @@ margin-bottom: $large-spacing;
   text-decoration: none;
 }
 
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: $small-spacing;
-  margin-right: 2rem;
-  font-weight: normal;
-  font-size: 1.2rem;
-}
 
 .nav-page a {
   margin-right: 1rem;
