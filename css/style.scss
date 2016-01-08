@@ -414,7 +414,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: $large-spacing;
 }
 
-/* Footnote text that appears below each post*/
+/* Footnote text that appears below each post on the homepage. On article pages, they appear in the footer class*/
 
 .footnotes {
   border-top: 1px solid $light-grey;
