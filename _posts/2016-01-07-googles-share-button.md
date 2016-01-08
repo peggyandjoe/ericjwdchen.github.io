@@ -51,9 +51,9 @@ Here it is in action.
 
 ![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
-This button is  worse than being obscure. It’s confusing because it's almost identical to the reply icon.
+This button is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
-Inexplicable. A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
+A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
 
 [^1]: Google Trends also [falls victim][fv] to the non-standard share button. [YouTube on the web][yt] does as well (it's under the subscribe button).
 
