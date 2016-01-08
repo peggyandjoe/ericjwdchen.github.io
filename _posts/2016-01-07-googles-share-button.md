@@ -18,7 +18,7 @@ Which is all well and good. That's what system icons should do. They should be c
 
 This is Google's [sanctioned][sanctioned] share icon.
 
-![Canonical Share Button](/assets/2015/01/ic_share_black_24dp.png){: .img-narrow}
+![Canonical Share Button](/assets/2015/01/ic_share_black_24dp.png){: .img-right}
 
 The icon is three nodes with lines connecting each of them. There isn't any [universal icon][ui] for sharing, but this one is reasonably clear.
 
