@@ -16,7 +16,7 @@
 {% if page.url %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
-<meta name="twitter:description" content="{{ page.excerpt | escape }}" />
+<meta name="twitter:description" content="{{ page.excerpt | escape | truncatewords: 50 }}" />
 <meta name="twitter:url" content="{{ page.url }}" />
 <meta name="twitter:image" content="{{ site.url }}/public/favicon-196x196.png" />
 
