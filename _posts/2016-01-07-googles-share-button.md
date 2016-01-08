@@ -16,7 +16,7 @@ Which is all well and good. That's what system icons should do. They should be c
 
 ## The Canonical Share Icon
 
-This is Google's [sanctioned][sanctioned] share button.
+This is Google's [sanctioned][sanctioned] share icon.
 
 ![Canonical Share Button](/assets/2015/01/ic_share_black_24dp.png){: .img-narrow}
 
@@ -51,11 +51,11 @@ Here it is in action.
 
 ![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}
 
-This button is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
+This icon is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
 A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
 
-[^1]: Google Trends also [falls victim][fv] to the non-standard share button. [YouTube on the web][yt] does as well (it's under the subscribe button).
+[^1]: Google Trends also [falls victim][fv] to the non-standard share icon. [YouTube on the web][yt] does as well (it's under the subscribe button).
 
 [fv]: https://www.google.com/trends/story/US_cu_94uFDVIBAAAgBM_en?hl=en-US&s=1
 [yt]: https://www.youtube.com/watch?v=lWctcNBs2qQ
