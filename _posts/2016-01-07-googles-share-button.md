@@ -9,7 +9,7 @@ In the [Material Design documentation][MD doc], there are [best practices for sy
 
 > Consistency aids user comprehension of icons. Use the existing system icons whenever possible and across different applications.
 
-Which is all well and good. That's what system icons should do. They should be consistent and clear. But not as we start 2016, not everyone within Google has gotten the message yet.
+Which is all well and good. That's what system icons should do. They should be consistent and clear. But as we start 2016, not everyone within Google has gotten the message yet.
 
 [MD doc]: https://www.google.com/design/spec/material-design/introduction.html
 [bp]: https://www.google.com/design/spec/style/icons.html#icons-system-icons
