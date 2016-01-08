@@ -4,6 +4,28 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
 
+<!-- Twitter Cards from http://davidensinger.com/2013/04/supporting-twitter-cards-with-jekyll/-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@ericjwdchen_org">
+<meta name="twitter:creator" content="@ericjwdchen">
+{% if page.title %}
+<meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+<meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+{% if page.image %}
+<meta name="twitter:image:src" content="{{ site.url }}/path/to/image/{{ page.image }}">
+{% endif %}
+
+
   <!-- Web Fonts -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,400italic,700,700italic">
 
