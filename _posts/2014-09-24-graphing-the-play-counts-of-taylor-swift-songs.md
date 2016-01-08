@@ -4,6 +4,7 @@ title: Graphing the Play Counts of Taylor Swift Songs
 ---
 
 ![Play Counts of Taylor Swift Songs](/assets/2014/09/play-counts-taylor-swift.png)
+*from left to right*
 
 This is a histogram showing the play counts in my music library for all of the songs on all four of Taylor Swift's studio albums.
 
