@@ -49,13 +49,13 @@ But the Android YouTube app uses this.[^1]
 
 Here it is in action.
 
-![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}*It's also next to the like/dislike buttons below the video.*
+![Youtube Share Button](/assets/2015/01/loop.gif){: .img-narrow}*It's also next to the like/dislike buttons below the video. h/t [Gazalan][gz] on Reddit*
 
 This icon is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
 A bad icon points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
 
 [^1]: Google Trends also [falls victim][fv] to the non-standard share icon. [YouTube on the web][yt] does as well (it's under the subscribe button).
-
+[gz]: https://www.reddit.com/r/Android/comments/3zze4q/google_standardize_the_youtube_share_button/cyqk7j3
 [fv]: https://www.google.com/trends/story/US_cu_94uFDVIBAAAgBM_en?hl=en-US&s=1
 [yt]: https://www.youtube.com/watch?v=lWctcNBs2qQ
