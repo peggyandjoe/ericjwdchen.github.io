@@ -53,7 +53,7 @@ Here it is in action.
 
 This icon is worse than being obscure. It’s confusing because it's almost identical to the reply icon.
 
-A bad icon badly points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
+A bad icon points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
 
 [^1]: Google Trends also [falls victim][fv] to the non-standard share icon. [YouTube on the web][yt] does as well (it's under the subscribe button).
 
