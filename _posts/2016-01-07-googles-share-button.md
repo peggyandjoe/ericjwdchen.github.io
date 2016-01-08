@@ -24,7 +24,7 @@ The icon is three nodes with lines connecting each of them. There isn't any [uni
 
 And most Google properties use the right one.
 
-![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)
+![share-buttons-irl.png](/assets/2015/01/share-buttons-irl.png)*The correct share icon in Google Play Newsstand, Google Photos, Google Plus.*
 
 [sanctioned]: https://design.google.com/icons/#ic_share
 [ui]: http://www.fastcodesign.com/3031872/why-isnt-there-a-standard-share-button
