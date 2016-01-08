@@ -20,7 +20,7 @@
  * Bigfoot tooltip popovers
  */
 
- @import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
+ @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,400italic,700,700italic);
 
 $red-orange: #BF1F49;
 $green-matte: #94B288;
@@ -43,7 +43,7 @@ body {
 }
 
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
   // used lato before, but moved away from web fonts
   font-size: 18px;
   line-height: 1.5;
