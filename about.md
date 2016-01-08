@@ -4,9 +4,9 @@ title: About
 weight: 1
 ---
 
-Hey there! I'm Eric Chen.
-
 ![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right}
+
+Hey there! I'm Eric Chen.
 
 I live in Wisconsin and attend Princeton University. In my past, I attended The Lawrenceville School. I'm a food, podcast, and technology enthusiast.
 
