@@ -16,7 +16,7 @@ You can find me on [Twitter](https://twitter.com/ericjwdchen), [LinkedIn](https:
 
 This site is built on [Jekyll](http://jekyllrb.com/), forked originally from [Poole](http://getpoole.com/), and generously hosted on [GitHub Pages](https://pages.github.com/). The repository for the website is [here](https://github.com/ericjwdchen/ericjwdchen.github.io).
 
-Footnote popovers[^2] are implemented using [bigfoot][bf]
+Footnote popovers[^2] are implemented using [bigfoot][bf].
 
 The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
 
