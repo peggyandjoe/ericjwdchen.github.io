@@ -351,6 +351,10 @@ tbody tr:nth-child(odd) th {
   background-color: $green-matte;
 }
 
+.masthead-title {
+margin-bottom: $large-spacing;
+}
+
 .masthead-title a {
   color: white;
   transition: color 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940);
