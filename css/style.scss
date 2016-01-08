@@ -251,6 +251,15 @@ img + em {
   margin-right: auto;
   width: auto;
 }
+
+.img-right {
+  margin-left: 1em;
+  margin-bottom: 1em;
+  width: 30%;
+  float: right;
+}
+
+
 /* Paragraph Alignment */
 
 .center {
