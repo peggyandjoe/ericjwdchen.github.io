@@ -16,6 +16,12 @@ You can find me on [Twitter](https://twitter.com/ericjwdchen), [LinkedIn](https:
 
 This site is built on [Jekyll](http://jekyllrb.com/), forked originally from [Poole](http://getpoole.com/), and generously hosted on [GitHub Pages](https://pages.github.com/). The repository for the website is [here](https://github.com/ericjwdchen/ericjwdchen.github.io).
 
+Footnote popovers[^2] are implemented using [bigfoot][bf]
+
 The logo is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
 
+[bf]: http://www.bigfootjs.com/
+
 [^1]: ["Hi, I’d like to add you to my professional network on LinkedIn.”](http://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-october-5-2015-issue)
+
+[^2]: Like this one.
