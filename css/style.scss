@@ -269,6 +269,8 @@ img + em {
 
 .img-circular {
   border-radius: 50%;
+  shape-outside: circle();
+	shape-margin: 15px;
 }
 
 
