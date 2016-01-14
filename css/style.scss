@@ -602,12 +602,12 @@ tbody tr:nth-child(odd) th {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   display: inline-block;
-  padding: 0.35em;
+  padding: 0.65em;
   margin: 0 0.1em 0 0.2em;
   border: none;
   border-radius: 0.3em;
   cursor: pointer;
-  background-color: rgba(110, 110, 110, 0.2);
+  background-color: $light-grey;
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
