@@ -12,15 +12,18 @@ layout: default
     {% endif %}
   </h1>
 
-  <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
-  <span class="read-time" title="Estimated read time">
-    {% assign reading_time = content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
+  <p> <span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
+    <span class="read-time" title="Estimated read time">
+      {% assign reading_time = content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
 
-{% if reading_time < 0.5 %}Less than a minute read
-{% else %}<span class="reading-time">{{ reading_time }}</span> min read
-{% endif %}
+  {% if reading_time < 0.5 %}Less than a minute read
+  {% else %}<span class="reading-time">{{ reading_time }}</span> min read
+  {% endif %}
 
-  </span>
+</span>
+
+  </p>
+
   {{ content }}
 </div>
 <div class="divider"></div>
