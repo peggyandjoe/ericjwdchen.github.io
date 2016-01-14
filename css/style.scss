@@ -269,10 +269,7 @@ img + em {
 
 .img-circular {
   border-radius: 50%;
-  margin-left: 0;
-  margin-right: 0;
   shape-outside: circle();
-	shape-margin: 1em;
 }
 
 
