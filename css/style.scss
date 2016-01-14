@@ -638,7 +638,7 @@ tbody tr:nth-child(odd) th {
   transition-delay: 0.1s;
 }
 
- .footnote-button:before {
+ .bigfoot-footnote-button:before {
    content: attr(data-footnote-number);
  }
 
