@@ -43,8 +43,8 @@ body {
 
 html {
   font-family: 'Roboto Slab', serif;
-  // used lato before, but moved away from web fonts
-  font-size: 16px;
+  // used lato before,
+  font-size: 17px;
   line-height: 1.45;
 }
 
@@ -637,6 +637,10 @@ tbody tr:nth-child(odd) th {
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
+
+ .footnote-button:before {
+   attr(data-footnote-number);
+ }
 
 .bigfoot-footnote__button:after {
   content: '';
