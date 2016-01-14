@@ -653,6 +653,8 @@ tbody tr:nth-child(odd) th {
   display: inline-block;
   position: relative;
   text-indent: 0;
+
+  background-color: $light-grey;
 }
 
 @media not print {
