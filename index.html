@@ -27,7 +27,12 @@ title: Home
       </span>
       <span class="reading-time" title="Estimated read time">
         {{ page.content | number_of_words | append: '.0' | divided_by:180 | append: 'min' }}
-
+        {% assign words = content | number_of_words %}
+        {% if words < 360 %}
+          1 min
+        {% else %}
+          {{ words | divided_by:180 }} mins
+        {% endif %}
       </span>
     </p>
 
