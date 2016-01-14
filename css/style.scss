@@ -238,14 +238,16 @@ blockquote p:last-child {
 img {
   display: block;
   width: 100%;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 img + em {
   display: block;
   font-size: smaller;
   text-align: center;
+  // because img tag has no margins, need to add margin because no <p> wrap
+  margin-top: 1em;
+  margin-bottom: 1em;
+
 }
 
 .img-narrow {
