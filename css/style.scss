@@ -634,13 +634,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .bigfoot-footnote__button.is-active {
-  background-color: #6e6e6e;
+  background-color: $light-grey;
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
 
  .bigfoot-footnote__button:before {
-   content: attr(data-footnote-number);
+   content: attr(data-footnote-identifier);
  }
 
 .bigfoot-footnote__button:after {
