@@ -370,12 +370,12 @@ tbody tr:nth-child(odd) th {
 }
 
 .nav-page a {
-  transition: opacity 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  //transition: opacity 0.2s ease-in-out;
   color: white;
 }
 
 .nav-page a:hover {
-  transition: opacity 0.2s cubic-bezier(0.550, 0.085, 0.680, 0.530);
+  transition: opacity 0.25s ease-in-out;
   opacity: 0.8;
   text-decoration: none;
 }
@@ -615,24 +615,22 @@ tbody tr:nth-child(odd) th {
   line-height: 0;
   vertical-align: middle;
   text-decoration: none;
-  transition: background-color 0.25s cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  transition: background-color 0.25s ease-in-out;
   color: white;
 }
 
 .bigfoot-footnote__button:hover,
 .bigfoot-footnote__button:focus {
   outline: none;
-  background-color: black; //rgba(110, 110, 110, 0.5);
+  background-color: black;
 }
 
 .bigfoot-footnote__button:active {
-  background-color: black; //rgba(110, 110, 110, 0.5);
+  background-color: black;
 }
 
 .bigfoot-footnote__button.is-active {
   background-color: black;
-  //-webkit-transition-delay: 0.1s;
-  //transition-delay: 0.1s;
 }
 
  .bigfoot-footnote__button:before {
@@ -676,10 +674,10 @@ tbody tr:nth-child(odd) th {
   box-sizing: border-box;
   max-width: 90%;
   margin: 1.96924em 0;
-  background: #fafafa;
+  background: #dfe8db;
   opacity: 0;
   border-radius: 0.5em;
-  border: 1px solid #c3c3c3;
+  border: 1px solid $light-grey;
   -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   line-height: 0;
@@ -687,8 +685,8 @@ tbody tr:nth-child(odd) th {
   transition-property: opacity, transform;
   -webkit-transition-duration: 0.25s;
   transition-duration: 0.25s;
-  -webkit-transition-timing-function: ease;
-  transition-timing-function: ease;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
   -webkit-transform: scale(0.1) translateZ(0);
   -ms-transform: scale(0.1) translateZ(0);
   transform: scale(0.1) translateZ(0);
@@ -766,8 +764,8 @@ tbody tr:nth-child(odd) th {
   transition-properties: opacity;
   -webkit-transition-duration: 0.25s;
   transition-duration: 0.25s;
-  -webkit-transition-timing-function: ease;
-  transition-timing-function: ease;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
 }
 
 .bigfoot-footnote.is-scrollable .bigfoot-footnote__wrapper:before,
