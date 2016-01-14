@@ -618,9 +618,9 @@ tbody tr:nth-child(odd) th {
   font-smoothing: antialiased;
   -webkit-transition-property: background-color;
   transition-property: background-color;
-  -webkit-transition-duration: 0.25s;
-  transition-duration: 0.25s;
-  transition: cubic-bezier(0.250, 0.460, 0.450, 0.940);
+  //-webkit-transition-duration: 0.25s;
+  //transition-duration: 0.25s;
+  transition: 0.2s cubic-bezier(0.250, 0.460, 0.450, 0.940);
   color: white;
 }
 
