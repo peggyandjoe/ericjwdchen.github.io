@@ -427,6 +427,11 @@ tbody tr:nth-child(odd) th {
   color: $light-grey;
 }
 
+/* Estimated reading time of blog post */
+.read-time {
+  color: $light-grey;
+}
+
 /* Data line on archive page next to each title */
 .archive-date {
   text-transform: uppercase;
