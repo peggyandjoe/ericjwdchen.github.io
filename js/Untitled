@@ -1,1 +1,5 @@
-readtime.js
+$(function(){
+
+   // jQuery methods go here...
+
+});
