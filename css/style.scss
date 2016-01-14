@@ -44,17 +44,18 @@ body {
 html {
   font-family: 'Roboto Slab', serif;
   // used lato before, but moved away from web fonts
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.45;
 }
 
-html, body {
-  height: 100%;
-}
 @media (min-width: 600px) {
   html {
     font-size: 20px;
   }
+}
+
+html, body {
+  height: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
