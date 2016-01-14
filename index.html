@@ -26,11 +26,9 @@ title: Home
         {% endif %}
       </span>
       <span class="read-time" title="Estimated read time">
-        {% if page.content | number_of_words < 360 %}
-          1 min
-        {% else %}
+      
           {{ page.content | number_of_words | divided_by:180 }} mins
-        {% endif %}
+
       </span>
     </p>
 
