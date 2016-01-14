@@ -390,15 +390,14 @@ tbody tr:nth-child(odd) th {
 }
 
 .nav-page a {
-  margin-right: 1rem;
+  margin-right: 1em;
   text-transform: uppercase;
-  font-size: 0.9rem;
+  //font-size: 0.9rem;
 }
 
 .nav-page {
-  margin-top: $small-spacing;
+  margin-top: 1em;
 }
-
 
 @media (max-width: 600px) {
   .nav-page {
