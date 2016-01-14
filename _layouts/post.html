@@ -14,7 +14,7 @@ layout: default
 
   <p> <span class="post-date">{{ page.date | date: "%B %-d, %Y" }} • </span>
     <span class="read-time" title="Estimated read time">
-      {% assign reading_time = content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
+      {% assign reading_time = post.content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
 
   {% if reading_time < 0.5 %}Less than a minute read
   {% else %}{{ reading_time }} min read
