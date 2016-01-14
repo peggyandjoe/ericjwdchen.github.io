@@ -3,7 +3,7 @@ layout: post
 title: "Taylor Swift's New Direction: Putting <i>1989</i> in Perspective"
 ---
 
-Note, I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era. [^1]
+Note, I will use the past tense to refer to everything previous to Taylor's new album, *1989*, and the present tense to refer to the *1989* era.[^1]
 
 <hr>
 
@@ -42,7 +42,7 @@ Which is way "Shake It Off" worries me.
 
 <div class="responsive-container"><iframe src='http://www.youtube.com/embed/nfWlot6h_JM?start=16&amp;end=41' allowfullscreen></iframe></div>
 
-What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums, [^4] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
+What happened? I suppose this change was a long time coming. Taylor has sold more than 34 million albums,[^4] has won [*226* awards][Taylor Swift awards list], and lives in a [New York City penthouse][]. So should I be surprised that *Shake It Off* lacks the small-town stories of yesteryear?
 
 No. I shouldn't be. It was clear from *Red* that change was afoot.
 
