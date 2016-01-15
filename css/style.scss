@@ -230,9 +230,8 @@ pre code {
 blockquote {
   padding-left: 1rem;
   margin: 0;
-  border-left: 4px solid $grey;
+  border-left: 4px solid $light-grey;
 }
-
 
 blockquote p:last-child {
   margin-bottom: 0;
@@ -278,7 +277,6 @@ img + em {
   shape-outside: circle();
   margin: 0 0 1em 1em;
 }
-
 
 /* Paragraph Alignment */
 
@@ -366,7 +364,6 @@ tbody tr:nth-child(odd) th {
 .masthead-title a {
   color: white;
 }
-
 
 .masthead-title a:hover {
   text-decoration: none;
@@ -626,17 +623,18 @@ tbody tr:nth-child(odd) th {
 .bigfoot-footnote__button:hover,
 .bigfoot-footnote__button:focus {
   outline: none;
-  background-color: black;
+  background-color: $grey;
 }
 
 .bigfoot-footnote__button:active {
-  background-color: black;
+  background-color: $grey;
 }
 
 .bigfoot-footnote__button.is-active {
-  background-color: black;
+  background-color: $grey;
 }
 
+// make footnotes display numbers instead of three dots
  .bigfoot-footnote__button:before {
    content: attr(data-footnote-identifier);
  }
