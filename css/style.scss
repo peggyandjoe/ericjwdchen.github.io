@@ -27,7 +27,8 @@ $red-orange: #BF1F49;
 $green-matte: #94B288;
 //used as masthead background color
 $zune-brown: #583B2B;
-$light-grey: #808080;
+$grey: #808080
+$light-grey: #757575;
 
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
@@ -229,7 +230,7 @@ pre code {
 blockquote {
   padding-left: 1rem;
   margin: 0;
-  border-left: 4px solid $light-grey;
+  border-left: 4px solid $grey;
 }
 
 
@@ -424,7 +425,7 @@ tbody tr:nth-child(odd) th {
 /* Meta data line below post title */
 .post-metadata {
   font-size: smaller;
-  color: $light-grey;
+  color: $grey;
 }
 
 /* Data line on archive page next to each title */
@@ -432,12 +433,12 @@ tbody tr:nth-child(odd) th {
   text-transform: uppercase;
   font-size: 0.8rem;
   margin-left: 1rem;
-  color: $light-grey;
+  color: $grey;
 }
 
 /* Divider between posts on the homepage*/
 .divider {
-  border-top: 10px solid $zune-brown;
+  border-top: 10px solid $grey;
   margin-top: $large-spacing;
   margin-bottom: $large-spacing;
 }
@@ -445,7 +446,7 @@ tbody tr:nth-child(odd) th {
 /* Footnote text that appears below each post on the homepage and on each article page.*/
 
 .footnotes {
-  border-top: 1px solid $light-grey;
+  border-top: 1px solid $grey;
   font-size: smaller;
 }
 
@@ -456,7 +457,7 @@ tbody tr:nth-child(odd) th {
 */
 
 .footer {
-  color: $light-grey;
+  color: $grey;
   text-align: center;
   margin: $large-spacing;
   font-size: smaller;
@@ -476,7 +477,7 @@ tbody tr:nth-child(odd) th {
 */
 
 .pagination {
-  color: $light-grey;
+  color: $grey;
 }
 
 .pagination a {
@@ -609,7 +610,7 @@ tbody tr:nth-child(odd) th {
   border: none;
   border-radius: 1rem;
   cursor: pointer;
-  background-color: $light-grey;
+  background-color: $grey;
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -679,7 +680,7 @@ tbody tr:nth-child(odd) th {
   background: #dfe8db;
   opacity: 0;
   border-radius: 0.5em;
-  border: 1px solid $light-grey;
+  border: 1px solid $grey;
   -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   line-height: 0;
@@ -868,7 +869,7 @@ tbody tr:nth-child(odd) th {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
   background: #fafafa;
-  border: 1px solid $light-grey;
+  border: 1px solid $grey;
   -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
   border-top-left-radius: 0;
