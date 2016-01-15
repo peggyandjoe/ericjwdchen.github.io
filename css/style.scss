@@ -422,13 +422,8 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Meta data line below post title */
-.post-date {
-  margin-bottom: 1rem;
-  color: $light-grey;
-}
-
-/* Estimated reading time of blog post */
-.read-time {
+.post-metadata {
+  font-size: smaller;
   color: $light-grey;
 }
 
