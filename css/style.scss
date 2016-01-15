@@ -27,7 +27,7 @@ $red-orange: #BF1F49;
 $green-matte: #94B288;
 //used as masthead background color
 $zune-brown: #583B2B;
-$grey: #808080
+$grey: #808080;
 $light-grey: #757575;
 
 $small-spacing: 0.5rem;
@@ -610,7 +610,7 @@ tbody tr:nth-child(odd) th {
   border: none;
   border-radius: 1rem;
   cursor: pointer;
-  background-color: $grey;
+  background-color: $light-grey;
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
