@@ -12,8 +12,8 @@ paginate:         5
 baseurl:          /
 author:
   name:           Eric Chen
-  url:            https://twitter.com/ericjwdchen
-  email:          eric.jwd.chen@gmail.com
+  url:            https://twitter.com/ericjwdchen_org
+  email:          eric@ericjwdchen.org
 
 # Custom vars
 version:          1.0.0
