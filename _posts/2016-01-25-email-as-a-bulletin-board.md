@@ -18,6 +18,7 @@ It's important to make sure that these emails don't reach my viewable inbox as t
 ![inbox-bundle.png](/assets/2015/01/inbox-bundle.png)*Here are my bundle settings.*
 
 [bundling]: https://support.google.com/inbox/answer/6050237?hl=en
+
 ## 2. Automatically Delete Them
 
 This is the critical step. After a month on a real bulletin board, flyers are torn-off, covered up, or rained away. And because people treat these mailing lists like bulletin boards, it makes sense to treat these emails the same. I don't want all of this cruft sitting around in my email. It makes searching more cumbersome and takes up storage space in my inbox.
