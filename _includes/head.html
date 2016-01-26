@@ -4,6 +4,12 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
 
+  <!-- Chrome theme-color-->
+  <meta name="theme-color" content="#94B288">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}rss.xml">
+
   <!-- Web Fonts -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,400italic,700,700italic">
 
@@ -27,45 +33,15 @@
   <meta name="msapplication-TileColor" content="#ffc40d">
   <meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
-  <!-- Chrome theme-color-->
-  <meta name="theme-color" content="#94B288">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}rss.xml">
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" defer></script>
 
   <!-- Mathjax -->
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    messageStyle: "simple"
-  });
+  <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
   </script>
-  <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
-
-  <!-- jQuery -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
   <!-- bigfoot.js -->
-  <script type="text/javascript" src="{{site.url}}/js/bigfoot.min.js"></script>
-  <script type="text/javascript">
-  $.bigfoot(
-    {
-      actionOriginalFN: "ignore",
-      numberResetSelector: "div.post",
-      popoverCreateDelay: "0",
-      activateCallback: function($popover, $button) {
-        if (MathJax && !$button.data('mathjax-processed')) {
-          var content_wrapper = $popover.find('.footnote-content-wrapper')[0];
-          MathJax.Hub.Queue(['Typeset', MathJax.Hub, content_wrapper]);
-          MathJax.Hub.Queue(function () {
-            $button.attr('data-footnote-content', content_wrapper.innerHTML);
-            $button.data('mathjax-processed', true);
-          });
-        }
-      }
-    }
-  );
-  </script>
+  <script type="text/javascript" src="{{site.url}}/js/bigfoot.min.js" defer></script>
 
   <!-- Google Analytics-->
   <script>
