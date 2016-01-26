@@ -5,7 +5,7 @@ title: Email as a Bulletin Board
 
 Here is how to subscribe to a bulletin board type mailing list, high-volume and low importance, while maintaining your email sanity.
 
-## 1. Bundle Them Away
+## 1. Bundle It Away
 
 On a high-volume email list like this, most of the emails are totally irrelevant to me. While I want to be able to scan through and catch any interesting upcoming events, I don't want them cluttering up my inbox. So I hide them away.
 
@@ -19,7 +19,7 @@ It's important to make sure that these emails don't reach my viewable inbox as t
 
 [bundling]: https://support.google.com/inbox/answer/6050237?hl=en
 
-## 2. Automatically Delete Them
+## 2. Automatically Delete It
 
 This is the critical step. After a month on a real bulletin board, flyers are torn-off, covered up, or rained away. And because people treat these mailing lists like bulletin boards, it makes sense to treat these emails the same. I don't want all of this cruft sitting around in my email. It makes searching more cumbersome and takes up storage space in my inbox.
 
