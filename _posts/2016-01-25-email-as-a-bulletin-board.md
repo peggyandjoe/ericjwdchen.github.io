@@ -41,6 +41,6 @@ Plus, coming through a high-volume email list can start to feel like work. Once 
 
 This solution takes that burden away. It coalesces what could be 10s of [context switches][cs] during the day into one nice morning roundup. And you never have to worry about managing any of it.
 
-![inbox-zero.png](/assets/2015/01/inbox-zero.png)*Inbox zero 😊.*
+![inbox-zero.png](/assets/2015/01/inbox-zero.png)*Inbox zero. 😊*
 
 [cs]: http://blog.codinghorror.com/the-multi-tasking-myth/
