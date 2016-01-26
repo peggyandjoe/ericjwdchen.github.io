@@ -5,9 +5,7 @@ layout: default
 
   <h1>
     {% if page.link %}
-    <a href="{{ post.link }}">
-      ⇜ {{ page.title }} ⇝
-    </a>
+    <a href="{{ post.link }}">⇜ {{ page.title }} ⇝</a>
     {% else %}<span class="post-title>">{{ page.title }}</span>
     {% endif %}
   </h1>
@@ -15,13 +13,10 @@ layout: default
   <p class="post-metadata"> <span class="post-date">{{ page.date | date: "%B %-d, %Y" }} • </span>
     <span class="read-time" title="Estimated read time">
       {% assign reading_time = content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
-
-  {% if reading_time < 0.5 %}1 min read
-  {% else %}{{ reading_time }} min read
-  {% endif %}
-
-</span>
-
+      {% if reading_time < 0.5 %}1 min read
+      {% else %}{{ reading_time }} min read
+      {% endif %}
+    </span>
   </p>
 
   {{ content }}

@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-     <div class="masthead-container">
-     <div class="masthead">
-        <span class="masthead-title">
-          <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </span>
-        <span class="nav-page">
+<body>
+  <div class="masthead-container">
+    <div class="masthead">
+      <span class="masthead-title">
+        <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
+        <small>{{ site.tagline }}</small>
+      </span>
+      <span class="nav-page">
         {% for weight in (1..10) %}
-          {% for p in site.pages %}
-            {% if p.weight == weight %}
-                <a {% if p.url == page.url %}class="active"{% endif %} href="{{p.url }}"> {{ p.title }}</a>
-            {% endif %}
-          {% endfor %}
+        {% for p in site.pages %}
+        {% if p.weight == weight %}
+        <a {% if p.url == page.url %}class="active"{% endif %} href="{{p.url }}"> {{ p.title }}</a>
+        {% endif %}
+        {% endfor %}
         {% endfor %}
         <a href ="/rss.xml">RSS</a>
       </span>
     </div>
-    </div>
-    <div class="container content">
-      {{ content }}
-    </div>
+  </div>
+  <div class="container content">
+    {{ content }}
+  </div>
   <footer class="footer">
-   <p class="footer-logo">
-     <a href="https://en.wikipedia.org/wiki/Zune_30">
-       <img src="{{site.url}}/public/favicon-160x160.png" alt="Zune">
-     </a>
-   </p>
-   <p class="copyright"><span>© 2014 - </span>{{ 'now' | date: "%Y" }}</p>
- </footer>
+    <p class="footer-logo">
+      <a href="https://en.wikipedia.org/wiki/Zune_30">
+        <img src="{{site.url}}/public/favicon-160x160.png" alt="Zune">
+      </a>
+    </p>
+    <p class="copyright"><span>© 2014 - </span>{{ 'now' | date: "%Y" }}</p>
+  </footer>
 
-  </body>
+</body>
 
 </html>
