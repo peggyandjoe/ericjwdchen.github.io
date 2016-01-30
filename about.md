@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-weight: 1
+weight: 5
 ---
 
 ![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}

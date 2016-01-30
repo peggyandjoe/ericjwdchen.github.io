@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-weight: 2
+weight: 1
 ---
 
 A collection of projects I've worked on recently.
