@@ -12,7 +12,7 @@ This is a project that I worked on for my school newspaper. I built a brand-new 
 
 ![The Lawrence Phone](/assets/2015/01/the-lawrence-phone.png)*On the phone.*
 
-![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.png)*On the laptop.*
+![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.jpg)*On the laptop.*
 
 There's been a big push by Facebook, Twitter, and Google to create proprietary platforms that make the open web better, faster, and simpler on mobile. Essentially, to make it suck less.
 
