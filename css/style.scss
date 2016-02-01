@@ -92,7 +92,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
   margin-top: 2em;
-
+  font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
   a {
@@ -103,17 +103,17 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 1.75rem;
   margin-top: $large-spacing;
-  font-weight: bold;
 }
 h2 {
   font-size: 1.5rem;
-  font-weight: bold;
 }
 h3 {
   font-size: 1.3rem;
+  font-weight: normal;
 }
 h4 {
   font-size: 1.3rem;
+  font-weight: normal;
   font-style: italic;
 }
 h5, h6 {
