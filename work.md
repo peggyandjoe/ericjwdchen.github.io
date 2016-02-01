@@ -10,9 +10,9 @@ A collection of projects I've worked on recently.
 
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
 
-![The Lawrence Phone](/assets/2015/01/the-lawrence-phone.png)*The responsive site on phones.*
+![The Lawrence Phone](/assets/2015/01/the-lawrence-phone.png)*On the phone.*
 
-![The Lawrence Desktop Home](/assets/2015/01/the-lawrence-desktop-home.png)*The homepage on a desktop*
+![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.png)*On the laptop.*
 
 There's been a big push by Facebook, Twitter, and Google to create proprietary platforms that make the open web better, faster, and simpler on mobile. Essentially, to make it suck less.
 
