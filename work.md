@@ -8,9 +8,11 @@ A collection of projects I've worked on recently.
 
 ##The Lawrence (2014-2015)
 
-![The Lawrence Desktop Home](/assets/2015/01/the-lawrence-desktop-home.png)*The homepage on a desktop*
-
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
+
+![The Lawrence Phone](/assets/2015/01/the-lawrence-phone.png)*The responsive site on phones.*
+
+![The Lawrence Desktop Home](/assets/2015/01/the-lawrence-desktop-home.png)*The homepage on a desktop*
 
 There's been a big push by Facebook, Twitter, and Google to create proprietary platforms that make the open web better, faster, and simpler on mobile. Essentially, to make it suck less.
 
@@ -21,8 +23,6 @@ Of course, big publishers have inertia preventing them from making the web bette
 I knew that from the user's perspective, nothing mattered more than just reading an article. News is an ephemeral thing. People don't read news on the publisher's terms. The read it on their terms—whenever they want and however they want.
 
 Understanding these facts, my primary focus was responsive design. Our old site was a cookie-cutter WordPress template—and it looked like it, too. The previous theme was a fixed-width layout. Serviceable for 2005, but not for 2015. I eventually settled on a simple two-column design that collapsed down to one-column on mobile.
-
-![The Lawrence Phone](/assets/2015/01/the-lawrence-phone.png)*The responsive site on phones.*
 
 I started the project from scratch with no knowledge of HTML, CSS, or Javascript. As a one-person development and design team, the one thing I did know was that the scope of the project had to be conservative.
 
