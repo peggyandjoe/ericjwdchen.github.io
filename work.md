@@ -6,7 +6,7 @@ weight: 1
 
 A collection of projects I've worked on recently.
 
-##For Business Consulting
+## For Business Consulting
 
 ![Jeap LLC Phone](/assets/2015/02/jeap-llc-phone.png)*On the phone.*
 
@@ -22,9 +22,9 @@ I chose white hero text on a black background. It's a simple look that is striki
 
 The rest of the site uses a material design inspired card aesthetic. Each subheading is placed in its own card. And each card has a bold splash of color at the top.
 
-While the site is only one-page, there are links in the header which automatically scroll the user to the particular card. 
+While the site is only one-page, there are links in the header which automatically scroll the user to the particular card.
 
-##The Lawrence (2014-2015)
+## The Lawrence (2014-2015)
 
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
 
@@ -58,7 +58,7 @@ I decided to place less-used navigation in a secondary group, primarily featurin
 [idle words talk]: http://idlewords.com/talks/website_obesity.htm
 [old site screenshot]: http://ericjwdchen.org/assets/2015/01/the-lawrence-old.png
 
-###Article Page
+### Article Page
 
 ![The Lawrence Desktop Article](/assets/2015/01/the-lawrence-desktop-article.png)*The article page on a desktop*
 
