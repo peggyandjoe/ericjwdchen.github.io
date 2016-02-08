@@ -6,6 +6,22 @@ weight: 1
 
 A collection of projects I've worked on recently.
 
+##For Business Consulting
+
+![Jeap LLC Phone](/assets/2015/02/jeap-llc-phone.png)*On the phone.*
+
+This is a site that I am building for a one-person consulting shop. The site hasn't yet gone live, but the design is mostly finished.
+
+![Jeap LLC Phone](/assets/2015/02/jeap-llc-laptop-homepage-top.png)*On the laptop.*
+
+Instead of spreading out the information over many pages, I designed a one-page site that communicates a focused set of services and encourages visitors to scroll through all of the site.
+
+I chose white hero text on a black background. It's a simple look that is striking and does well to pitch the consulting services.
+
+![Jeap LLC Phone](/assets/2015/02/jeap-llc-laptop-homepage-middle.png)*On the laptop.*
+
+The rest of the site uses a material design based card aesthetic.
+
 ##The Lawrence (2014-2015)
 
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
@@ -14,7 +30,7 @@ This is a project that I worked on for my school newspaper. I built a brand-new 
 
 ![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.png)*On the laptop.*
 
-There's been a big push by [Facebook][instant], [Twitter][10k words], and [Google][amp] to create proprietary platforms that make the open web better, faster, and simpler on mobile. Essentially, to make it [suck less][idle words talk].
+There's been a big push by [Facebook][instant articles], [Twitter][10k words], and [Google][amp] to create proprietary platforms that make the open web better, faster, and simpler on mobile. Essentially, to make it [suck less][idle words talk].
 
 Instead of relying on proprietary solutions to make things suck less, why not just make the web suck less?
 
