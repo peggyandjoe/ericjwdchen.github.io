@@ -22,7 +22,7 @@ I chose white hero text on a black background. It's a simple look that is striki
 
 The rest of the site uses a material design inspired card aesthetic. Each subheading is placed in its own card. And each card has a bold splash of color at the top.
 
-While the site is only one-page, there are links in the header which automatically scroll the user to the particular card.
+While the site is only one-page, there are links in the header which automatically scroll the user to the particular card. This lets users access specific cards quickly and also gives them a spatial sense of the site.
 
 ## The Lawrence (2014-2015)
 
