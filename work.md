@@ -21,7 +21,7 @@ I chose white hero text on a black background. It's a simple look that is striki
 
 ![Jeap LLC Laptop Middle](/assets/2015/02/jeap-llc-laptop-homepage-middle.png)*On the laptop.*
 
-The rest of the site uses a material design inspired card aesthetic. Each subheading is placed in its own card. And each card has a bold splash of color at the top.
+The rest of the site uses a material design inspired card aesthetic. Each heading is placed in its own card. And each card has a bold splash of color at the top.
 
 While the site is only one-page, there are links in the header which automatically scroll the user to the particular card. This lets users access specific cards quickly and also gives them a sense of space within the site.
 
