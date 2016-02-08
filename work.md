@@ -12,15 +12,17 @@ A collection of projects I've worked on recently.
 
 This is a site that I am building for a one-person consulting shop. The site hasn't yet gone live, but the design is mostly finished.
 
-![Jeap LLC Phone](/assets/2015/02/jeap-llc-laptop-homepage-top.png)*On the laptop.*
+![Jeap LLC Laptop Top](/assets/2015/02/jeap-llc-laptop-homepage-top.png)*On the laptop.*
 
 Instead of spreading out the information over many pages, I designed a one-page site that communicates a focused set of services and encourages visitors to scroll through all of the site.
 
 I chose white hero text on a black background. It's a simple look that is striking and does well to pitch the consulting services.
 
-![Jeap LLC Phone](/assets/2015/02/jeap-llc-laptop-homepage-middle.png)*On the laptop.*
+![Jeap LLC Laptop Middle](/assets/2015/02/jeap-llc-laptop-homepage-middle.png)*On the laptop.*
 
-The rest of the site uses a material design based card aesthetic.
+The rest of the site uses a material design inspired card aesthetic. Each subheading is placed in its own card. And each card has a bold splash of color at the top.
+
+While the site is only one-page, there are links in the header which automatically scroll the user to the particular card. 
 
 ##The Lawrence (2014-2015)
 
