@@ -6,7 +6,8 @@ weight: 1
 
 A collection of projects I've worked on recently.
 
-## For Business Consulting
+## Business Consulting Website (2016)
+*Focused and professional.*
 
 ![Jeap LLC Phone](/assets/2015/02/jeap-llc-phone.png)*On the phone.*
 
@@ -24,7 +25,8 @@ The rest of the site uses a material design inspired card aesthetic. Each subhea
 
 While the site is only one-page, there are links in the header which automatically scroll the user to the particular card. This lets users access specific cards quickly and also gives them a spatial sense of the site.
 
-## The Lawrence (2014-2015)
+## Newspaper Re-design for *The Lawrence* (2014-2015)
+*Bringing the print to the web.*
 
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
 
