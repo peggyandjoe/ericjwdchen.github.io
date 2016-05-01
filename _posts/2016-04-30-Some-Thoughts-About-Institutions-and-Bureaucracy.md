@@ -5,7 +5,7 @@ title: Some Thoughts About Institutions and Bureaucracies
 
 Out of curiosity, recently I've been reading through some of the reports included in [Princeton University's strategic planning framework][sp], which "identifies key goals and major priorities for the University and that will serve as a guide for allocating University resources and prioritizing new initiatives."
 
-Alas, there is nothing of exceptional note to be found in these reports. They contain guidance and suggestions that, at least to someone engrossed in that bubble of higher-education right now, are exactly what you would expect an elite university would be planning to do in the next 5 to 10 years. There are recommendations [to bolster study abroad efforts][regional studies], [to create a new interdisciplinary environmental institute][natural sciences], and [to establish a statistics and machine learning department][http://www.princeton.edu/strategicplan/taskforces/sml/].
+Alas, there is nothing of exceptional note to be found in these reports. They contain guidance and suggestions that, at least to someone engrossed in that bubble of higher-education right now, are exactly what you would expect an elite university would be planning to do in the next 5 to 10 years. There are recommendations [to bolster study abroad efforts][regional studies], [to create a new interdisciplinary environmental institute][natural sciences], and [to establish a statistics and machine learning department][sml].
 
 While I was somewhat disappointed that there were no juicy details to be discovered, I suppose that because universities are institutions that hope to exist in perpetuity, that necessarily demands a certain level of patience, deliberateness, and boringness in the overall decision-making process.
 
@@ -56,3 +56,4 @@ That's all of the thoughts I have for now about these reports, but I'll probably
 [wiki endowment]: https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_the_United_States_by_endowment
 [nytimes ivy]: http://www.nytimes.com/1999/05/16/style/at-ivy-club-a-trip-back-to-elitism.html?pagewanted=all
 [bloomberg eating clubs]: http://www.bloomberg.com/news/articles/2014-12-04/princeton-has-a-shadow-fraternity-system-nobody-controls
+[sml]: http://www.princeton.edu/strategicplan/taskforces/sml/
