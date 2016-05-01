@@ -20,6 +20,7 @@ From the [report][res college report] submitted by the [Task Force on the Reside
 First of all, "study break" is in quotes because it is a blatant misnomer. The correct phrase to use would be: university-sponsored-free-food-event.[^1] Something in this quote is just odd about how the university is so explicit in social-engineering. Of course, I recognize that everything the university sets up in its undergraduate education—even just the very idea of a centralized campus where people live and learn together—is to some degree in the name of socially engineering certain desirable outcomes and results. But is it necessary to go into such minutiae as to officially recommend placing out board games during a study break?
 
 More from that same report:
+
 > Nomenclature: Encourage professional staff and students to refer to what is currently considered “upperclass housing” to “non-affiliated housing” to breakdown the bifurcated experience students feel as their “childhood” being in the colleges” and “adulthood” being outside of the colleges.
 
 "Childhood" and "adulthood"? I've been at the university for less than a year, but I've never once heard anyone at Princeton classify their experience with this dichotomy. If "childhood" is living in the residential college and having a university-sponsored meal plan. Then is we "adulthood" really moving into a different university dorm and joining an eating club?[^2] There are many ways in which the experiences of freshmen and sophomores differ from juniors and seniors, but moving to a new on-campus dorm and paying upwards of $9,300 for board doesn't strike me as "adulthood."
@@ -27,9 +28,7 @@ More from that same report:
 From the [report][sponsored research report] submitted by the [Committee on the Future of Sponsored Research][sponsored research]:
 
 >New internal support for research will strengthen the proposals of Princeton faculty, increasing the likelihood of positive funding decisions, with the overall outcome of a virtuous cycle of more funds for research, enhanced research activity, and improved prospects for acquiring additional funding.
-
 >[...]
-
 >There is a real possibility that this could place Princeton at a considerable competitive advantage vis-à-vis its peers. Now is not	the time to retrench. There has hardly been a more exciting time in the life sciences.
 
 There has been [much][MIT] [discussion][chronicle] recently about the [flatlining of government research dollars][nytimes research] flowing into universities. From the committee's report, it appears that Princeton has been relatively resilient against these stresses, but the committee recommends that the university create robust mechanisms for internal research funding to foster bold research, and to better position Princeton researchers to obtain the limited government funds still available.
