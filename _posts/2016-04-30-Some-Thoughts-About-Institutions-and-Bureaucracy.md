@@ -37,6 +37,8 @@ This plan for increased internal funding does seem quite sensible: Princeton sho
 
 This is all to say that while it's possible for the university to become more self-reliant in research funding, it's inconceivable in the foreseeable future that Princeton, and other universities, will not be primarily dependent on government dollars for research.
 
+That's all of the thoughts I have for now about these reports, but I'll probably come back to more of the strategic planning reports in the future. I'm starting to find that these sorts of primary source documents are much more interesting to read than the news releases that surround them. There is some level of exposure to the inner thought process of the authors of the reports that you can only understand from reading the reports yourself. So wherever your interests are, I would suggest that you do the same: find the relevant primary source documents and dig in. You don't always need a journalist to stand between you and the information. If you want to be a journalist, read journalism. If you want to be a business executive, technologist, or anything else, read what the people in the industry are writing themselves.
+
 [^1]: Actually, the fully-correct phrase is more like: university-sponsored-free-food-event-that-isn't-actually-free-because-it-comes-out-of-ballooning-student-fees. (I see how "study break" is the more attractive word).
 
 [^2]: Juniors and seniors typically join eating clubs, which, as their names suggest, are an upperclass dining option. They're an anachronism of a time gone-by, and now occupy an [often][bloomberg eating clubs] [contested][nytimes ivy] position as partial-substitutes to fraternities and sororities in the university's social scene.
