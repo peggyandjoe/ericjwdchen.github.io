@@ -27,8 +27,10 @@ More from that same report:
 From the [report][sponsored research report] submitted by the [Committee on the Future of Sponsored Research][sponsored research]:
 
 >New internal support for research will strengthen the proposals of Princeton faculty, increasing the likelihood of positive funding decisions, with the overall outcome of a virtuous cycle of more funds for research, enhanced research activity, and improved prospects for acquiring additional funding.
-[...]
-There is a real possibility that this could place Princeton at a considerable competitive advantage vis-à-vis its peers. Now is not	the time to retrench. There has hardly been a more exciting time in the life sciences.
+
+>[...]
+
+>There is a real possibility that this could place Princeton at a considerable competitive advantage vis-à-vis its peers. Now is not	the time to retrench. There has hardly been a more exciting time in the life sciences.
 
 There has been [much][MIT] [discussion][chronicle] recently about the [flatlining of government research dollars][nytimes research] flowing into universities. From the committee's report, it appears that Princeton has been relatively resilient against these stresses, but the committee recommends that the university create robust mechanisms for internal research funding to foster bold research, and to better position Princeton researchers to obtain the limited government funds still available.
 
@@ -45,7 +47,7 @@ This is all to say that while it's possible for the university to become more se
 [natural sciences]: http://www.princeton.edu/strategicplan/taskforces/naturalsciences/
 [res college report]: http://www.princeton.edu/strategicplan/files/Task-Force-Report-on-the-Residential-College-Model.pdf
 [res college]: http://www.princeton.edu/strategicplan/taskforces/rescollege/
-[sponsored research report]:
+[sponsored research report]: http://www.princeton.edu/strategicplan/files/Task-Force-Report-on-the-Future-of-Sponsored-Research.pdf
 [sponsored research]: http://www.princeton.edu/strategicplan/taskforces/cfsr/
 [chronicle]: http://chronicle.com/article/In-an-Era-of-Tighter-Budgets/235814
 [MIT]: http://dc.mit.edu/sites/default/files/innovation_deficit/Future%20Postponed.pdf
