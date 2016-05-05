@@ -349,6 +349,8 @@ nav {
   margin: auto;
   font-size: larger;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin-top: 1em;
+  text-transform: lowercase;
 }
 
 nav a {
@@ -357,23 +359,18 @@ nav a {
   margin-right: 1em;
 }
 
-.masthead-title {
-  margin-right: 2rem;
-}
-
-.nav-page {
-  margin-top: 1em;
-  text-transform: lowercase;
-}
-
-.nav-page a:hover {
+nav a:hover {
   transition: opacity 0.25s ease-in-out;
   opacity: 0.8;
   text-decoration: none;
 }
 
+.site-name {
+  margin-right: 2rem;
+}
+
 @media (max-width: 600px) {
-  .nav-page {
+  .site-name {
     display: block;
   }
 }
