@@ -1,6 +1,6 @@
 ---
 sitemap:
-  exclude: 'yes'
+exclude: 'yes'
 ---
 
 /*
@@ -332,9 +332,9 @@ main {
 }
 
 /*
-* Masthead
+* Header
 *
-* Super small header above the content for site name and short description.
+* Small header above the content for site name and short description.
 */
 
 header[role="banner"] {
@@ -349,12 +349,13 @@ nav {
   margin: auto;
   font-size: larger;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-nav a {
   color: white;
   text-decoration: none;
   margin-right: 1em;
+}
+
+nav a {
+
 }
 
 .masthead-title {
