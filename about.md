@@ -15,7 +15,7 @@ You can find me on [Twitter](https://twitter.com/ericjwdchen), [LinkedIn](https:
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
 
-##How the Sausage is Made
+## How the Sausage is Made
 
 This site is built on [Jekyll](http://jekyllrb.com/), forked originally from [Poole](http://getpoole.com/), and generously hosted on [GitHub Pages](https://pages.github.com/). The repository for the website is [here](https://github.com/ericjwdchen/ericjwdchen.github.io).
 
