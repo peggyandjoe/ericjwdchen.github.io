@@ -354,6 +354,11 @@ tbody tr:nth-child(odd) th {
 * Super small header above the content for site name and short description.
 */
 
+
+header[role="banner"] {
+  background-color: $green-matte;
+}
+
 .masthead {
   padding-top: $large-spacing;
   padding-bottom: $large-spacing;
@@ -361,10 +366,6 @@ tbody tr:nth-child(odd) th {
   max-width: $max-page-width;
   margin: auto;
   margin-bottom: $large-spacing;
-}
-
-.masthead-container {
-  background-color: $green-matte;
 }
 
 .masthead-title a {
