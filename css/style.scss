@@ -285,7 +285,6 @@ img + em {
 }
 
 /* Paragraph Alignment */
-
 .center {
   text-align: center;
 }
@@ -308,19 +307,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
-/*
-* Custom type
-*
-* Extend paragraphs with `.lead` for larger introductory text.
-*/
-
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
-
-
 /*
 * Messages
 *
@@ -334,7 +320,6 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
 /*
 * Container
 *
@@ -347,13 +332,11 @@ tbody tr:nth-child(odd) th {
   margin: auto;
 }
 
-
 /*
 * Masthead
 *
 * Super small header above the content for site name and short description.
 */
-
 
 header[role="banner"] {
   background-color: $green-matte;
@@ -440,8 +423,6 @@ separator {
 
 /*
 * Footer
-*
-*
 */
 
 footer {
@@ -483,8 +464,6 @@ footer {
 
 /*
 * Responsive iFrame Embeds
-*
-*
 */
 
 .responsive-container {
@@ -505,10 +484,8 @@ footer {
   height: 100%;
 }
 
-
 /*
 * Syntax (Code)
-*
 */
 
 .highlight .hll { background-color: #ffc; }
@@ -577,12 +554,8 @@ footer {
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
 
-
-
 /*
 * Bigfoot tooltip popovers
-*
-*
 */
 
 .bigfoot-footnote__button {
