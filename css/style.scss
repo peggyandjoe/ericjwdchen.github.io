@@ -408,7 +408,7 @@ nav a {
 }
 
 /* Divider between posts on the homepage*/
-separator {
+[role=separator] {
   border-top: 10px solid $light-grey;
   margin-top: $large-spacing;
   margin-bottom: $large-spacing;
