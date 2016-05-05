@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: WORK
 weight: 1
 ---
 
