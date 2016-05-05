@@ -349,7 +349,6 @@ nav {
   margin: auto;
   font-size: larger;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-top: 1em;
   text-transform: lowercase;
 }
 
@@ -372,6 +371,7 @@ nav a:hover {
 @media (max-width: 600px) {
   .site-name {
     display: block;
+    margin-bottom: 1em;
   }
 }
 
