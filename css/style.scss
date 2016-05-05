@@ -362,12 +362,14 @@ header[role="banner"] {
 }
 
 nav {
-  color: white;
-  text-decoration: none;
-
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
 }
 
 .nav-page a {
