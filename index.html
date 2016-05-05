@@ -5,7 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <article class="post">
     <h1 class="post-title">
       {% if post.link %}
       <a href="{{ post.link }}">
@@ -34,7 +34,7 @@ title: Home
     </span>
   </p>
   {{ post.content }}
-  </div>
+  </article>
   <div role="separator"></div>
   {% endfor %}
 </div>
