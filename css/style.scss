@@ -25,7 +25,6 @@ only Main files contain this front matter, not partials.
 
 $red-orange: #BF1F49;
 $green-matte: #94B288;
-//used as masthead background color
 $zune-brown: #583B2B;
 $grey: #808080;
 $light-grey: #C0C0C0;
@@ -127,7 +126,6 @@ p {
   margin-bottom: 1rem;
 }
 
-
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
@@ -163,6 +161,7 @@ abbr {
   color: #555;
   text-transform: uppercase;
 }
+
 abbr[title] {
   cursor: help;
   border-bottom: 1px dotted #e5e5e5;
@@ -356,12 +355,6 @@ nav a {
   margin-right: 1em;
 }
 
-.nav-page a:hover {
-  transition: opacity 0.25s ease-in-out;
-  opacity: 0.8;
-  text-decoration: none;
-}
-
 .masthead-title {
   margin-right: 3rem;
   font-size: larger;
@@ -369,6 +362,13 @@ nav a {
 
 .nav-page {
   margin-top: 1em;
+  text-transform: uppercase;
+}
+
+.nav-page a:hover {
+  transition: opacity 0.25s ease-in-out;
+  opacity: 0.8;
+  text-decoration: none;
 }
 
 @media (max-width: 600px) {
