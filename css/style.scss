@@ -370,11 +370,7 @@ nav {
 nav a {
   color: white;
   text-decoration: none;
-}
-
-.nav-page a {
-  //transition: opacity 0.2s ease-in-out;
-  color: white;
+  margin-right: 1em;
 }
 
 .nav-page a:hover {
@@ -384,15 +380,8 @@ nav a {
 }
 
 .masthead-title {
-  margin-top: 0;
   margin-right: 3rem;
-  font-weight: normal;
   font-size: 1.2rem;
-}
-
-.nav-page a {
-  margin-right: 1em;
-  text-transform: uppercase;
 }
 
 .nav-page {
