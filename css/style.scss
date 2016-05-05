@@ -364,13 +364,12 @@ header[role="banner"] {
 nav {
   color: white;
   text-decoration: none;
-}
 
-.masthead {
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
 }
+
 .nav-page a {
   //transition: opacity 0.2s ease-in-out;
   color: white;
