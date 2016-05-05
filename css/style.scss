@@ -234,7 +234,7 @@ pre code {
 blockquote {
   padding-left: 1rem;
   margin: 0;
-  border-left: 4px solid $light-grey;
+  border-left: 5px solid $light-grey;
 }
 
 blockquote p:last-child {
@@ -410,7 +410,7 @@ article {
 
 /* Divider between posts on the homepage*/
 [role=separator] {
-  border-top: 7px solid $light-grey;
+  border-top: 5px solid $light-grey;
   margin-top: $large-spacing;
   margin-bottom: $large-spacing;
 }
