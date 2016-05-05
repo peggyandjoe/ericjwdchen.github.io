@@ -357,25 +357,20 @@ tbody tr:nth-child(odd) th {
 
 header[role="banner"] {
   background-color: $green-matte;
-}
-
-.masthead {
   padding-top: $large-spacing;
   padding-bottom: $large-spacing;
-  width: $page-width;
-  max-width: $max-page-width;
-  margin: auto;
-  margin-bottom: $large-spacing;
 }
 
-.masthead-title a {
+nav {
   color: white;
-}
-
-.masthead-title a:hover {
   text-decoration: none;
 }
 
+.masthead {
+  width: $page-width;
+  max-width: $max-page-width;
+  margin: auto;
+}
 .nav-page a {
   //transition: opacity 0.2s ease-in-out;
   color: white;
