@@ -19,21 +19,17 @@ title: Home
     </h1>
 
     <p class="post-metadata">
-      <span class="post-date">
-        {{ post.date | date: "%B %-d, %Y" }}
-        {% if post.link %}
-        <span><a class="permalink" href="{{ post.url }}">∞</a></span>
-        {% endif %}
-      </span>
+      {{ post.date | date: "%B %-d, %Y" }}
+      {% if post.link %}
+      <span><a class="permalink" href="{{ post.url }}">∞</a></span>
+      {% endif %}
 
-      <span class="read-time" title="Estimated read time">
-        • {% assign reading_time = post.content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
-        {% if reading_time < 0.5 %}1 min read
-        {% else %}{{ reading_time }} min read
-        {% endif %}
-    </span>
-  </p>
-  {{ post.content }}
+      • {% assign reading_time = post.content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
+      {% if reading_time < 0.5 %}1 min read
+      {% else %}{{ reading_time }} min read
+      {% endif %}
+    </p>
+    {{ post.content }}
   </article>
   <div role="separator"></div>
   {% endfor %}
