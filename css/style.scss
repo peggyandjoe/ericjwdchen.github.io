@@ -300,7 +300,7 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  background-color: #f9f9f9;
+  background-color: $light-grey;
 }
 
 /*
@@ -545,7 +545,7 @@ footer {
   border: none;
   border-radius: 1rem;
   cursor: pointer;
-  background-color: $light-grey;
+  background-color: $grey;
   -webkit-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -560,15 +560,15 @@ footer {
 .bigfoot-footnote__button:hover,
 .bigfoot-footnote__button:focus {
   outline: none;
-  background-color: $grey;
+  background-color: black;
 }
 
 .bigfoot-footnote__button:active {
-  background-color: $grey;
+  background-color: black;
 }
 
 .bigfoot-footnote__button.is-active {
-  background-color: $grey;
+  background-color: black;
 }
 
 // make footnotes display numbers instead of three dots
