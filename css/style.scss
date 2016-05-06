@@ -213,7 +213,7 @@ pre code {
 blockquote {
   padding-left: 1rem;
   margin: 0;
-  border-left: 5px solid $grey;
+  border-left: 3px solid $grey;
   padding: 1rem;
   background-color: $light-grey;
 }
@@ -386,7 +386,7 @@ article {
 
 /* Divider between posts on the homepage*/
 [role=separator] {
-  border-top: 5px solid $grey;
+  border-top: 3px solid $grey;
   margin-top: $large-spacing;
   margin-bottom: $large-spacing;
 }
