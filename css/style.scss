@@ -222,6 +222,10 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 img {
   display: block;
   width: 100%;
