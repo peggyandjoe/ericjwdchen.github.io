@@ -27,7 +27,7 @@ $red-orange: #BF1F49;
 $green-matte: #94B288;
 $zune-brown: #583B2B;
 $grey: #808080;
-$light-grey: #C0C0C0;
+$light-grey: #f9f9f9;
 
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
@@ -155,7 +155,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #bf616a;
-  background-color: #f9f9f9;
+  background-color: $light-grey;
   border-radius: 3px;
 }
 pre {
@@ -169,7 +169,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f9f9f9;
+  background-color: $light-grey;
 }
 pre code {
   padding: 0;
@@ -213,9 +213,9 @@ pre code {
 blockquote {
   padding-left: 1rem;
   margin: 0;
-  border-left: 5px solid $light-grey;
+  border-left: 5px solid $grey;
   padding: 1rem;
-  background-color: #f9f9f9;
+  background-color: $light-grey;
 }
 
 blockquote p:first-child {
@@ -277,17 +277,17 @@ img + em {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
+  border: 1px solid $grey;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid $grey;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: $light-grey;
 }
 
 /*
@@ -386,7 +386,7 @@ article {
 
 /* Divider between posts on the homepage*/
 [role=separator] {
-  border-top: 5px solid $light-grey;
+  border-top: 5px solid $grey;
   margin-top: $large-spacing;
   margin-bottom: $large-spacing;
 }
