@@ -2,7 +2,6 @@
 layout: default
 ---
 <article>
-
   <h1>
     {% if page.link %}
     <a href="{{ post.link }}">⇜ {{ page.title }} ⇝</a>
@@ -17,7 +16,6 @@ layout: default
     {% else %}{{ reading_time }} min read
     {% endif %}
   </p>
-
   {{ content }}
 </article>
 <div role="separator"></div>
