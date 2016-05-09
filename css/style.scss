@@ -34,6 +34,10 @@ $large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 700px;
 
+:root {
+  --green-matte: #94B288;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -71,19 +75,6 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
-}
-
-/*Permalink link styling*/
-
-.permalink {
-  border-bottom: none !important;
-  color: $red-orange !important;
-}
-
-.permalink:hover,
-.permalink:focus {
-  color: $green-matte !important;
-  text-decoration: none;
 }
 
 /* Headings */
@@ -321,7 +312,7 @@ main {
 */
 
 header[role="banner"] {
-  background-color: $green-matte;
+  background-color: var(--primary-color);
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
