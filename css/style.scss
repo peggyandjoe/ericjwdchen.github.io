@@ -312,9 +312,10 @@ main {
 */
 
 header[role="banner"] {
-  background-color: var(--green-matte);
+  //background-color: var(--green-matte);
   padding-top: 1rem;
   padding-bottom: 1rem;
+  width: 700px;
 }
 
 nav {
