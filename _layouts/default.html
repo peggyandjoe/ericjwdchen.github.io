@@ -6,10 +6,10 @@
 <body>
   <header role="banner">
     <nav>
-      <div class="sitename">
+      <div class="url">
         <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
       </div>
-      <div class="nav-links">
+      <div class="navigation-links">
         {% for weight in (1..10) %} {% for p in site.pages %} {% if p.weight == weight %}
         <a {% if p.url == page.url %}class="active"{% endif %} href="{{p.url }}"> {{ p.title }}</a>
         {% endif %} {% endfor %} {% endfor %}
