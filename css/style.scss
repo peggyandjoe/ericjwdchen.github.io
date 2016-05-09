@@ -321,7 +321,6 @@ header[role="banner"] {
 }
 
 nav {
-  font-size: larger;
   text-transform: lowercase;
 }
 
@@ -329,21 +328,9 @@ nav a {
   margin-right: 1em;
 }
 
-nav a:hover {
-  transition: opacity 0.1s ease-in-out;
-  opacity: 0.9;
-  text-decoration: none;
-}
-
 .site-name {
-  margin-right: 2rem;
-}
-
-@media (max-width: 600px) {
-  .site-name {
-    display: block;
-    margin-bottom: $small-spacing;
-  }
+  display: block;
+  font-size: larger;
 }
 
 /*
