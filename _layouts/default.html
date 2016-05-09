@@ -6,15 +6,15 @@
 <body>
   <header role="banner">
     <nav>
-      <p class="url">
+      <div class="url">
         <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
-      </p>
-      <p class="navigation-links">
+      </div>
+      <div class="navigation-links">
         {% for weight in (1..10) %} {% for p in site.pages %} {% if p.weight == weight %}
         <a {% if p.url == page.url %}class="active"{% endif %} href="{{p.url }}"> {{ p.title }}</a>
         {% endif %} {% endfor %} {% endfor %}
         <a title="Subscribe to ericjwdchen.org via RSS"href ="/rss.xml">rss</a>
-      </p>
+      </div>
     </nav>
   </header>
   <main>
