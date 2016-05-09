@@ -312,18 +312,16 @@ main {
 */
 
 header[role="banner"] {
-  //background-color: var(--green-matte);
   padding-top: 1rem;
   padding-bottom: 1rem;
-  width: 700px;
-}
-
-nav {
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
+  border-bottom: 3px solid $grey;
+}
+
+nav {
   font-size: larger;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: lowercase;
 }
 
