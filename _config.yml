@@ -6,7 +6,7 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            ericjwdchen.org
+title:            Eric Chen
 url:              http://ericjwdchen.org
 paginate:         5
 baseurl:          /
