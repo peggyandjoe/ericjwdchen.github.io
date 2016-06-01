@@ -6,7 +6,7 @@ weight: 1
 
 A collection of projects I've worked on recently.
 
-<br>
+<hr>
 
 ## [Business Consulting Website][JEAP] (2016)
 *Focused and professional.*
@@ -19,7 +19,7 @@ This is a site that I am building for a one-person consulting shop. The site has
 
 [JEAP]: http://ericjwdchen.org/work/business_consulting_website
 
-<br>
+<hr>
 
 ## [Newspaper Redesign for *The Lawrence*][the lawrence] (2014-2015)
 *Bringing the print to the web.*
