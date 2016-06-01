@@ -1,22 +1,8 @@
 ---
 layout: page
 title: Work
-weight: 1
+weight: 2
 ---
-
-A collection of projects I've worked on recently.
-
-## [Business Consulting Website][JEAP] (2016)
-*Focused and professional.*
-
-![Jeap LLC Phone](/assets/2015/02/jeap-llc-phone.png)*On the phone.*
-
-This is a site that I am building for a one-person consulting shop. The site hasn't yet gone live, but the design is mostly finished.
-
-![Jeap LLC Laptop Top](/assets/2015/02/jeap-llc-laptop-homepage-top.png)*On the laptop.*
-
-[JEAP]: http://ericjwdchen.org/work/business_consulting_website
-
 
 ## [Newspaper Redesign for *The Lawrence*][the lawrence] (2014-2015)
 *Bringing the print to the web.*
@@ -47,7 +33,7 @@ I also wanted the site to be easy to navigate. I ended up dividing the navigatio
 
 I decided to place less-used navigation in a secondary group, primarily featuring links that are 'bonus' to the physical newspaper: About, Masthead, Contact, etc.
 
-[the lawrence]: http://www.thelawrence.org/
+[the lawrence]: http://ericjwdchen.org/work/the_lawrence
 [instant articles]: https://instantarticles.fb.com/
 [10k words]: http://recode.net/2016/01/05/twitter-considering-10000-character-limit-for-tweets/
 [amp]: https://www.ampproject.org/
