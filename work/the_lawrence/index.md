@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Work
+title: Newspaper Redesign for *The Lawrence* (2014-2015)
 weight: 2
 ---
 
-## [Newspaper Redesign for *The Lawrence*][the lawrence] (2014-2015)
 *Bringing the print to the web.*
 
 This is a project that I worked on for my school newspaper. I built a brand-new WordPress theme to meet the specific demands of our newspaper.
