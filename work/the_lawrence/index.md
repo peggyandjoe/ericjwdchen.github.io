@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newspaper Redesign for <em>The Lawrence<em> (2014-2015)
+title: Newspaper Redesign for <em>The Lawrence</em> (2014-2015)
 weight: 2
 ---
 
