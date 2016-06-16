@@ -1,6 +1,6 @@
 ---
 layout: page
-title: also
+title: Also
 weight: 1
 ---
 
