@@ -26,7 +26,7 @@ To illustrate, Oates in her own words on boxing:
 
 #### "They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge."
 
-![Flash Boys: A Wall Street Revolt](/assets/2016/06/on-boxing.jpg){: .img-right}
+![Flash Boys: A Wall Street Revolt](/assets/2016/06/flash-boys.jpg){: .img-right}
 
 As the saying goes, don't bring a knife to a gunfight. If you're an individual investor on Wall Street, the lesson from Michael Lewis's *Flash Boys* is that you have the knife, and the high frequency traders have the guns. It's a fools game—no different than roulette at the casino. The house knows the odds, and they're not in your favor.
 
