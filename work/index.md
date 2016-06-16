@@ -17,7 +17,7 @@ This is a site that I am building for a one-person consulting shop. The site has
 
 ![Jeap LLC Laptop Top](/assets/2015/02/jeap-llc-laptop-homepage-top.png)*On the laptop.*
 
-[JEAP]: http://ericjwdchen.org/work/business_consulting_website
+[JEAP]: http://ericjwdchen.org/work/business-consulting-website
 
 <hr>
 
@@ -30,4 +30,4 @@ This is a project that I worked on for my school newspaper. I built a brand-new 
 
 ![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.png)*On the laptop.*
 
-[the lawrence]: http://ericjwdchen.org/work/the_lawrence
+[the lawrence]: http://ericjwdchen.org/work/the-lawrence
