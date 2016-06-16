@@ -6,7 +6,9 @@ weight: 2
 
 ## [On Boxing][On Boxing - Amazon]
 
-### "...for boxing is about failure far more than it is about success."
+#### "...for boxing is about failure far more than it is about success."
+
+![On Boxing](/assets/2016/06/on-boxing.jpg){: .img-right}
 
 There are no shortage of reviews and responses to this timeless Joyce Carol Oates anthology of essays about, and on, boxing. And rightly so. For a longtime outsider to the world of combat sports who only started paying more attention recently, beginning with Mayweather vs. Pacquiao last year, *On Boxing* captures perfectly what is so electric and captivating about boxing.
 
@@ -17,3 +19,17 @@ To illustrate, Oates in her own words on boxing:
 > Which returns us to the paradox of boxing: its obsessive appeal for many who find in it not only a spectacle involving sensational feats of physical skill but an emotional experience impossible to convey in words; an art form, as I've suggested, with no natural analogue in the arts. Of course it is primitive, too, as birth, death and erotic love might be said to be primitive, and forces our reluctant acknowledgement of that the most profound experiences of our lives are physical events—though we believe ourselves to be, and surely are, essentially spiritual beings.
 
 [On Boxing - Amazon]: https://www.amazon.com/Boxing-Joyce-Carol-Oates/dp/0060874503/ref=sr_1_1?ie=UTF8&qid=1466043883&sr=8-1&keywords=on+boxing
+
+<hr>
+
+## [Flash Boys: A Wall Street Revolt][the flash boys - Amazon]
+
+#### "They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge."
+
+![Flash Boys: A Wall Street Revolt](/assets/2016/06/on-boxing.jpg){: .img-right}
+
+As the saying goes, don't bring a knife to a gunfight. If you're an individual investor on Wall Street, the lesson from Michael Lewis's *Flash Boys* is that you have the knife, and the high frequency traders have the guns. It's a fools game—no different than roulette at the casino. The house knows the odds, and they're not in your favor.
+
+*Flash Boys*, if a little repetitive towards the end, was an enjoyable read written accessibly with solid characters and an easy to follow narrative.
+
+[the flash boys - Amazon]: https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599/ref=sr_1_1?ie=UTF8&qid=1466047781&sr=8-1&keywords=the+flash+boys
