@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Book Notes
-weight: 1
+weight: 2
 ---
 
-##[On Boxing][On Boxing - Amazon]
+## [On Boxing][On Boxing - Amazon]
 
-###"...for boxing is about failure far more than it is about success."
+### "...for boxing is about failure far more than it is about success."
 
 There are no shortage of reviews and responses to this timeless Joyce Carol Oates anthology of essays about, and on, boxing. And rightly so. For a longtime outsider to the world of combat sports who only started paying more attention recently, beginning with Mayweather vs. Pacquiao last year, *On Boxing* captures perfectly what is so electric and captivating about boxing.
 
