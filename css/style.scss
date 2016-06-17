@@ -207,6 +207,7 @@ blockquote {
   padding: 0.5rem 0 0.5rem 1rem;
   border-left: 3px solid $grey;
   background-color: $light-grey;
+  margin-left: 0em;
 }
 
 blockquote p:first-child {
@@ -333,7 +334,7 @@ header[role="banner"] {
 }
 
 .navigation-links a {
-  margin-right: 1em;
+  margin-right: 0.8em;
 }
 
 /*
