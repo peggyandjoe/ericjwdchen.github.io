@@ -130,11 +130,6 @@ hr:after {
   letter-spacing: 0.25em;
 }
 
-@media print{
-  a:after{content:" (" attr(href) ") ";font-size:0.8em;font-weight:normal;}
-}
-
-
 /* Code */
 code,
 pre {
