@@ -314,7 +314,7 @@ header[role="banner"] {
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
-  margin-bottom: 2rem;
+  margin-top: 1rem;
   border-bottom: 3px solid $grey;
   text-align: center;
   font-size: larger;
@@ -322,7 +322,6 @@ header[role="banner"] {
 
 .url {
   font-size: larger;
-  margin-top: 1rem;
   margin-bottom: 0.5rem;
 }
 
