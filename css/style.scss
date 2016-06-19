@@ -81,7 +81,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1.2;
-  margin: 0 0 1em 0;
+  margin: 1em 0 1rem 0;
 }
 h1 {
   font-size: 2rem;
@@ -314,6 +314,7 @@ header[role="banner"] {
   width: $page-width;
   max-width: $max-page-width;
   margin: auto;
+  margin-bottom: 2rem;
   border-bottom: 3px solid $grey;
   text-align: center;
   font-size: larger;
