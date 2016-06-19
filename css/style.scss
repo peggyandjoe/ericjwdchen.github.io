@@ -199,8 +199,7 @@ pre code {
 
 /* Quotes */
 blockquote {
-  margin-bottom: 1em;
-  margin-left: 0em;
+  margin: 0 0 1em 0;
   padding: 0.5rem 0 0.5rem 1rem;
   border-left: 3px solid $grey;
   background-color: $light-grey;
