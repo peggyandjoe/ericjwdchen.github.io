@@ -81,7 +81,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   line-height: 1.2;
-  margin: 1em 0 1rem 0;
+  margin: 1em 0 0.8rem 0; // 0.8rem for baseline adjustment
 }
 h1 {
   font-size: 2rem;
