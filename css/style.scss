@@ -368,8 +368,9 @@ article {
 /* Footnote text that appears below each post on the homepage and on each article page.*/
 
 .footnotes {
-  border-top: 1px solid $grey;
   font-size: smaller;
+  border-top: 1px solid $grey;
+  padding-top: 1em;
 }
 
 /*
