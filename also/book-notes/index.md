@@ -6,7 +6,9 @@ weight: 2
 
 ## [God and Man at Yale][Gamay - Amazon]
 
-#### ""
+#### "Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."
+
+
 
 ![God and Man at Yale](/assets/2016/06/gamay.jpg){: .img-right}
 
