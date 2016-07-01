@@ -10,7 +10,9 @@ weight: 2
 
 ![God and Man at Yale](/assets/2016/06/gamay.jpg){: .img-right}
 
-> It is plain that the president of a university cannot transmit to the students his own values directly. his duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.<br> It is curious that the Corporation spends so much time and effort in selecting a president.
+> It is plain that the president of a university cannot transmit to the students his own values directly. his duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.
+
+>It is curious that the Corporation spends so much time and effort in selecting a president.
 
 [Gamay - Amazon]: https://www.amazon.com/God-Man-Yale-Superstitions-Academic/dp/089526692X/ref=sr_1_1?ie=UTF8&qid=1467334885&sr=8-1&keywords=god+and+man+at+yale
 
