@@ -28,6 +28,7 @@ $green-matte: #94B288;
 $zune-brown: #583B2B;
 $grey: #808080;
 $light-grey: #f9f9f9;
+$text: rgba(0,0,0,.9);
 
 $small-spacing: 0.5rem;
 $large-spacing: 2rem;
@@ -51,6 +52,7 @@ html {
   font-family: Georgia, serif;
   font-size: 110%;
   line-height: 1.5;
+  color: $text;
 }
 
 @media (min-width: 600px) {
