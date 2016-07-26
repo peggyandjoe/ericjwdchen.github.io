@@ -4,7 +4,7 @@
 {% include head.html %}
 
 <body>
-  <header role="banner">
+  <header>
     <nav>
       <div class="url">
         <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
@@ -13,7 +13,7 @@
         {% for weight in (1..1) %} {% for p in site.pages %} {% if p.weight == weight %}
         <a {% if p.url == page.url %}class="active"{% endif %} href="{{p.url }}"> {{ p.title }}</a>
         {% endif %} {% endfor %} {% endfor %}
-        <a title="Subscribe to ericjwdchen.org via RSS"href ="/rss.xml">rss</a>
+        <a title="Subscribe to ericjwdchen.org via RSS" href ="/rss.xml">rss</a>
       </div>
     </nav>
   </header>
