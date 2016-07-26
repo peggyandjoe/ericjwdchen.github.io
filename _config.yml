@@ -15,11 +15,6 @@ author:
   url:            https://twitter.com/ericjwdchen_org
   email:          eric@ericjwdchen.org
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           //github.com/ericjwdchen/ericjwdchen.github.io
-
 gems:
   - jekyll-sitemap
 
