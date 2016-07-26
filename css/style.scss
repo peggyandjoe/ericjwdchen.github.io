@@ -283,17 +283,17 @@ header {
   margin-bottom: 0.5rem;
 }
 
-.navigation-links {
+.nav-links {
   margin-bottom: 1rem;
   text-transform: lowercase;
 }
 
-.navigation-links a {
+.nav-links a {
   margin-left: 0 .2em;
 }
 
 @media (min-width: 600px) {
-  .navigation-links a {
+  .nav-links a {
     margin: 0 .5em;
   }
 }
