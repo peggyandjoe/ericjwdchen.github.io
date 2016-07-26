@@ -139,7 +139,7 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  font-size: 0.8rem;
   color: #bf616a;
   background-color: $light-grey;
   border-radius: 3px;
@@ -149,7 +149,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
-  font-size: .8rem;
+  font-size: 0.8rem;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -184,7 +184,7 @@ img {
 }
 img + em {
   display: block;
-  font-size: smaller;
+  font-size: 0.8rem;
   text-align: center;
   // because img tag has no margins, need to add margin because no <p> wrap
   margin-top: 1em;
@@ -273,10 +273,10 @@ header[role="banner"] {
   margin-top: 1rem;
   border-bottom: 3px solid $grey;
   text-align: center;
-  font-size: larger;
+  font-size: 1.3rem;
 }
 .url {
-  font-size: larger;
+  font-size: 1.3rem;
   margin-bottom: 0.5rem;
 }
 .navigation-links {
@@ -318,7 +318,7 @@ article {
 }
 /* Footnote text that appears below each post on the homepage and on each article page.*/
 .footnotes {
-  font-size: smaller;
+  font-size: 0.8rem;
   border-top: 1px solid $grey;
   padding-top: 1em;
 }
@@ -331,7 +331,7 @@ footer {
   color: $grey;
   text-align: center;
   margin: $large-spacing;
-  font-size: smaller;
+  font-size: 0.8rem;
 }
 .footer-logo {
   width: 4rem;
@@ -686,8 +686,7 @@ footer {
 }
 
 .bigfoot-footnote__content {
-  font-size: smaller;
-
+  font-size: 0.8rem;
 
   position: relative;
   z-index: 8;
