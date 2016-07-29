@@ -204,6 +204,7 @@ img {
   display: block;
   height: auto;
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 img + em {
@@ -285,6 +286,9 @@ article {
   font-size: .8rem;
 }
 
+.pagination {
+  height: 1rem;
+}
 .pagination a {
   display: block;
   float: left;
