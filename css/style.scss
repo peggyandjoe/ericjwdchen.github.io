@@ -38,7 +38,8 @@ $max-page-width: 700px;
 }
 
 body {
-  margin: 0;
+  width: $page-width;
+  max-width: $max-page-width;
   padding: 0;
 }
 
@@ -252,8 +253,6 @@ tbody tr:nth-child(odd) th {
 */
 
 main {
-  width: $page-width;
-  max-width: $max-page-width;
   margin: auto;
 }
 
@@ -267,9 +266,7 @@ header {
   border-bottom: 3px solid $grey;
   font-size: 1.2rem;
   margin: auto;
-  max-width: $max-page-width;
   text-align: center;
-  width: $page-width;
 }
 
 .nav-links {
