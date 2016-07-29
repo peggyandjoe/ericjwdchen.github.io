@@ -4,22 +4,14 @@ exclude: 'yes'
 ---
 
 /*
-this ensures Jekyll reads the file to be transformed into CSS later
-only Main files contain this front matter, not partials.
-*/
-
-/*
 * Contents
 * Body resets
 * Custom type
-* Messages
-* Container
-* Masthead
+* Header
 * Footer
 * Posts and pages
 * Pagination
 * Responsive iFrame Embeds
-* Syntax (Code)
 */
 
 $red-orange: #bb1b49;
@@ -30,6 +22,11 @@ $text: rgba(0,0,0,.9);
 $large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 700px;
+
+
+/*
+* Body resets
+*/
 
 * {
   box-sizing: border-box;
@@ -52,6 +49,10 @@ html {
     font-size: 115%;
   }
 }
+
+/*
+* Custom type
+*/
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
@@ -133,6 +134,52 @@ hr {
 hr:after {
   content: "· · ·";
   letter-spacing: .25em;
+}
+
+
+/*
+* Header
+*
+* Small header above the content for site name and short description.
+*/
+
+header {
+  border-bottom: 3px solid $grey;
+  font-size: 1.2rem;
+  margin: auto;
+  text-align: center;
+}
+
+.nav-links {
+  margin-bottom: 1rem;
+  text-transform: lowercase;
+}
+
+.nav-links a {
+  margin: 0 .2em;
+}
+
+@media (min-width: 600px) {
+  .nav-links a {
+    margin: 0 .5em;
+  }
+}
+
+/*
+* Footer
+*/
+
+footer {
+  color: $grey;
+  font-size: .8rem;
+  margin: $large-spacing;
+  text-align: center;
+}
+
+.footer-logo {
+  width: 4rem;
+  height: auto;
+  margin: auto auto 1rem auto;
 }
 
 /* Code */
@@ -236,34 +283,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
-* Header
-*
-* Small header above the content for site name and short description.
-*/
-
-header {
-  border-bottom: 3px solid $grey;
-  font-size: 1.2rem;
-  margin: auto;
-  text-align: center;
-}
-
-.nav-links {
-  margin-bottom: 1rem;
-  text-transform: lowercase;
-}
-
-.nav-links a {
-  margin: 0 .2em;
-}
-
-@media (min-width: 600px) {
-  .nav-links a {
-    margin: 0 .5em;
-  }
-}
-
-/*
 * Posts and pages
 *
 * Each post is wrapped in 'article' and is used on default and post layouts.
@@ -293,30 +312,6 @@ article {
   font-size: .8rem;
 }
 
-/*
-* Footer
-*/
-
-footer {
-  color: $grey;
-  font-size: .8rem;
-  margin: $large-spacing;
-  text-align: center;
-}
-
-.footer-logo {
-  width: 4rem;
-  height: auto;
-  margin: auto auto 1rem auto;
-}
-
-/*
-* Pagination
-*
-* Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
-* there are no more previous or next posts to show.
-*/
-
 .pagination a {
   display: block;
   float: left;
@@ -330,7 +325,7 @@ footer {
 }
 
 /*
-* Responsive iFrame Embeds
+* Responsive iFrame Embeds (e.g. Youtube)
 */
 
 .responsive-container {
