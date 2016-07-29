@@ -203,8 +203,7 @@ img + em {
 }
 
 .img-narrow {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: auto;
 }
 
@@ -277,18 +276,13 @@ header {
   width: $page-width;
 }
 
-.url {
-  font-size: 1.3rem;
-  margin-bottom: .5rem;
-}
-
 .nav-links {
   margin-bottom: 1rem;
   text-transform: lowercase;
 }
 
 .nav-links a {
-  margin: 0 .2em;
+  margin: 0 .15em;
 }
 
 @media (min-width: 600px) {
@@ -320,6 +314,7 @@ article {
   margin: $large-spacing 0;
   clear: both;
 }
+
 /* Footnote text that appears below each post on the homepage and on each article page.*/
 .footnotes {
   border-top: 1px solid $grey;
@@ -337,6 +332,7 @@ footer {
   margin: $large-spacing;
   text-align: center;
 }
+
 .footer-logo {
   width: 4rem;
   height: auto;
