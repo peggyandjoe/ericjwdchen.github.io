@@ -40,6 +40,7 @@ $max-page-width: 700px;
 body {
   width: $page-width;
   max-width: $max-page-width;
+  margin: auto;
   padding: 0;
 }
 
