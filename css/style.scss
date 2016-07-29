@@ -97,7 +97,8 @@ h4 {
   font-style: italic;
 }
 
-h5, h6 {
+h5,
+h6 {
   font-size: 1rem;
 }
 
@@ -127,6 +128,7 @@ blockquote p:first-child {
 blockquote p:last-child {
   margin-bottom: 0;
 }
+
 hr {
   border: none;
   color: $grey;
@@ -172,12 +174,6 @@ footer {
   font-size: .8rem;
   margin: $large-spacing;
   text-align: center;
-}
-
-.footer-logo {
-  width: 4rem;
-  height: auto;
-  margin: auto auto 1rem auto;
 }
 
 /* Code */
