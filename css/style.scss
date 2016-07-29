@@ -109,7 +109,7 @@ p {
 
 /* Lists */
 ul, ol, dl {
-  margin-top: 0 0 1rem 0;
+  margin: 0 0 1rem 0;
 }
 
 dt {
@@ -135,11 +135,10 @@ hr:after {
   letter-spacing: .25em;
 }
 
-
 /*
 * Header
 *
-* Small header above the content for site name and short description.
+* Small header above the content for site name and links.
 */
 
 header {
