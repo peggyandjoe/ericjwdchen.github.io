@@ -265,7 +265,6 @@ main {
 
 header {
   border-bottom: 3px solid $grey;
-  font-size: 1.3rem;
   margin: 1rem auto auto auto;
   max-width: $max-page-width;
   text-align: center;
@@ -278,7 +277,7 @@ header {
 }
 
 .nav-links a {
-  margin: 0 .15em;
+  margin: 0 .2em;
 }
 
 @media (min-width: 600px) {
