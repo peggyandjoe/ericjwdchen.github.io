@@ -38,10 +38,10 @@ $max-page-width: 700px;
 }
 
 body {
-  width: $page-width;
-  max-width: $max-page-width;
   margin: auto;
+  max-width: $max-page-width;
   padding: 0;
+  width: $page-width;
 }
 
 html {
@@ -248,16 +248,6 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
-* Container
-*
-* Center the page content.
-*/
-
-main {
-  margin: auto;
-}
-
-/*
 * Header
 *
 * Small header above the content for site name and short description.
@@ -313,7 +303,6 @@ article {
 .footnotes {
   border-top: 1px solid $grey;
   font-size: .8rem;
-  padding-top: 1em;
 }
 
 /*
@@ -348,7 +337,6 @@ footer {
   width: 50%;
 }
 
-/* Pagination items can be `span`s or `a`s */
 .newer {
   text-align: right;
 }

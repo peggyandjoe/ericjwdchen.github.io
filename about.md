@@ -30,6 +30,11 @@ Math equations are created using [MathJax][mj].
 
 The [logo][l] is an homage to the brown [Zune 30](http://en.wikipedia.org/wiki/Zune_30), Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
 
+<code>
+Testing.
+1 2 3.
+</code>
+
 [l]: http://ericjwdchen.org/public/ericjwdchen_org_logo.png
 [bf]: http://www.bigfootjs.com/
 [mj]: https://www.mathjax.org/
