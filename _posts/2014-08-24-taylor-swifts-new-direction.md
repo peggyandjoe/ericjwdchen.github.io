@@ -56,7 +56,7 @@ However, even though *Red* signaled the impending change, it also reaffirmed Tay
 
 <hr>
 
-##What to make of *1989*?
+## What to make of *1989*?
 
 From all accounts, *1989* will be an [all-pop album][1989 all pop].[^5] But can I blame Taylor? No. Her songwriting has always been based on her personal experiences. Living in New York City, flying in a private jet, and hanging out with other pop stars *is* her new life. But for Taylor, that creates a paradox. She got her start writing about issues common to all teenagers. She, more than anyone else, could capture the emotion, intimacy, and heartbreak of growing up.
 
