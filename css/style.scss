@@ -140,33 +140,23 @@ hr:after {
 /* Code */
 code,
 pre {
+  background-color: $light-grey;
   font-family: Consolas, Monaco, monospace;
+  font-size: .8rem;
 }
 
 code {
-  background-color: $light-grey;
   border-radius: 3px;
   padding: .25em .5em;
-  font-size: .8rem;
 }
 
 pre {
-  background-color: $light-grey;
   display: block;
-  font-size: .8rem;
-  line-height: 1.4;
   margin: 0 0 1rem 0;
   padding: 1rem;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-}
-
-pre code {
-  background-color: transparent;
-  color: inherit;
-  font-size: 100%;
-  padding: 0;
 }
 
 /* Quotes */
