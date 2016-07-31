@@ -7,7 +7,7 @@ Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling co
 
 However, consider the following test case:
 
-~~~
+```
 function [] = timerTest
 
 % initialize a timer
@@ -27,7 +27,7 @@ start(t);
 % display how many times the timer has run
 disp(count);
 end
-~~~
+```
 
 I expected that the Command Window would display 5. But it actually displays 1.
 
@@ -37,13 +37,13 @@ But I was using a timer to take automated measurements, after which I processed 
 
 Turn out, it's just this simple:
 
-~~~
+```
 start(t)
 wait(t)
-~~~
+```
 
-Add <code>wait()</code>, and MATLAB will not continue executing code until the timer has finished.
+Add `wait()`, and MATLAB will not continue executing code until the timer has finished.
 
 [timer object]: http://www.mathworks.com/help/matlab/ref/timer-class.html
 
-[^1]: My temporary hack (and I suspect for many others as well) was to add a <code>pause()</code> that was as just longer than the expected timer duration.
+[^1]: My temporary hack (and I suspect for many others as well) was to add a `pause()` that was as just longer than the expected timer duration.
