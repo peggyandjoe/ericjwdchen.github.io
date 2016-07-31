@@ -7,8 +7,7 @@ Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling co
 
 However, consider the following test case:
 
-<pre><code>
-function [] = timerTest
+<pre><code>function [] = timerTest
 
 % initialize a timer
 t = timer('TimerFcn',@counter,'Period',1,'TasksToExecute',5,'ExecutionMode','fixedRate');
@@ -37,8 +36,7 @@ But I was using a timer to take automated measurements, after which I processed 
 
 Turn out, it's just this simple:
 
-<pre><code>
-start(t)
+<pre><code>start(t)
 wait(t)
 </code></pre>
 
