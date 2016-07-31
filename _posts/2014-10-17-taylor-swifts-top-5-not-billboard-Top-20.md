@@ -11,7 +11,7 @@ There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dicti
 
 ## 1. Tim McGraw
 
-<div class='responsive-container'><iframe src='http://www.youtube.com/embed/GkD20ajVxnY'  allowfullscreen></iframe></div>
+<div class='responsive-container'><iframe src="https://www.youtube.com/embed/GkD20ajVxnY" allowfullscreen></iframe></div>
 
 <div class="center"><i>He said the way my blue eyes shined<br>
 Put those Georgia stars to shame that night<br>
