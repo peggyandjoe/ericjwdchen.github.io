@@ -196,9 +196,8 @@ pre {
 
 img {
   display: block;
-  height: auto;
-  width: 100%;
   margin: auto auto 1rem auto;
+  max-height: 25rem;
 }
 
 img + em {
@@ -313,11 +312,7 @@ article {
   width: 100%;
 }
 
-/*
-
-Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmail.com>
-
-*/
+/* highlight.js */
 
 .hljs {
   display: block;
