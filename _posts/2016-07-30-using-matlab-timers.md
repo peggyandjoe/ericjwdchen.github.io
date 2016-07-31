@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using MATLAB Timers
+title: Waiting on MATLAB Timer Objects
 ---
 
 Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling code to run at a certain rate.
@@ -42,7 +42,7 @@ start(t)
 wait(t)
 </code></pre>
 
-Add wait(), and MATLAB will not continue executing code until the timer has finished. 
+Add wait(), and MATLAB will not continue executing code until the timer has finished.
 
 [timer object]: http://www.mathworks.com/help/matlab/ref/timer-class.html
 
