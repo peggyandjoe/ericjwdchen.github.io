@@ -178,25 +178,19 @@ footer {
 
 /* Code */
 
-code,
-pre {
-  background-color: $light-grey;
-  font-family: Consolas, Monaco, monospace;
-  font-size: .8rem;
-  width: 100%;
-}
-
-code {
-  border-radius: 3px;
-  padding: .25em .5em;
-}
-
 pre {
   display: block;
   margin: 0 0 1rem 0;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
+}
+
+code,
+pre {
+  background-color: $light-grey;
+  font-family: Consolas, Monaco, monospace;
+  width: 100%;
 }
 
 img {
