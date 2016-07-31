@@ -3,7 +3,9 @@ layout: post
 title: Intellectual Property Stifles Tech Innovation
 ---
 
-Note: This op-ed was originally published on page six of the [January 21, 2016 print issue][issue] of the [*Middleton Times-Tribune*][mtt]. This 750-word piece is the distillation of a much longer research paper I wrote for my college freshman writing seminar, Property, Wealth, and Equality.
+*Note*: This op-ed was originally published on page six of the [January 21, 2016 print issue][issue] of the [*Middleton Times-Tribune*][mtt]. This 750-word piece is the distillation of a much longer research paper I wrote for my college freshman writing seminar, Property, Wealth, and Equality.
+
+![op-ed.png](/assets/2016/07/op-ed.png)
 
 <hr>
 
