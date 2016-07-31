@@ -13,44 +13,44 @@ There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dicti
 
 <div class='responsive-container'><iframe src="https://www.youtube.com/embed/GkD20ajVxnY" allowfullscreen></iframe></div>
 
-<div class="center"><i>He said the way my blue eyes shined<br>
+<div class="center"><p><i>He said the way my blue eyes shined<br>
 Put those Georgia stars to shame that night<br>
-I said: "That's a lie."</i></div>
+I said: "That's a lie."</i></p></div>
 
 “Tim McGraw” is easily the best song on Swift’s 2008 eponymous debut album. In the song, Taylor reminisces over moments with her boyfriend who’s going off to college. The lyrics are rough and raw, but surprisingly mature. I shiver a bit every time I hear “The moon like a spotlight on the lake.” Don’t miss the music video for “Tim McGraw.” It’s cheesy in all the right ways and there’s this shot of Taylor leaning against a rustic fence with leaves all around her while playing the guitar that is honestly too perfect.
 
 ## 2. White Horse
 
-<div class='responsive-container'><iframe src='http://www.youtube.com/embed/D1Xr-JFLxik'  allowfullscreen></iframe></div>
+<div class='responsive-container'><iframe src='https://www.youtube.com/embed/D1Xr-JFLxik'  allowfullscreen></iframe></div>
 
-<div class="center"><i>I'm not a princess, this ain't a fairy tale,<br>
+<div class="center"><p><i>I'm not a princess, this ain't a fairy tale,<br>
 I'm not the one you'll sweep off her feet,<br>
-Lead her up the stairwell.</i></div>
+Lead her up the stairwell.</i></p></div>
 
 Off Taylor’s second studio album Fearless, “White Horse” has brought me close to tears many, many times. It’s emotional from start to finish, but listen for that moment when the instruments drop off and it’s just Taylor; you will never forget that moment. I’ve forgotten everything about the day my little brother was born. I’ve forgotten to call my mom so many times (I’ll call you tomorrow mom, I promise). But this moment, this is something that I will never forget.
 
 ## 3. Enchanted
 
-<div class="center"><i>There I was again tonight<br>
+<div class="center"><p><i>There I was again tonight<br>
 Forcing laughter, faking smiles<br>
-Same old tired lonely place</i></div>
+Same old tired lonely place</i></p></div>
 
 “Enchanted” from Taylor’s third studio album *Speak Now*, is hands down my favorite. The first 13 seconds are magical. I have no idea what synthesizer/instrument makes that sound, but it's *amazing*.
 
 ## 4. Everything Has Changed
 
-<div class='responsive-container'><iframe src='http://www.youtube.com/embed/w1oM3kQpXRo'  allowfullscreen></iframe></div>
+<div class='responsive-container'><iframe src='https://www.youtube.com/embed/w1oM3kQpXRo'  allowfullscreen></iframe></div>
 
-<div class="center"><i>And all I feel in my stomach is butterflies<br>
+<div class="center"><p><i>And all I feel in my stomach is butterflies<br>
 The beautiful kind, making up for lost time,<br>
-Taking flight, making me feel right.</i></div>
+Taking flight, making me feel right.</i></p></div>
 
 “Everything has Changed,” a collaboration with the fiery Ed Sheeran on Taylor’s fourth studio album Red, is a moment when 2 plus 2 really does equal 5. The warmth of Ed’s voice and the treble of Taylor’s pair to create something as tender and delicate—in the best way—as a warm brioche.
 
 ## 5. Dark Blue Tennessee
 
-<div class="center"><i>She almost called him on the night that he wrote<br>
-These simple words on his goodbye note.</i></div>
+<div class="center"><p><i>She almost called him on the night that he wrote<br>
+These simple words on his goodbye note.</i></p></div>
 
 Because “Dark Blue Tennessee” was never officially released, the only way to listen to it is on YouTube with that terrible pitch shifting. In spite of that, the song still shines. It’s perhaps the most country of any song on this list. Taylor’s voice has a little twang, and the instrumentation is unapologetically small-town southern.
 
