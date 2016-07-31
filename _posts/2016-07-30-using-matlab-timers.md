@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waiting on MATLAB Timer Objects
+title: <code>Wait()</code> on MATLAB Timer Objects
 ---
 
 Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling code to run at a certain rate.
