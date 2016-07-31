@@ -40,7 +40,7 @@ Turn out, it's just this simple:
 wait(t)
 </code></pre>
 
-Add <pre>wait()</pre>, and MATLAB will not continue executing code until the timer has finished.
+Add <code>wait()</code>, and MATLAB will not continue executing code until the timer has finished.
 
 [timer object]: http://www.mathworks.com/help/matlab/ref/timer-class.html
 
