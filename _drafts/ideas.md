@@ -1,6 +1,6 @@
 Blog posts to write
+
 Different kinds of material design scrollbars
-improve linked experience by disabling messaging from linked premium
 horizontally scrolling nav bar: affordances through pure css
 
 CSS HTML cleaning up/styling
