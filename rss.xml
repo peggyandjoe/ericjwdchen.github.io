@@ -7,10 +7,10 @@ sitemap:
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <link href="{{ site.url }}{{ site.baseurl }}atom.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}"/>
+ <link href="{{ site.header }}{{ site.url }}{{ site.baseurl }}atom.xml" rel="self"/>
+ <link href="{{ site.header }}{{ site.url }}{{ site.baseurl }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>{{ site.header }}{{ site.url }}</id>
  <author>
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
@@ -19,9 +19,9 @@ sitemap:
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
+   <link href="{{ site.header }}{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
+   <id>{{ site.header }}{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
