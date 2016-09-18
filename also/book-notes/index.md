@@ -4,11 +4,25 @@ title: Book Notes
 weight: 2
 ---
 
-## [God and Man at Yale][Gamay - Amazon]
+## [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]
 
 #### "Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."
 
+![A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing](/assets/2016/09/randomwalk.jpg){: .img-right}
 
+More than anything else, the highest praise that can be given for *A Random Walk Down Wall Street* is that it is a no-nonsense book. Burton Malkiel advocates that index-based investing ought to form the core of most every individual investor's portfolio. No more stock-picking, investment advisors, or hot gossip about which tech company will be the Facebook from your buddy at the golf course.
+
+Here is one analogy that I always come back to when thinking about how ludicrous it is that more investors don't practice low-fee, index investing. There are millions of active traders in the stock market: traders for big Wall Street banks, mutual fund and hedge fund managers, and many day-traders at home. To think that by spending 5 hours a week reading Forbes and Yahoo Finance gives you enough information to beat the professionals is a little like thinking that you can play in the NBA by practicing 5 hours a week.
+
+Stock trading is a zero-sum game. Every winner who buys an underpriced security needs a schlub on the other end selling an underpriced security. Every winner who sells an overpriced security needs a schlub on the other end buying an overpriced security. In fact, because of transaction fees, it is often the case that both traders are schlubs, and only the broker comes out ahead. So it's you against the professionals. You against LeBron James in a game of 1-on-1 to 10. You against Tiger Woods in 18-hole match play. Yes, you might get a lucky basket on LeBron, and you might chip in against Tiger to take a hole from him. But luck and skill should not be confused.
+
+It's also refreshing to see that the current edition of the book, the 11th, is a legitimate 11th edition. Too often, textbook publishers create new editions simply by rearranging chapters, reordering exercises, and changing the typesetting of the book—all without one material change to the actual content. In this edition, Malkiel addresses recent challenges to the Efficient-Market Hypothesis, such as behavioral finance and "smart beta." What's more, he includes recent economic data up through 2014, when this edition was published.
+
+[Random Walk - Amazon]: https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=sr_1_1?ie=UTF8&qid=1474225863&sr=8-1&keywords=random+walk
+
+## [God and Man at Yale][Gamay - Amazon]
+
+#### "Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."
 
 ![God and Man at Yale](/assets/2016/06/gamay.jpg){: .img-right}
 
