@@ -6,7 +6,7 @@ weight: 2
 
 ## [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]
 
-#### "Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."
+#### "...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life."
 
 ![A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing](/assets/2016/09/randomwalk.jpg){: .img-right}
 
