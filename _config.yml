@@ -6,15 +6,11 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Eric Chen
-url:              //ericjwdchen.org
+title:            Peggy & Joe
+url:              //peggyandjoe.com
 paginate:         5
 baseurl:          /
 header:           "http:"
-author:
-  name:           Eric Chen
-  url:            https://twitter.com/ericjwdchen_org
-  email:          eric@ericjwdchen.org
 
 gems:
   - jekyll-sitemap
