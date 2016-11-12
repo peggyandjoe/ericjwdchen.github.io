@@ -35,9 +35,9 @@ $max-page-width: 700px;
 
 body {
   margin: auto;
-  max-width: $max-page-width;
+  //max-width: $max-page-width;
   padding: 0;
-  width: $page-width;
+  //width: $page-width;
 }
 
 html {
@@ -186,10 +186,6 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-}
-
-code,
-pre {
   font-family: Consolas, Monaco, monospace;
   width: 100%;
 }
