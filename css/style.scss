@@ -272,28 +272,6 @@ article {
   clear: both;
 }
 
-/* Footnotes */
-.footnotes {
-  border-top: 1px solid $grey;
-  font-size: .8rem;
-}
-
-.pagination {
-  height: 2rem;
-}
-
-.pagination a {
-  display: block;
-  float: left;
-  height: auto;
-  margin-bottom: $large-spacing;
-  width: 50%;
-}
-
-.newer {
-  text-align: right;
-}
-
 /* Responsive iFrame Embeds (e.g. Youtube) */
 
 .responsive-container {
