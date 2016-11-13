@@ -155,11 +155,11 @@ header {
   border-bottom: 3px solid $grey;
   font-size: 1.2rem;
   margin: auto;
+  width: $page-width;
 }
 
 nav {
-  width: $page-width;
-  margin: auto;
+  
 }
 
 .nav-links {
