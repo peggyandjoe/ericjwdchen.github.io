@@ -29,7 +29,6 @@ $max-page-width: 700px;
 /* Body resets */
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
-
 * {
   box-sizing: border-box;
 }
@@ -260,10 +259,6 @@ tbody tr:nth-child(odd) th {
 * Each page is wrapped in `.page` and is only used on the page layout.
 */
 
-.page,
-article {
-  margin-bottom: $large-spacing;
-}
 
 [role=separator] {
   border-top: 3px solid $grey;
