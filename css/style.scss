@@ -165,7 +165,7 @@ header {
 }
 
 .nav-links a {
-  margin: 0 .2em;
+  margin-left: .5em;
 }
 
 @media (min-width: 600px) {
@@ -244,19 +244,6 @@ tbody tr:nth-child(odd) th {
   background-color: $light-grey;
 }
 
-/*
-* Posts and pages
-*
-* Each post is wrapped in 'article' and is used on default and post layouts.
-* Each page is wrapped in `.page` and is only used on the page layout.
-*/
-
-
-[role=separator] {
-  border-top: 3px solid $grey;
-  margin: $large-spacing 0;
-  clear: both;
-}
 
 /* Responsive iFrame Embeds (e.g. Youtube) */
 
