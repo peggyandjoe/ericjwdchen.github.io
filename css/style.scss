@@ -152,19 +152,21 @@ hr:after {
 /* Header */
 
 header {
-  border-bottom: 3px solid $grey;
   font-size: 1.2rem;
   margin: auto;
   width: $page-width;
 }
 
-nav {
-  
+.nav-wrapper {
+  display: table;
 }
 
 .nav-links {
   margin-bottom: 1rem;
-  text-transform: lowercase;
+  text-transform: uppercase;
+  display: table-cell;
+  width: 70%;
+  text-align: right;
 }
 
 .nav-links a {
