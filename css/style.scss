@@ -28,6 +28,7 @@ $max-page-width: 700px;
 
 
 /* Body resets */
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 
 * {
   box-sizing: border-box;
@@ -42,7 +43,7 @@ body {
 
 html {
   color: $text;
-  font: 110%/1.5 Georgia, serif;
+  font: 110%/1.5 'EB Garamond', serif;
 }
 
 @media (min-width: 600px) {
