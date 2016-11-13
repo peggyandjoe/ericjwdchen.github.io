@@ -52,7 +52,11 @@ html {
 
 header {
   font: 110%/1.5 'Lato', sans-serif;
+}
+
+header a {
   color: rgb(28, 28, 28);
+  text-decoration: none;
 }
 
 @media (min-width: 600px) {
