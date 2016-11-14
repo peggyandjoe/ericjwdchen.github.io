@@ -31,8 +31,17 @@ $max-page-width: 700px;
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 .slick-slide img {
-  padding: 10px;
 }
+
+
+.carousel-section {
+  background-color: rgba(203, 146, 134, 0.0980392);
+}
+
+.carousel {
+  width: 80%;
+}
+
 
 * {
   box-sizing: border-box;
