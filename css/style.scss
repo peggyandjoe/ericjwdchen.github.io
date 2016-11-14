@@ -40,6 +40,19 @@ $max-page-width: 700px;
 
 .carousel {
   width: 80%;
+  margin: auto;
+}
+
+.prev {
+  content: ">";
+  color: red;
+  font-size: 30px;
+}
+
+.next {
+  content: "<";
+  color: red;
+  font-size: 30px;
 }
 
 
