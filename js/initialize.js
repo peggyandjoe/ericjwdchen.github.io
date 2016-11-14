@@ -4,9 +4,8 @@ $(document).ready(function(){
     infinite: true,
     speed: 700,
     fade: true,
-    cssEase: 'linear',
+    cssEase: 'ease',
     autoplay: true,
     autoplaySpeed: 5000,
-    arrows: true
   });
 });
