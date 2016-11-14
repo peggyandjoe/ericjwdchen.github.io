@@ -34,14 +34,14 @@ $color-black: white;
 .slick-slide img {
 }
 
-.carousel-section {
+.image {
   position: relative;
   float: left;
   cursor: pointer;
   z-index: 0;
 }
 
-.carousel-section:before {
+.image {
   content: "";
   display: block;
   position: absolute;
