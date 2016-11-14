@@ -24,6 +24,7 @@ $text: rgba(0,0,0,.9);
 $large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 700px;
+$color-black: #111111;
 
 
 /* Body resets */
@@ -81,10 +82,11 @@ html {
 
 header {
   font: 110%/1.5 'Lato', sans-serif;
+  background-color: $color-black;
 }
 
 header a {
-  color: rgb(28, 28, 28);
+  color: rgb(221, 221, 221);
   text-decoration: none;
 }
 
