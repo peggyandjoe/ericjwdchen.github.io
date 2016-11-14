@@ -38,6 +38,7 @@ $color-black: white;
   position: relative;
   float: left;
   cursor: pointer;
+  z-index: 0;
 }
 
 .carousel-section:before {
@@ -109,6 +110,7 @@ header {
   font: 110%/1.5 'Lato', sans-serif;
   background-color: transparent;
   position: absolute;
+  z-index: 1;
 }
 
 header a {
