@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('.carousel').slick({
-    adaptiveHeight: false,
+    adaptiveHeight: true,
     infinite: true,
     speed: 700,
     fade: true,
@@ -9,6 +9,6 @@ $(document).ready(function(){
     autoplaySpeed: 5000,
     arrows: true,
     prevArrow: $('.prev'),
-    nextArrow: $('.next')
+    nextArrow: $('.next'),
   });
 });
