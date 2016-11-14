@@ -30,6 +30,10 @@ $max-page-width: 700px;
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+.slick-slide img {
+  padding = 10px;
+
+}
 
 * {
   box-sizing: border-box;
