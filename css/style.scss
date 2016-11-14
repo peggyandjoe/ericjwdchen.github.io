@@ -46,6 +46,10 @@ $color-black: white;
   margin: auto;
 }
 
+.carousel:before{
+  background: rgba(0,0,255, 0.5);
+}
+
 .prev {
   content: ">";
   color: red;
@@ -83,6 +87,7 @@ html {
 header {
   font: 110%/1.5 'Lato', sans-serif;
   background-color: $color-black;
+  position: absolute;
 }
 
 header a {
