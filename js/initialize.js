@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('.carousel').slick({
-    adaptiveHeight: true,
+    adaptiveHeight: false,
     infinite: true,
     speed: 700,
     fade: true,
