@@ -1,24 +1,22 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
-  {% include head.html %}
-  <body>
-    <header>
-      <nav class = "nav-wrapper">
-        <div class="site-title">
-          <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
-        </div>
-        <div class="nav-links">
-          {% for weight in (1..1) %} {% for p in site.pages %} {% if p.weight == weight %}
-          <a href="{{ p.url }}"> {{ p.title }}</a>
-          {% endif %} {% endfor %} {% endfor %}
-        </div>
-      </nav>
-    </header>
-    <main>
-      {{ content }}
-    </main>
-    <footer>
-      <p>peggyandjoe.com</p>
-    </footer>
-  </body>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include about.html %}
+
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% elsif site.contact == "disqus" %}
+    {% include contact_disqus.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
+
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
 </html>
