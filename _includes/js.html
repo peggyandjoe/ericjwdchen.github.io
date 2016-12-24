@@ -1,27 +1,30 @@
  <!-- jQuery Version 3.1.1 -->
- <script
- src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
- integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
- crossorigin="anonymous"></script>
+ <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
 
+<script type="text/javascript" src="http://peggyandjoe.com/slick/slick.min.js"></script>
+<script type="text/javascript">
+   $(document).ready(function(){
+     $('.carousel').slick({
+       adaptiveHeight: true,
+       infinite: true,
+       speed: 700,
+       fade: true,
+       cssEase: 'ease',
+       autoplay: true,
+       autoplaySpeed: 5000,
+       arrows: true,
+       dots: true,
+     });
+   });
+ </script>
 
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ "/js/bootstrap.min.js" }}"></script>
 
-    <script type="text/javascript" src="http://peggyandjoe.com/slick/slick.min.js"></script>
-    <script type="text/javascript">
-       $(document).ready(function(){
-         $('.carousel').slick({
-           adaptiveHeight: true,
-         });
-       });
-     </script>
+<!-- Plugin JavaScript -->
+<script src="{{ "/js/jquery.easing.min.js" }}"></script>
+<script src="{{ "/js/classie.js" }}"></script>
+<script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="{{ "/js/bootstrap.min.js" }}"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" }}"></script>
-    <script src="{{ "/js/classie.js" }}"></script>
-    <script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="{{ "/js/freelancer.js" }}"></script>
+<!-- Custom Theme JavaScript -->
+<script src="{{ "/js/freelancer.js" }}"></script>
