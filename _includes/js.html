@@ -1,6 +1,24 @@
  <!-- jQuery Version 1.11.0 -->
     <script src="{{ "/js/jquery-1.11.0.js" }}"></script>
 
+
+    <script type="text/javascript" src="http://peggyandjoe.com/slick/slick.min.js"></script>
+    <script type="text/javascript">
+       $(document).ready(function(){
+         $('.carousel').slick({
+           adaptiveHeight: true,
+           infinite: true,
+           speed: 700,
+           fade: true,
+           cssEase: 'ease',
+           autoplay: true,
+           autoplaySpeed: 5000,
+           arrows: true,
+           dots: true,
+         });
+       });
+     </script>
+
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" }}"></script>
 
