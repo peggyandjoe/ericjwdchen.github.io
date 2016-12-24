@@ -13,12 +13,24 @@
     <!--Add the new slick-theme.css if you want the default styling-->
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script type="text/javascript" src="slick/slick.min.js"></script>
-    <script type="text/javascript" src="js/initialize.js"></script>
-
+    <script type="text/javascript">
+       $(document).ready(function(){
+         $('.carousel').slick({
+           adaptiveHeight: true,
+           infinite: true,
+           speed: 700,
+           fade: true,
+           cssEase: 'ease',
+           autoplay: true,
+           autoplaySpeed: 5000,
+           arrows: true,
+           dots: true,
+         });
+       });
+     </script>
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "/style.css" }}">
