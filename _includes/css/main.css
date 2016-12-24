@@ -4,10 +4,16 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- .carousel {
-   width: 100%;
-   margin: auto;
- }
+.carousel {
+ width: 100%;
+ margin: auto;
+}
+
+img {
+ display: block;
+ margin: auto;
+ max-width: 100%;
+}
 
 body {
     overflow-x: hidden;
