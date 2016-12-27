@@ -4,15 +4,9 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
+
 .img-registry {
   max-width: 200px;
-  margin: auto;
-  display: inline-block;
-}
-
-
-.img-registry img {
-  width: 150px;
 }
 
 @media(min-width:992px) {
