@@ -10,18 +10,7 @@
 }
 
 @media(min-width:992px) {
-  .img-registry {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
 
-  .img-registry-left {
-    float: right;
-  }
-
-  .img-registry-right {
-    float: left;
-  }
 }
 
 .carousel {
