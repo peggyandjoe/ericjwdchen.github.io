@@ -7,11 +7,19 @@
 .img-registry {
 }
 
-@media(min-width:768px) {
+@media(min-width:992px) {
   .img-registry {
     margin-left: 1rem;
     margin-right: 1rem;
     max-width: 200px;
+  }
+
+  .img-registry-left {
+    float: right;
+  }
+
+  .img-registry-right {
+    float: left;
   }
 }
 
