@@ -7,6 +7,7 @@
 .img-registry {
   max-width: 200px;
   margin: auto;
+  display: inline-block;
 }
 
 @media(min-width:992px) {
