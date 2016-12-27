@@ -4,6 +4,17 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
+.img-registry {
+}
+
+@media(min-width:768px) {
+  .img-registry {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: 200px;
+  }
+}
+
 .carousel {
   width: 85%;
   margin: auto;
