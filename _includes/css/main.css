@@ -11,9 +11,10 @@
 }
 
 .bordered {
+  background-color: #{{ site.color.secondary-dark }};
   border: 1px solid;
   border-radius: 5px;
-  background-color: #{{ site.color.secondary-dark }};
+  margin: 12px;
 }
 
 .carousel {
