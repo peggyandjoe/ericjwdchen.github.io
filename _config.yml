@@ -1,10 +1,9 @@
 # Site settings
 title: Peggy and Joe
-email: your-email@domain.com
+email: peggyandjoe@peggyandjoe.com
 url: http://peggyandjoe.com
 description: "Peggy and Joe's Wedding."
-skills: "Testing 123"
-meta_author: LastName FirstName
+meta_author: Chen Peggy
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -25,7 +24,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Peggy Chen and Joe Lombardi
   location: Location
   social: Around the Web
   credits: Credits
