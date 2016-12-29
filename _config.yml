@@ -25,6 +25,7 @@ color:
 # Button names
 labels:
   button-book-hotel: Book
+  book-by: Book by
 
 # Footer settings
 footer:
