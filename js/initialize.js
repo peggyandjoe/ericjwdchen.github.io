@@ -1,9 +1,9 @@
 $(document).ready(function(){
   $('.carousel').slick({
     adaptiveHeight: true,
+    centerMode: true;
     infinite: true,
     speed: 700,
-    fade: true,
     cssEase: 'ease',
     autoplay: true,
     autoplaySpeed: 5000,
