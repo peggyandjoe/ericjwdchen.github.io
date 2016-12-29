@@ -27,7 +27,6 @@ p, div {
 .carousel {
   width: 85%;
   margin: auto;
-  max-width: 768px;
 }
 
 .mb-1 {
@@ -121,7 +120,7 @@ header {
   background: #{{ site.color.primary }};
 }
 
-header .container-fluid {
+header .container {
   padding-top: 100px;
   padding-bottom: 50px;
 }
@@ -145,7 +144,7 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
-  header .container-fluid {
+  header .container {
     padding-top: 200px;
     padding-bottom: 100px;
   }
