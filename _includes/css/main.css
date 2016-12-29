@@ -209,6 +209,19 @@ section.success {
   background: #{{ site.color.primary }};
 }
 
+
+section.secondary {
+  color: #fff;
+  background-color: #{{ site.color.secondary }};
+}
+
+
+
+section.secondary-dark {
+  color: #fff;
+  background-color: #{{ site.color.secondary-dark }};
+}
+
 @media(max-width:767px) {
   section {
     padding: 75px 0;
