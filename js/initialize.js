@@ -6,7 +6,6 @@ $(document).ready(function(){
     autoplaySpeed: 5000,
     cssEase: 'ease',
     dots: true,
-    lazyLoad: 'ondemand',
     infinite: true,
     slidesToShow: 1,
     speed: 700,
