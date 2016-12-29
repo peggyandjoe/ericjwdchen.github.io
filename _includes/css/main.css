@@ -27,6 +27,7 @@ p, div {
 .carousel {
   width: 85%;
   margin: auto;
+  max-width: 768px;
 }
 
 .mb-1 {
