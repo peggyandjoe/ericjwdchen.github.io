@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $('.carousel').slick({
     adaptiveHeight: true,
-    centerMode: true;
+    centerMode: true,
     infinite: true,
     speed: 700,
     cssEase: 'ease',
