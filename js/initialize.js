@@ -1,13 +1,12 @@
 $(document).ready(function(){
   $('.carousel').slick({
-    centerMode: true,
-    centerPadding: '60px',
-    slidesToShow: 2,
+    slidesToShow: 1,
     arrows: true,
     autoplay: true,
     autoplaySpeed: 5000,
     cssEase: 'ease',
     dots: true,
+    lazyLoad: 'ondemand',
     infinite: true,
     slidesToShow: 1,
     speed: 700,
