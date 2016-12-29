@@ -8,6 +8,10 @@ p, div {
   font-family: 'Libre Franklin', sans-serif;
 }
 
+.navbar-header {
+  font-family: 'Libre Baskerville', serif;
+}
+
 .img-registry {
   margin: auto;
   max-width: 200px;
