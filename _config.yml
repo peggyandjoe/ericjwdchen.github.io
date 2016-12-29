@@ -22,6 +22,10 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# Button names
+labels:
+  button-book-hotel: Book
+
 # Footer settings
 footer:
   copyright: Peggy Chen and Joe Lombardi
