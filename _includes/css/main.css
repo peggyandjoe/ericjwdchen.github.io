@@ -4,6 +4,10 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
+p, div {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
 .img-registry {
   margin: auto;
   max-width: 200px;
@@ -176,8 +180,6 @@ header .intro-text .skills {
 
 .navbar {
   text-transform: uppercase;
-  font-family: 'Libre Franklin', serif;
-  /*font-weight: 700;*/
 }
 
 .navbar a:focus {
