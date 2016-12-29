@@ -59,7 +59,7 @@ h4,
 h5,
 h6 {
   text-transform: uppercase;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: 700;
 }
 
@@ -125,7 +125,7 @@ header img {
 header .intro-text .name {
   display: block;
   text-transform: uppercase;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 2em;
   font-weight: 700;
 }
@@ -176,8 +176,8 @@ header .intro-text .skills {
 
 .navbar {
   text-transform: uppercase;
-  font-family: 'Cormorant Garamond', serif;
-  font-weight: 700;
+  font-family: 'Libre Franklin', serif;
+  /*font-weight: 700;*/
 }
 
 .navbar a:focus {
