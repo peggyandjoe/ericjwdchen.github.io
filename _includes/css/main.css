@@ -61,13 +61,18 @@ a.active {
 }
 
 h1,
-h2,
+h2 {
+  text-transform: uppercase;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+}
+
 h3,
 h4,
 h5,
 h6 {
   text-transform: uppercase;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Libre Franklin', sans-serif;
   font-weight: 700;
 }
 
