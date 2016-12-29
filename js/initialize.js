@@ -1,11 +1,11 @@
 $(document).ready(function(){
   $('.carousel').slick({
-    infinite: true,
-    speed: 700,
-    cssEase: 'ease',
+    arrows: true,
     autoplay: true,
     autoplaySpeed: 5000,
-    arrows: true,
+    cssEase: 'ease',
     dots: true,
+    infinite: true,
+    speed: 700,
   });
 });
