@@ -76,16 +76,16 @@ h6 {
 }
 
 hr {
-  margin: 15px auto 30px;
+  margin: 10px auto 30px;
   padding: 0;
-  max-width: 250px;
+  max-width: 200px;
   border: 0;
   border-top: solid 5px;
   text-align: center;
 }
 
 hr.star-light {
-  max-width: 400px;
+  max-width: 500px;
 }
 
 hr.star-light:after,
