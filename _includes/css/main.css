@@ -178,12 +178,7 @@ header .intro-text .name {
   text-transform: uppercase;
   /*font-family: 'Libre Baskerville', serif;*/
   font-size: 2em;
-  font-weight: 700;
-}
-
-header .intro-text .skills {
-  font-size: 1.25em;
-  font-weight: 300;
+  font-weight: 600;
 }
 
 @media(min-width:768px) {
@@ -194,10 +189,6 @@ header .intro-text .skills {
 
   header .intro-text .name {
     font-size: 4.75em;
-  }
-
-  header .intro-text .skills {
-    font-size: 1.75em;
   }
 }
 
@@ -259,7 +250,6 @@ section.success {
   color: #fff;
   background: #{{ site.color.primary }};
 }
-
 
 section.secondary {
   color: #fff;
