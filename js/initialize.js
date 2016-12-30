@@ -8,6 +8,6 @@ $(document).ready(function(){
     dots: true,
     infinite: true,
     slidesToShow: 1,
-    speed: 700,
+    speed: 500,
   });
 });
