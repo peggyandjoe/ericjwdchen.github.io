@@ -21,6 +21,7 @@ icons:
 labels:
   button-book-hotel: Book
   book-by: Book by
+  directions: Get Directions
 
 # Footer settings
 footer:
