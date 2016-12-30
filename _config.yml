@@ -23,6 +23,10 @@ color:
   secondary-dark: 233140 #A2122F
   off-white: rgba(203, 146, 134, 0.0980392)
 
+icons:
+  star: "<i class="fa fa-star"></i>"
+  star-half: "<i class="fa fa-star"></i>"
+
 # Button names
 labels:
   button-book-hotel: View
