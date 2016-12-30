@@ -122,6 +122,7 @@ hr.star-light {
   hr.star-light {
     max-width: 450px;
   }
+}
 
 hr.star-light:after,
 hr.star-primary:after {
