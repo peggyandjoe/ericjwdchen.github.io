@@ -178,12 +178,7 @@ header .intro-text .name {
   text-transform: uppercase;
   /*font-family: 'Libre Baskerville', serif;*/
   font-size: 2em;
-  font-weight: 600;
-}
-
-header .intro-text .skills {
-  font-size: 1.25em;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 @media(min-width:768px) {
