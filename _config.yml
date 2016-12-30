@@ -21,7 +21,7 @@ icons:
 labels:
   button-book-hotel: Book
   book-by: Book by
-  directions: Get Directions
+  directions: <i class="fa fa-map-marker"></i> Get Directions
   registry: <i class="fa fa-external-link"></i> View Registry
 
 # Footer settings
