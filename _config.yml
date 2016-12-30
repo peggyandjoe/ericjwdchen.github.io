@@ -22,6 +22,7 @@ labels:
   button-book-hotel: Book
   book-by: Book by
   directions: Get Directions
+  registry: View Registry
 
 # Footer settings
 footer:
