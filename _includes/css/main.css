@@ -124,6 +124,7 @@ hr.star-light {
   }
 }
 
+/*
 hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
@@ -134,15 +135,18 @@ hr.star-primary:after {
   font-family: FontAwesome;
   font-size: 2em;
 }
+*/
 
 hr.star-light {
   border-color: #fff;
 }
 
+/*
 hr.star-light:after {
   color: #fff;
   background-color: #{{ site.color.header-color }};
 }
+*/
 
 hr.star-primary {
   border-color: #{{ site.color.secondary }};
