@@ -160,7 +160,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   color: #fff;
-  background: {{ site.color.header-color }};
+  background-color: {{ site.color.header-color }};
 }
 
 header .container {
