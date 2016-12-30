@@ -141,7 +141,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #{{ site.color.primary }};
+  background-color: #{{ site.color.header-color }};
 }
 
 hr.star-primary {
