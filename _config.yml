@@ -25,7 +25,7 @@ color:
 
 icons:
   star: "<i class="fa fa-star"></i>"
-  star-half: "<i class="fa fa-star"></i>"
+  star-half: "<i class="fa fa-star-half"></i>"
 
 # Button names
 labels:
