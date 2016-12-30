@@ -22,7 +22,8 @@ h6 {
   font-family: 'Playfair Display SC';
 }
 
-.navbar-header {
+.navbar-header,
+.intro-text {
   font-family: 'Playfair Display SC';
 }
 
