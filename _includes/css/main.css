@@ -43,6 +43,11 @@ h6 {
   background-color: {{ site.color.off-white }};
 }
 
+.dark-grey {
+  background-color: {{ site.color.dark-grey }};
+}
+
+
 .carousel {
   width: 85%;
   margin: auto;
@@ -146,25 +151,6 @@ hr.star-primary:after {
 }
 */
 
-hr.star-light {
-  border-color: #fff;
-}
-
-/*
-hr.star-light:after {
-  color: #fff;
-  background-color: #{{ site.color.header-color }};
-}
-*/
-
-hr.star-primary {
-  border-color: #{{ site.color.secondary }};
-}
-
-hr.star-primary:after {
-  color: #{{ site.color.secondary }};
-  background-color: #fff;
-}
 
 .img-centered {
   margin: 0 auto;
@@ -173,7 +159,7 @@ hr.star-primary:after {
 header {
   text-align: center;
   color: #fff;
-  background-color: #{{ site.color.header-color }};
+  background-color: #{{ site.color.light-grey }};
 }
 
 header .container {
