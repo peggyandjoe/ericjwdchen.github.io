@@ -1,3 +1,5 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
-{% include css/lightgallery.min.css %}
+{% include css/lightgallery.css %}
+{% include css/lg-fb-comment-box.css %}
+{% include css/lg-transitions.css %}
