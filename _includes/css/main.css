@@ -28,6 +28,10 @@ p, div {
   margin: 10px;
 }
 
+.off-white {
+  background-color: {{ site.color.off-white }};
+}
+
 .carousel {
   width: 85%;
   margin: auto;
