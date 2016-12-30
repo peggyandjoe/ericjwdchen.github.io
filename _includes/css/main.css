@@ -115,8 +115,13 @@ hr {
 }
 
 hr.star-light {
-  max-width: 500px;
+  max-width: 250px;
 }
+
+@media(min-width:480px) {
+  hr.star-light {
+    max-width: 450px;
+  }
 
 hr.star-light:after,
 hr.star-primary:after {
