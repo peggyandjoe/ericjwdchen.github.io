@@ -7,7 +7,6 @@ $(document).ready(function(){
     cssEase: 'ease',
     dots: true,
     infinite: true,
-    slidesToShow: 1,
     speed: 500,
   });
 });
