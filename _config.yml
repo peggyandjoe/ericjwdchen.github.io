@@ -22,7 +22,7 @@ labels:
   button-book-hotel: Book
   book-by: Book by
   directions: Get Directions
-  registry: View Registry
+  registry: <i class="fa fa-external-link"></i> View Registry
 
 # Footer settings
 footer:
