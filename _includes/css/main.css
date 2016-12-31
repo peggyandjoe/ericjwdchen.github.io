@@ -6,14 +6,6 @@
 
 
 
-.single-photo {
-  position: relative;
-
-  border: 1px solid #333;
-  margin: 2%;
-  overflow: hidden;
-  width: 540px;
-}
 .single-photo img {
   max-width: 100%;
 
