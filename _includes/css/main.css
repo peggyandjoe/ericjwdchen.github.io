@@ -4,6 +4,16 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
+.photo-grid li {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.photo-grid img {
+  width: 100%;
+}
+
+
 p, div {
   font-family: 'Cardo';
 }
