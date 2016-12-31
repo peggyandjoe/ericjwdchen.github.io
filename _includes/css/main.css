@@ -4,8 +4,6 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
-
-
 .single-photo {
   overflow: hidden;
 }
@@ -30,7 +28,6 @@
 .photo-grid img {
   width: 100%;
 }
-
 
 p, div {
   font-family: 'Cardo';
