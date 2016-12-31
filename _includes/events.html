@@ -36,14 +36,14 @@
         <h3>Wedding Party</h3>
       </div>
     </div>
-    
+
     {% for person in site.data.wedding_party %}
     <div class="row">
-      <div class="col-sm-2 col-sm-offset-2 text-center">
+      <div class="col-sm-2 col-sm-offset-1 text-center">
         <img class="img-responsive" src="{{ person.href }}">
         <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
       </div>
-      <div class="col-sm-8">
+      <div class="col-sm-9">
         <p>{{ person.description }}</p>
       </div>
     </div>
