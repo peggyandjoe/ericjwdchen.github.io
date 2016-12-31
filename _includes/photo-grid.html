@@ -4,8 +4,8 @@
     <div class="photo-grid row">
       {% for image in site.static_files %}
         {% if image.path contains 'img/grid/thumbnails' %}
-        <a class="col-xs-6 col-sm-4 col-md-3 single-photo" href="img/grid/{{ image.name }}">
-          <img src="{{image.path}}" />
+        <a class="col-xs-6 col-sm-4 col-md-3 single-photo" href="img/grid/large/{{ image.name }}">
+          <img src="img/grid/thumbnails/{{ image.name }}" />
         </a>
         {% endif %}
       {% endfor %}
