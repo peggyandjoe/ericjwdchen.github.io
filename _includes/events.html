@@ -38,13 +38,21 @@
     </div>
 
     <div class="row mb-50">
-      <div class="col-sm-2 text-center col-sm-offset-2">
-        <img class="img-circle" src="img/square.jpg">
-        <p class="lead">Albert<br><small>Officiant?</small></p>
-      </div>
-      <div class="col-sm-8">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae eros a urna fermentum facilisis eu vitae ante. Vestibulum vestibulum sodales nisi. Aliquam erat volutpat. Fusce condimentum, dolor in sollicitudin maximus, ante sem sagittis dolor, at eleifend lectus ligula id libero. Proin scelerisque volutpat enim. Proin aliquet, ante ut mollis ornare, augue dui iaculis quam, in volutpat lorem quam quis velit.</p>
-      </div>
+        {% for person in site.data.wedding-party %}
+        <li>
+          <a href="https://github.com/{{ member.github }}">
+            {{ member.name }}
+          </a>
+        </li>
+
+        <div class="col-sm-2 text-center col-sm-offset-2">
+          <img class="img-responsive" src="{{ person.href }}">
+          <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
+        </div>
+        <div class="col-sm-8">
+          <p>{{ person.description }}</p>
+        </div>
+        {% endfor %}
     </div>
 
   </div>
