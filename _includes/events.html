@@ -38,7 +38,7 @@
     </div>
 
     {% for person in site.data.wedding_party %}
-    <div class="row">
+
       <div class="col-sm-2 text-center">
         <img class="img-responsive" src="{{ person.href }}">
         <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
@@ -46,7 +46,6 @@
       <div class="col-sm-4">
         <p>{{ person.description }}</p>
       </div>
-    </div>
     {% endfor %}
   </div>
 </div>
