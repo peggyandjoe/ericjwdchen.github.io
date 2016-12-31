@@ -3,26 +3,13 @@
   <div class="container">
     <ul class="photo-grid list-unstyled row">
 
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
+      {% for image in site.static_files %}
+      {% if image.path contains 'img/grid/thumbnails' %}
+      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/{{ image.name }}">
+        <img src="{{image.path}}" />
       </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/PeggyJoe_0001.jpg">
-        <img src="img/grid/thumbnails/PeggyJoe_0001.jpg" />
-      </li>
+      {% endif %}
+      {% endfor %}
+
     </ul>
-</section>
+  </section>
