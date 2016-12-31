@@ -6,6 +6,9 @@
 
 
 
+.single-photo {
+  overflow: hidden;
+}
 .single-photo img {
   max-width: 100%;
 
