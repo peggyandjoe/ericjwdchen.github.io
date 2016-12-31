@@ -1,15 +1,16 @@
 <!-- Photo Grid -->
 <section class="dark-grey" id="photo-grid">
   <div class="container">
-    <ul class="photo-grid list-unstyled row">
+    <div class="photo-grid row">
 
       {% for image in site.static_files %}
       {% if image.path contains 'img/grid/thumbnails' %}
-      <li class="col-xs-6 col-sm-4 col-md-3" data-src="img/grid/{{ image.name }}">
+      <a class="col-xs-6 col-sm-4 col-md-3" href="img/grid/{{ image.name }}">
         <img src="{{image.path}}" />
-      </li>
+      </a>
       {% endif %}
       {% endfor %}
 
-    </ul>
+    </div>
+  </div>
   </section>

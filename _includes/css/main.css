@@ -4,7 +4,7 @@
 * For details, see http://www.apache.org/licenses/LICENSE-2.0.
 */
 
-.photo-grid li {
+.photo-grid a {
   padding-top: 15px;
   padding-bottom: 15px;
 }
