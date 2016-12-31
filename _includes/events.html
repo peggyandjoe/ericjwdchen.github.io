@@ -37,14 +37,7 @@
       </div>
     </div>
 
-    <div class="row mb-50">
         {% for person in site.data.wedding_party %}
-        <li>
-          <a href="https://github.com/{{ member.github }}">
-            {{ member.name }}
-          </a>
-        </li>
-
         <div class="col-sm-2 text-center col-sm-offset-2">
           <img class="img-responsive" src="{{ person.href }}">
           <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
