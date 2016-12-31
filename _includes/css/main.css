@@ -19,9 +19,12 @@
   margin-bottom: 30px;
 }
 
+.single-photo {
+  overflow: hidden;
+}
+
 .photo-grid img {
   width: 100%;
-  overflow: hidden;
 }
 
 p, div {
