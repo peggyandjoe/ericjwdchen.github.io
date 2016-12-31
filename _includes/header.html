@@ -3,13 +3,12 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-
         <div class="carousel">
-          <div class="img-responsive"><img  src="img/slider/PeggyJoe_0012.jpg"></div>
-          <div class="img-responsive"><img  src="img/slider/PeggyJoe_0071.jpg"></div>
-          <div class="img-responsive"><img  src="img/slider/PeggyJoe_0091.jpg"></div>
-          <div class="img-responsive"><img  src="img/slider/PeggyJoe_0101.jpg"></div>
-          <div class="img-responsive"><img  src="img/slider/PeggyJoe_0131.jpg"></div>
+          {% for image in site.static_files %}
+            {% if image.path contains 'img/slider' %}
+              <div class="img-responsive"><img  src="img/slider/{{ image.name }}"></div>
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
 
