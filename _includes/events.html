@@ -36,8 +36,8 @@
         <h3>Wedding Party</h3>
       </div>
     </div>
-
-    {% for person in site.data.wedding_party %}
+    <div class="table-row">
+      {% for person in site.data.wedding_party %}
 
       <div class="col-sm-2 text-center">
         <img class="img-responsive" src="{{ person.href }}">
@@ -46,7 +46,7 @@
       <div class="col-sm-4">
         <p>{{ person.description }}</p>
       </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
-</div>
 </section>
