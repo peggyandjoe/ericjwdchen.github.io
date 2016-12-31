@@ -4,15 +4,6 @@
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-<!-- Smooth scroll -->
-<script src="/js/smooth-scroll.js"></script>
-
-<!-- Slick carousel -->
-<script type="text/javascript" src="/slick/slick.min.js"></script>
-<script type="text/javascript" src="/js/initialize.js"></script>
-
-<!-- Photo gallery Lightbox -->
-<script src="https://cdn.jsdelivr.net/g/lightgallery,lg-autoplay,lg-fullscreen,lg-hash,lg-pager,lg-share,lg-thumbnail,lg-video,lg-zoom"></script>
 
 <!-- Plugin JavaScript -->
 <script src="{{ "/js/classie.js" }}"></script>
@@ -21,15 +12,32 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/freelancer.js" }}"></script>
 
-<!-- Initialize Smooth Scroll -->
+<!-- Smooth scroll -->
+<script src="/js/smooth-scroll.js"></script>
+<script>smoothScroll.init();</script>
+
+<!-- Slick carousel -->
+<script type="text/javascript" src="/slick/slick.min.js"></script>
 <script>
-  smoothScroll.init();
+  $('.carousel').slick({
+    slidesToShow: 1,
+    arrows: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    cssEase: 'ease',
+    dots: true,
+    infinite: true,
+    speed: 500,
+  });
 </script>
 
-<!-- Initialize Lightbox -->
+<!-- Photo gallery Lightbox -->
+<script src="https://cdn.jsdelivr.net/g/lightgallery,lg-autoplay,lg-fullscreen,lg-hash,lg-pager,lg-share,lg-thumbnail,lg-video,lg-zoom"></script>
+
+<!-- Lightbox Photo Gallery -->
 <script>
   $('.photo-grid').lightGallery({
-      cssEasing : 'cubic-bezier(0.4, 0.0, 0.2, 1);',
+      cssEasing : 'ease',
       preload: 2,
       speed: 500
   });
