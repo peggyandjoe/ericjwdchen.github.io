@@ -38,14 +38,16 @@
     </div>
     <div class="row">
       {% for person in site.data.wedding_party %}
-      <div class="col-sm-6">
-      <div class="col-sm-4 text-center">
-        <img class="img-responsive" src="{{ person.href }}">
-        <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
-      </div>
-      <div class="col-sm-8">
-        <p>{{ person.description }}</p>
-      </div></div>
+        {% assign loopindex = forloop.index | modulo: 2 %}
+        {% if loopindex == 1 %}<div class="row">{% endif %}
+        <div class="col-sm-2 text-center">
+          <img class="img-responsive" src="{{ person.href }}">
+          <p class="lead">{{ person.name }}<br><small>{{ person.title }}</small></p>
+        </div>
+        <div class="col-sm-4">
+          <p>{{ person.description }}</p>
+        </div>
+        {% if loopindex != 1 %}</div>{% endif %}
       {% endfor %}
     </div>
   </div>
