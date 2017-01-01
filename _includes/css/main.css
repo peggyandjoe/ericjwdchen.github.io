@@ -9,6 +9,7 @@
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
+
 .single-photo:hover img {
   -moz-transform: scale(1.1);
   -webkit-transform: scale(1.1);
