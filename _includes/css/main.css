@@ -184,6 +184,12 @@ header .intro-text .name {
   font-weight: 400;
 }
 
+header .intro-text .hashtag {
+  display: block;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
 @media(min-width:768px) {
   header .container {
     padding-top: 200px;
